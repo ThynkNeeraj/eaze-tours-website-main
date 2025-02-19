@@ -8,7 +8,7 @@ export default function Blogs() {
     const blogs = blogData
     return (
         <>
-            <div className="mt-[78px] sm:mt-[165px] mx-8 mb-12">
+            <div className="mt-[78px] sm:mt-[165px] mx-auto mb-12 max-w-[1280px] w-full px-4">
                 <p className="text-[14px] text-gray-700 mt-4">
                     <span className="text-[#ccc] hover:text-[#035C7A]"><Link href="/" passHref>Home</Link></span> / Blog
                 </p>
@@ -20,7 +20,7 @@ export default function Blogs() {
                 </p>
             </div>
 
-            <div className="relative max-w-screen-xl mx-8 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
+            <div className="relative max-w-[1280px] mx-auto h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
                 style={{ backgroundImage: 'url("/images/gallery/6.jpg")' }}
             >
                 {/* Background overlay */}
@@ -33,7 +33,7 @@ export default function Blogs() {
                 </div>
             </div>
 
-            <div className="my-12 max-w-screen-xl mx-8">
+            <div className="my-12 max-w-[1280px] mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 m-1 place-items-center">
                     {blogs.map(blog => (
                         <div key={blog.Urlb}>
