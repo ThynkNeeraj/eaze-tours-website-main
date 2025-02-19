@@ -281,7 +281,7 @@ function Landing(props: ILandingProps) {
                 </div>
 
                 {/* Hover Boxes Slider */}
-                <div className="slider-container my-8 w-[317px] sm:w-full">
+                <div className="slider-container my-8 w-[317px] mx-auto sm:w-full">
                     <div className="slider relative overflow-hidden mx-auto">
                         <div className="slider-wrapper flex gap-4 sm:gap-0  transition-transform duration-300 ease-in-out" ref={infoSliderRef}>
                             {[{ id: 1, title: "India", content: "Explore the cultural diversity of India.", bg: "/images/india.png" },
@@ -348,7 +348,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Two Horizontal Boxes */}
-            <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-auto sm:flex-nowrap">
+            <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-8 sm:mx-auto sm:flex-nowrap">
                 {/* First Box */}
                 <div className="w-full sm:w-1/2 h-[430px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
                     {/* Extra div for zoom effect */}
@@ -398,13 +398,13 @@ function Landing(props: ILandingProps) {
 
 
             {/* Heading for the next section */}
-            <div className="my-12 max-w-[1280px] mx-auto">
+            <div className="my-12 max-w-[1280px] mx-8 sm:mx-auto">
                 <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
                     Popular Packages
                 </h2>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 max-w-[1280px] mx-auto">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 max-w-[1280px] mx-8 sm:mx-auto">
                 {packages.map(tourPackage => (
                     <div key={tourPackage.Id} className="h-full">
                         <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
@@ -594,7 +594,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Heading Before the Testimonial Slider */}
-            <div className="my-12 max-w-[1280px] mx-auto">
+            <div className="my-12 max-w-[1280px] mx-8 sm:mx-auto">
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
