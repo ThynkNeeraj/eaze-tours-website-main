@@ -224,7 +224,7 @@ function Landing(props: ILandingProps) {
                 <div className="swiper-button-prev hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", left: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
             </div>
             {/* Info Boxes Section with animation */}
-            <div className={`info-container flex justify-center gap-12 my-[70px] max-w-screen-xl mx-8 flex-wrap sm:flex-nowrap`}>
+            <div className={`info-container flex justify-center gap-12 my-[70px] max-w-screen-xl max-w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_1.png" alt="Info Icon 1" width={77} height={77} />
                     <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Book Your Tours Now!</h2>
@@ -260,7 +260,7 @@ function Landing(props: ILandingProps) {
 
             {/* Heading Before the Hover Slider */}
 
-            <div className="my-12 max-w-screen-xl mx-8 pt-[30px]">
+            <div className="my-12 max-w-[1280px] mx-auto pt-[30px]">
 
                 <div className="flex items-center mb-0 flex-wrap mx-4 justify-center gap-4 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black capitalize text-center sm:text-left" style={{ fontSize: '32px' }}>
@@ -269,7 +269,6 @@ function Landing(props: ILandingProps) {
 
 
                     {/* Arrow buttons */}
-
                     <div className="flex gap-4">
                         <button onClick={handlePrevInfoBox} className="bg-[#E4F8FF] text-2xl text-[#025C7A] py-[10px] px-5 rounded-full hover:bg-gray-700 hover:text-[#fff] transition-all duration-300">
                             &#10094;
@@ -341,7 +340,7 @@ function Landing(props: ILandingProps) {
 
             {/* Heading for the next section */}
 
-            <div className="my-12 max-w-screen-xl mx-8">
+            <div className="my-12 max-w-[1280px] mx-auto">
                 <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
                     Trip  Ideas To Inspire You
                 </h2>
@@ -349,7 +348,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Two Horizontal Boxes */}
-            <div className="flex flex-wrap justify-between gap-4 my-12 max-w-screen-xl mb-[120px] mx-8 sm:flex-nowrap">
+            <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-auto sm:flex-nowrap">
                 {/* First Box */}
                 <div className="w-full sm:w-1/2 h-[430px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
                     {/* Extra div for zoom effect */}
@@ -399,13 +398,13 @@ function Landing(props: ILandingProps) {
 
 
             {/* Heading for the next section */}
-            <div className="my-12 max-w-screen-xl mx-8">
+            <div className="my-12 max-w-[1280px] mx-auto">
                 <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
                     Popular Packages
                 </h2>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 mx-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 max-w-[1280px] mx-auto">
                 {packages.map(tourPackage => (
                     <div key={tourPackage.Id} className="h-full">
                         <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
@@ -422,7 +421,7 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
 
-            < div className="my-12 max-w-screen-xl mx-auto mx-8 sm:mx-auto" >
+            < div className="my-12 max-w-[1280px] mx-auto sm:mx-auto" >
                 <div className="flex text-center sm:text-left mb-4 flex-wrap justify-center gap-4 mx-8 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                         What Clients Say About Us
@@ -459,7 +458,7 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
             {/* New Section - Subscribe Section */}
-            <div className="max-w-screen-xl mx-8 h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }}>
+            <div className="max-w-[1280px] mx-auto h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }}>
                 <div className="w-[600px] bg-black p-8 pb-12 rounded-[23px] text-left">
                     <h2 className="text-white text-[40px] mb-4 font-semibold leading-[1.2em]">Subscribe & Get 20% off</h2>
                     <p className="text-white mb-6">Subscribe to our newsletter and get the latest updates and exclusive offers.</p>
@@ -495,7 +494,7 @@ function Landing(props: ILandingProps) {
                 </div>
             </div>
             {/* Gallery Section */}
-            <div className="w-full py-16 bg-white">
+            <div className="max-w-[1280px] mx-auto py-16 bg-white">
                 <div className="my-12 max-w-screen-xl mx-8">
                     <div className="flex justify-between items-center mb-8">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
@@ -571,7 +570,7 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
 
-            <div className="w-full bg-white">
+            <div className="max-w-[1280px] mx-auto bg-white">
                 <div className="my-12 max-w-screen-xl mx-8">
                     <div className="flex justify-between items-center mb-8">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
@@ -581,7 +580,7 @@ function Landing(props: ILandingProps) {
                 </div>
 
                 {/* Gallery Grid */}
-                <div className="grid grid-cols-5 justify-center items-center gap-8 max-w-screen-xl mx-8">
+                <div className="grid grid-cols-2 sm:grid-cols-5 justify-center items-center gap-8 max-w-screen-xl mx-8">
                     {[isoimage, msmeimage, latoimage, sepcimage, mtfoimage].map((imgSrc, index) => (
                         <div key={index} className="w-full aspect-square flex justify-center items-center">
                             <Image
@@ -595,7 +594,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Heading Before the Testimonial Slider */}
-            <div className="my-12 max-w-screen-xl mx-8">
+            <div className="my-12 max-w-[1280px] mx-auto">
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
