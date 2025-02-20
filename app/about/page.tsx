@@ -26,7 +26,7 @@ export default function About() {
   return (
     <>
       <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;600&display=swap" rel="stylesheet" />
-      <div className="mt-[135px] sm:mt-[165px] mx-8 mb-12">
+      <div className="mt-[135px] sm:mt-[165px] max-w-[1280px] mx-auto mb-12">
         <p className="text-[14px] text-gray-700 mt-4">
           <span className="font-[urbanist] text-[#ccc] hover:text-[#035C7A]">
             <Link href="/" passHref>Home</Link>
@@ -40,7 +40,7 @@ export default function About() {
         </p>
       </div>
 
-      <div className="relative mt-[10px] max-w-screen-xl mx-8 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center hidden sm:block"
+      <div className="relative mt-[10px] max-w-[1280px] mx-auto h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center hidden sm:block"
         style={{ backgroundImage: 'url("/images/gallery/8.jpg")' }}
       >
         {/* Background overlay */}
@@ -235,7 +235,7 @@ export default function About() {
       </div>
 
 
-      <div className={`info-container flex flex-col sm:flex-row justify-center gap-12 my-[70px] max-w-screen-xl mx-8 flex-wrap sm:flex-nowrap`}>
+      <div className={`info-container flex flex-col sm:flex-row justify-center gap-12 my-[70px] max-w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
         <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
           <Image src="/images/email.png" alt="Info Icon 1" width={77} height={77} />
           <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Email</h2>
