@@ -112,7 +112,7 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                     ))}
                 </div>
 
-                <div className={`info-container flex flex-col sm:flex-row justify-center gap-12 my-[70px] max-w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
+                <div className={`info-container flex flex-col sm:flex-row justify-center gap-12 my-[70px] sm:w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
                     <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
                         <Image src="/images/email.png" alt="Info Icon 1" width={77} height={77} />
                         <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Email</h2>
