@@ -7,7 +7,7 @@ export default function Testimonials() {
     const testimonials = testimonialData
     return (
         <div>
-            <div className="relative mt-[150px] max-w-screen-xl mx-8 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
+            <div className="relative mt-[150px] max-w-[1280px] mx-8 sm:mx-auto h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
                 style={{ backgroundImage: 'url("/images/gallery/5.jpg")' }}
             >
                 {/* Background overlay */}
