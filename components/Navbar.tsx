@@ -60,7 +60,7 @@ const NavBar: React.FC = () => {
                 <div
                     className={`bg-black text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`} style={{ display: displayStyle }}
                 >
-                    <div className="flex justify-between items-center text-xs md:text-sm w-full max-w-screen-xl">
+                    <div className="flex justify-between items-center text-xs md:text-sm w-full max-w-[1270px] mx-auto">
                         {/* Contact Details */}
                         <div className="flex gap-4">
                             <span className="flex items-center gap-2">
@@ -78,28 +78,38 @@ const NavBar: React.FC = () => {
                             </span>
                         </div>
                         {/* Social Icons */}
+
                         <div className="flex gap-2">
-                            <Link href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html" passHref>
-                                <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
-                                    <i className="fab fa-tripadvisor text-sm leading-lg" />
-                                </span>
-                            </Link>
-                            <Link href="https://www.instagram.com/eazetourpackages/" passHref>
-                                <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
-                                    <i className="fab fa-instagram text-sm leading-lg" />
-                                </span>
-                            </Link>
-                            <Link href="https://www.facebook.com/eazetour/" passHref>
-                                <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
-                                    <i className="fab fa-facebook text-sm leading-lg" />
-                                </span>
-                            </Link>
-                            <Link href="https://www.pinterest.com/eazetourpackages/" passHref>
-                                <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
-                                    <i className="fab fa-pinterest text-sm leading-lg" />
-                                </span>
-                            </Link>
+                            <a href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-tripadvisor text-sm leading-lg" />
+                            </a>
+
+                            <a href="https://www.instagram.com/eazetourpackages/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-instagram text-sm leading-lg" />
+                            </a>
+
+                            <a href="https://www.facebook.com/eazetour/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-facebook text-sm leading-lg" />
+                            </a>
+
+                            <a href="https://www.pinterest.com/eazetourpackages/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-pinterest text-sm leading-lg" />
+                            </a>
                         </div>
+
+
                     </div>
                 </div>
             </div>
