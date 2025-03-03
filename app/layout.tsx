@@ -20,6 +20,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import NavBar from '../components/Navbar';
 import Footer from '../components/Footer';
 import logo from "../public/images/logo.png";
+import CanonicalURL from 'src/components/CanonicalURL';
 
 const homePageJsonLd = {
   "@context": "https://schema.org",
@@ -68,6 +69,7 @@ export default function RootLayout({
           <meta name="author" content="Eaze Tours" />
           <meta name="google-site-verification" content="Onwjmct_4h7Zidg3dgn_ybMwxYsipyAREOHgDHawUKs" />
           <title>Eaze Tours</title>
+          <CanonicalURL />
         </Head>
         <body>
           <Script
