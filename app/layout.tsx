@@ -20,7 +20,6 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import NavBar from '../components/Navbar';
 import Footer from '../components/Footer';
 import logo from "../public/images/logo.png";
-import CanonicalURL from 'src/components/CanonicalURL';
 
 const homePageJsonLd = {
   "@context": "https://schema.org",
@@ -71,7 +70,6 @@ export default function RootLayout({
           <title>Eaze Tours</title>
         </Head>
         <body>
-          <CanonicalURL />
           <Script
               id="organization-schema"
               type="application/ld+json"
