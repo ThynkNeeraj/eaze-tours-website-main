@@ -69,9 +69,9 @@ export default function RootLayout({
           <meta name="author" content="Eaze Tours" />
           <meta name="google-site-verification" content="Onwjmct_4h7Zidg3dgn_ybMwxYsipyAREOHgDHawUKs" />
           <title>Eaze Tours</title>
-          <CanonicalURL />
         </Head>
         <body>
+          <CanonicalURL />
           <Script
               id="organization-schema"
               type="application/ld+json"
