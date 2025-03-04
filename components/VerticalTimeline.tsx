@@ -19,7 +19,7 @@ interface VerticalTimelineState {
 function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
     const packages = packageData.filter(tourPackage => tourPackage.Id <= 5 && tourPackage.Id > 1);
     return (
-        <div className="min-h-screen">
+        <div className="min-h-screen max-w-[1240px] mx-auto">
             <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
             <div className="mt-[135px] sm:mt-[165px] mx-8 mb-12">
                 <p className="text-[14px] text-gray-700 mt-4">
