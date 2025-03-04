@@ -19,6 +19,7 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import NavBar from '../components/Navbar';
 import Footer from '../components/Footer';
+import CanonicalURL from "../components/CanonicalURL";
 import logo from "../public/images/logo.png";
 
 const homePageJsonLd = {
@@ -77,6 +78,7 @@ export default function RootLayout({
               dangerouslySetInnerHTML={{ __html: JSON.stringify(homePageJsonLd) }}
             />
             <NavBar />
+          <CanonicalURL />
             <main>{children}</main>
             <Footer />
             <Analytics/>
