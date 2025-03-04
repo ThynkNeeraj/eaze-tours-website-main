@@ -71,26 +71,26 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                 </div>
 
                 <div className="flex flex-col sm:flex-row mx-8 gap-5">
-                    <div className="w-[70%] overflow-auto border-0 sm:border-2 rounded-[20px]">
+                    <div className="sm:w-[70%] overflow-auto border-0 sm:border-2 rounded-[20px]">
                         <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
-                            <h2 className="text-2xl font-[urbanist] font-bold text-black text-left mb-4">Overview</h2>
-                            <div className="text-[#4f5e71] font-[urbanist] font-[500] font-[16px] leading-[1.5em]">{tourPackage.Overview}</div>
+                            <h2 className="text-3xl font-[urbanist] font-bold text-black text-left mb-4">Overview</h2>
+                            <div className="text-[#4f5e71] font-[urbanist] font-[500] font-[16px] leading-[2em]">{tourPackage.Overview}</div>
                         </div>
                     </div>
-                    <div className="w-[30%] overflow-auto border-0 sm:border-2 border-[#6e9753] rounded-[20px] p-5">
+                    <div className="sm:w-[30%] overflow-auto border-0 border-2 border-[#6e9753] rounded-[20px] p-5">
                         <h2 className="text-2xl font-bold text-black mb-4">Enquiry Form</h2>
                         <form id="enquiry-form" onSubmit={onSubmit}>
-                            <div className="mb-4">
-                                <input type="text" name="name" placeholder="Name" className="input input-bordered w-full" value={enquiryName} onChange={(e) => setEnquiryName(e.target.value)} required />
+                            <div className="mb-2">
+                                <input type="text" name="name" placeholder="Name" className="input input-bordered w-full h-[35px]" value={enquiryName} onChange={(e) => setEnquiryName(e.target.value)} required />
                             </div>
-                            <div className="mb-4">
-                                <input type="email" name="email" placeholder="Email" className="input input-bordered w-full" value={email} onChange={(e) => setEmail(e.target.value)} required />
+                            <div className="mb-2">
+                                <input type="email" name="email" placeholder="Email" className="input input-bordered w-full h-[35px]" value={email} onChange={(e) => setEmail(e.target.value)} required />
                             </div>
-                            <div className="mb-4">
-                                <input type="text" name="subject" placeholder="Subject" className="input input-bordered w-full" value={subject} onChange={(e) => setSubject(e.target.value)} required />
+                            <div className="mb-2">
+                                <input type="text" name="subject" placeholder="Subject" className="input input-bordered w-full h-[35px]" value={subject} onChange={(e) => setSubject(e.target.value)} required />
                             </div>
-                            <div className="mb-4">
-                                <textarea name="message" placeholder="Message" className="textarea textarea-bordered w-full" value={message} onChange={(e) => setMessage(e.target.value)} required></textarea>
+                            <div className="mb-2">
+                                <textarea name="message" placeholder="Message" className="textarea textarea-bordered w-full h-[60px]" value={message} onChange={(e) => setMessage(e.target.value)} required></textarea>
                             </div>
                             <div>
                                 <button className="btn btn-primary w-full" type="submit">Send</button>
