@@ -1,45 +1,25 @@
-import React, { useState, FormEvent } from "react";
+import React from "react";
+
 import { PackageImageSwiper } from "./Images";
 import Image from 'next/image';
 import PackageSummaryCard from "./PackageSummaryCard";
 import Link from "next/link";
 import VerticalTimelineElement from './VerticalTimelineElement';
 import { IPackageDetailDataType } from "../types/Common";
-import packageData from '../data/packages.json';
+import packageData from '../data/packages.json'
 
 interface VerticalTimelineProp {
     tourPackage: IPackageDetailDataType;
 }
 
+interface VerticalTimelineState {
+
+}
+
 function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
-    const packages = packageData.filter(pkg => pkg.Id <= 5 && pkg.Id > 1);
-    const [enquiryName, setEnquiryName] = useState('');
-    const [email, setEmail] = useState('');
-    const [subject, setSubject] = useState('');
-    const [message, setMessage] = useState('');
-    const [showToast, setShowToast] = useState('hidden');
-
-    async function onSubmit(event: FormEvent<HTMLFormElement>) {
-        event.preventDefault();
-        await fetch('/api/email', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ name: enquiryName, email, subject, message }),
-        });
-
-        setEnquiryName('');
-        setEmail('');
-        setSubject('');
-        setMessage('');
-        setShowToast('');
-
-        setTimeout(() => {
-            setShowToast('hidden');
-        }, 5000);
-    }
-
+    const packages = packageData.filter(tourPackage => tourPackage.Id <= 5 && tourPackage.Id > 1);
     return (
-        <div className="min-h-screen max-w-[1240px] mx-auto">
+        <div className="min-h-screen">
             <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
             <div className="mt-[135px] sm:mt-[165px] mx-8 mb-12">
                 <p className="text-[14px] text-gray-700 mt-4">
@@ -70,33 +50,10 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                     <PackageImageSwiper source={tourPackage.Id}></PackageImageSwiper>
                 </div>
 
-                <div className="flex flex-col sm:flex-row mx-8 gap-5">
-                    <div className="sm:w-[70%] overflow-auto border-0 sm:border-2 rounded-[20px]">
-                        <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
-                            <h2 className="text-3xl font-[urbanist] font-bold text-black text-left mb-4">Overview</h2>
-                            <div className="text-[#4f5e71] font-[urbanist] font-[500] font-[16px] leading-[2em]">{tourPackage.Overview}</div>
-                        </div>
-                    </div>
-                    <div className="sm:w-[30%] overflow-auto border-0 border-2 border-[#6e9753] rounded-[20px] p-5">
-                        <h2 className="text-2xl font-bold text-black mb-4">Enquiry Form</h2>
-                        <form id="enquiry-form" onSubmit={onSubmit}>
-                            <div className="mb-2">
-                                <input type="text" name="name" placeholder="Name" className="input input-bordered w-full h-[35px]" value={enquiryName} onChange={(e) => setEnquiryName(e.target.value)} required />
-                            </div>
-                            <div className="mb-2">
-                                <input type="email" name="email" placeholder="Email" className="input input-bordered w-full h-[35px]" value={email} onChange={(e) => setEmail(e.target.value)} required />
-                            </div>
-                            <div className="mb-2">
-                                <input type="text" name="subject" placeholder="Subject" className="input input-bordered w-full h-[35px]" value={subject} onChange={(e) => setSubject(e.target.value)} required />
-                            </div>
-                            <div className="mb-2">
-                                <textarea name="message" placeholder="Message" className="textarea textarea-bordered w-full h-[60px]" value={message} onChange={(e) => setMessage(e.target.value)} required></textarea>
-                            </div>
-                            <div>
-                                <button className="btn btn-primary w-full" type="submit">Send</button>
-                            </div>
-                        </form>
-                        <div className={`mt-3 text-green-600 text-center ${showToast}`}>Your enquiry has been sent successfully!</div>
+                <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
+                    <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
+                        <h2 className="text-2xl font-[urbanist] font-bold text-black text-left mb-4">Overview</h2>
+                        <div className="text-[#4f5e71] font-[urbanist] font-[500] font-[16px] leading-[1.5em]">{tourPackage.Overview}</div>
                     </div>
                 </div>
 
@@ -123,59 +80,56 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                     </div>
                 </div>
 
+                <div className="my-12 max-w-screen-xl mx-8">
+                    <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
+                        Popular Packages
+                    </h2>
+                </div>
 
-            </div>
+                <div className="grid grid-cols-1 sm:grid-cols-4 gap-10 mx-8">
+                    {packages.map(tourPackage => (
+                        <div key={tourPackage.Id} className="h-full">
+                            <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
+                        </div>
+                    ))}
+                </div>
 
-            <div className="my-12 max-w-screen-xl mx-8">
-                <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
-                    Popular Packages
-                </h2>
-            </div>
-
-            <div className="grid grid-cols-1 sm:grid-cols-4 gap-10 mx-8">
-                {packages.map(tourPackage => (
-                    <div key={tourPackage.Id} className="h-full">
-                        <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
+                <div className={`info-container flex flex-col sm:flex-row justify-center gap-12 my-[70px] sm:w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
+                    <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
+                        <Image src="/images/email.png" alt="Info Icon 1" width={77} height={77} />
+                        <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Email</h2>
+                        <a href="mailto:info@eazetours.com" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            info@eazetours.com
+                        </a>
+                        <a href="mailto:harshit@eazetours.com" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            harshit@eazetours.com
+                        </a>
                     </div>
-                ))}
-            </div>
 
-            <div className={`info-container flex flex-col sm:flex-row justify-center gap-12 my-[70px] sm:w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
-                <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
-                    <Image src="/images/email.png" alt="Info Icon 1" width={77} height={77} />
-                    <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Email</h2>
-                    <a href="mailto:info@eazetours.com" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-                        info@eazetours.com
-                    </a>
-                    <a href="mailto:harshit@eazetours.com" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-                        harshit@eazetours.com
-                    </a>
-                </div>
+                    <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
+                        <Image src="/images/location.png" alt="Info Icon 3" width={77} height={77} />
+                        <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Location</h2>
+                        <a href="https://maps.app.goo.gl/H7RTSzRAnT3WYnjr9" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            Eaze House ~2nd Floor, RZP-146 <br /> Palam Colony, New Delhi, South West <br /> Delhi, 110075
+                        </a>
+                    </div>
 
-                <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
-                    <Image src="/images/location.png" alt="Info Icon 3" width={77} height={77} />
-                    <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Location</h2>
-                    <a href="https://maps.app.goo.gl/H7RTSzRAnT3WYnjr9" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-                        Eaze House ~2nd Floor, RZP-146 <br /> Palam Colony, New Delhi, South West <br /> Delhi, 110075
-                    </a>
-                </div>
-
-                <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
-                    <Image src="/images/phone.png" alt="Info Icon 2" width={77} height={77} />
-                    <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Phone</h2>
-                    <a href="tel:+919873186168" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-                        +91 98731 86168
-                    </a>
-                    <a href="tel:+919911684818" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-                        +91 98731 86818
-                    </a>
-                    <a href="tel:+919818006830" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-                        +91 98180 06830
-                    </a>
+                    <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
+                        <Image src="/images/phone.png" alt="Info Icon 2" width={77} height={77} />
+                        <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Phone</h2>
+                        <a href="tel:+919873186168" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            +91 98731 86168
+                        </a>
+                        <a href="tel:+919911684818" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            +91 98731 86818
+                        </a>
+                        <a href="tel:+919818006830" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            +91 98180 06830
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
-
 
     )
 }
