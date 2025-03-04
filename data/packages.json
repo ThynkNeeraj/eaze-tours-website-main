@@ -26,7 +26,7 @@
                         "S": "Delhi Sightseeing"
                     },
                     "description": {
-                        "S": "<div class='flex flex-col sm:flex-row gap-8 sm:gap-2'><div class='w-full sm:w-1/2 flex flex-col gap-2'><li><b>Morning tour of Old Delhi:</b></li><ul class='list-disc pl-6'><li>Drive past the historic Red Fort.</li><li>Visit Jama Masjid, India's largest mosque.</li><li>Enjoy a rickshaw ride through Chandni Chowk.</li><li>Visit Raj Ghat, the memorial to Mahatma Gandhi.</li></ul><li><b>Afternoon tour of New Delhi:</b></li><ul class='list-disc pl-6'><li>Visit Qutub Minar and the Iron Pillar.</li><li>Explore Humayun's Tomb.</li><li>Drive past India Gate and Rashtrapati Bhavan.</li></ul><li><b>Overnight stay in Delhi.</b></li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/1/10.jpg' alt='Travel Image' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
+                        "S": "<div class='flex flex-col gap-8 sm:gap-2'><div class='w-full grid grid-cols-2 grid-rows-2 gap-4 h-[500px]'><div class='w-full h-full overflow-hidden rounded-[20px]'><img src='/images/1/2.jpeg' alt='Travel Image' class='w-full h-full object-cover'></div><div class='w-full h-full overflow-hidden rounded-[20px]'><img src='/images/1/3.jpeg' alt='Travel Image' class='w-full h-full object-cover'></div><div class='w-full h-full overflow-hidden rounded-[20px]'><img src='/images/1/2.jpeg' alt='Travel Image' class='w-full h-full object-cover'></div><div class='w-full h-full overflow-hidden rounded-[20px]'><img src='/images/1/3.jpeg' alt='Travel Image' class='w-full h-full object-cover'></div></div><div class='w-full sm:w-1/2 flex flex-col gap-2'><li><b>Morning tour of Old Delhi:</b></li><ul class='list-disc pl-6'><li>Drive past the historic Red Fort.</li><li>Visit Jama Masjid, India's largest mosque.</li><li>Enjoy a rickshaw ride through Chandni Chowk.</li><li>Visit Raj Ghat, the memorial to Mahatma Gandhi.</li></ul><li><b>Afternoon tour of New Delhi:</b></li><ul class='list-disc pl-6'><li>Visit Qutub Minar and the Iron Pillar.</li><li>Explore Humayun's Tomb.</li><li>Drive past India Gate and Rashtrapati Bhavan.</li></ul><li><b>Overnight stay in Delhi.</b></li></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -273,7 +273,7 @@
                         "S": "Gangtok Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Morning Departure: After breakfast, head out for an excursion.</li><li>Destination: Visit Tshangu Lake, located 43 km away with a 3-hour journey one way.</li><li>Altitude & Depth: The lake sits at 12,400 ft (3,780 m) with an average depth of 50 ft.</li><li>Experience: Enjoy the cool waters and surrounding scenic beauty.</li><li>Return: Head back to Gangtok and spend the night at a hotel.</li>"
+                        "S": "<li><b>Morning Departure:</b> After breakfast, head out for an excursion.</li><li><b>Destination:</b> Visit Tshangu Lake, located 43 km away with a 3-hour journey one way.</li><li><b>Altitude & Depth:</b> The lake sits at 12,400 ft (3,780 m) with an average depth of 50 ft.</li><li><b>Experience:</b> Enjoy the cool waters and surrounding scenic beauty.</li><li><b>Return:</b> Head back to Gangtok and spend the night at a hotel.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -321,7 +321,7 @@
                         "S": "Explore Darjeeling"
                     },
                     "description": {
-                        "S": "<li>Depart early (around 4 AM) to Tiger Hills (8364 ft / 2550 m) for a sunrise view over Kanchendzonga Peak (weather permitting).</li><li>Return via Ghoom Monastery and Batasia Loop.</li><li>After breakfast, enjoy a half-day sightseeing tour including:</li><li>Japanese Temple & Peace Pagoda.</li><li>Padmaja Naidu Himalayan Zoological Park & Himalayan Mountaineering Institute (closed on Thursday).</li><li>Tenzing & Gombu Rock.</li><li>Tibetan Refugee Self-Help Center (closed on Sunday).</li><li>Tea Estate OR visit Rock Garden & Ganga Maya Lake.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<li>Depart early (around 4 AM) to Tiger Hills (8364 ft / 2550 m) for a sunrise view over Kanchendzonga Peak (weather permitting).</li><li>Return via Ghoom Monastery and Batasia Loop.</li><li>After breakfast, enjoy a half-day sightseeing tour including:</li><ul class='list-disc pl-6'><li>Japanese Temple & Peace Pagoda.</li><li>Padmaja Naidu Himalayan Zoological Park & Himalayan Mountaineering Institute (closed on Thursday).</li><li>Tenzing & Gombu Rock.</li><li>Tibetan Refugee Self-Help Center (closed on Sunday).</li><li>Tea Estate OR visit Rock Garden & Ganga Maya Lake.</li></ul><li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "5"
