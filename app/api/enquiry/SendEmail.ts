@@ -12,7 +12,7 @@ export async function POST(request: Request) {
 
     const { data, error } = await resend.emails.send({
       from: 'Website <site@eazetours.com>',
-      to: ["info@eazetours.com", enquiry_email],
+      to: ["thynk.rahul@gmail.com", enquiry_email],
       subject: "New Enquiry - " + request_data.subject,
       react: EmailTemplate({ firstname: request_data.firstname, lastname: request_data.lastname, email: request_data.email, phone: request_data.phone, subject: request_data.subject, message: request_data.message }),
     });
