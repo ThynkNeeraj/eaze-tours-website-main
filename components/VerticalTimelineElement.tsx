@@ -20,7 +20,7 @@ function VerticalTimelineElement({ time, title, description }: VerticalTimelineE
 
             <div className={timelineClass}>
                 <time className="text-[18px] font-bold font-[urbanist] pt-[8px]">Day {time} : {title}</time>
-                <ul className="list-disc ml-[-23px] pl-6 text-[#4f5e71] mt-4 font-[urbanist] font-[500] flex flex-col gap-2 font-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: description }}></ul>
+                <ul className="text-[#4f5e71] mt-4 font-[urbanist] font-[500] flex flex-col gap-2 font-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: description }}></ul>
             </div>
 
             <hr />
