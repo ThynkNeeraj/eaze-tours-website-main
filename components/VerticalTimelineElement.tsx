@@ -9,7 +9,7 @@ interface VerticalTimelineElementProp {
 
 function VerticalTimelineElement({ time, title, description }: VerticalTimelineElementProp) {
 
-    const timelineClass = parseInt(time) % 2 == 1 ? "timeline-end md:text-start mb-5 mt-5 ml-5" : "timeline-end md:text-start mb-5 mt-5 ml-5"
+    const timelineClass = parseInt(time) % 2 == 1 ? "timeline-end md:text-start mb-[70px] mt-5 ml-5" : "timeline-end md:text-start mb-[70px] mt-5 ml-5"
 
     return (
 
