@@ -58,7 +58,7 @@ const NavBar: React.FC = () => {
             {/* Pre-header */}
             <div className="hidden sm:block">
                 <div
-                    className={`bg-black text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`} style={{ display: displayStyle }}
+                    className={`bg-transparent text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`} style={{ display: displayStyle }}
                 >
                     <div className="flex justify-between items-center text-xs md:text-sm w-full max-w-[1270px] mx-auto">
                         {/* Contact Details */}
@@ -116,7 +116,7 @@ const NavBar: React.FC = () => {
 
             {/* Navbar */}
             <div
-                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300 border-b border-gray-300`}
+                className={`flex items-center w-full font-urbanist h-[78px] bg-transparent text-neutral transition-all duration-300`}
                 style={{ display: displayStyle }}
             >
                 <div
@@ -148,7 +148,7 @@ const NavBar: React.FC = () => {
                                         onClick={() => handleLinkClick(link.href)}
                                         className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
                                             ? "text-[#6E9753] text-[16px]"
-                                            : "text-[#025C7A] text-[16px]"
+                                            : "text-[#fff] text-[16px]"
                                             }`}
                                     >
                                         {link.label}
@@ -195,7 +195,7 @@ const NavBar: React.FC = () => {
                         <Link href="/contact" passHref>
                             <button
                                 onClick={handleContactClick}
-                                className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
+                                className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#000] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
                             >
                                 <span
                                     className="mr-2 text-white"
