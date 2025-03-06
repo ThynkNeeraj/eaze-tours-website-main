@@ -174,6 +174,7 @@ function Landing(props: ILandingProps) {
     return (
         <>
             <div className="mt-[78px] sm:mt-[135px]">
+
                 <Swiper
                     spaceBetween={30}
                     effect={"fade"}
@@ -187,41 +188,54 @@ function Landing(props: ILandingProps) {
                     pagination={{ clickable: true }}
                     modules={[EffectFade, Navigation, Pagination, Autoplay]}
                 >
-                    {[{ src: backgroundImage, heading: "Discover Your Next Adventure Create Memories", para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences." },
-                    { src: backgroundImage2, heading: "Discover Your Next Adventure Create Memories", para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences." },
-                    { src: backgroundImage3, heading: "Discover Your Next Adventure Create Memories", para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences." },
-                    { src: backgroundImage4, heading: "Discover Your Next Adventure Create Memories", para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences." },
+                    {[
+                        {
+                            src: "/video/Eaze_Web_Main.mp4",
+                            heading: "Discover Your Next Adventure Create Memories",
+                            para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences."
+                        },
                     ].map((slide, index) => (
                         <SwiperSlide key={index}>
                             <div className="relative h-[700px] w-full">
-                                <div className="absolute inset-0 bg-black opacity-30 z-10"></div>
+                                <div className="absolute inset-0 bg-black opacity-0 z-10"></div>
+
+                                {/* Background Video */}
                                 <div className="absolute inset-0 z-0">
-                                    <Image
-                                        src={slide.src}
-                                        alt="Background Image"
-                                        layout="fill"
-                                        objectFit="cover"
-                                        priority
-                                    />
+                                    <video
+                                        className="w-full h-full object-cover"
+                                        autoPlay
+                                        loop
+                                        muted
+                                        playsInline
+                                    >
+                                        <source src={slide.src} type="video/mp4" />
+                                        Your browser does not support the video tag.
+                                    </video>
                                 </div>
 
+                                {/* Content Overlay 
                                 <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 md:px-0">
                                     <h1 className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px] w-full sm:w-[90%]">
                                         {slide.heading}
                                     </h1>
-                                    <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">{slide.para}</p>
-                                    <a href="/contact"><button className="px-6 py-3 font-urbanist text-white font-semibold bg-transparent border-2 border-white rounded-full shadow-lg hover:shadow-xl hover:text-[#025C7A] hover:bg-[#fff] hover:border-[#025c7a] focus:outline-none focus:ring-4 focus:ring-blue-500 transform transition-transform hover:scale-105 duration-300 uppercase">
-                                        Contact Us
-                                    </button></a>
-                                </div>
+                                    <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">
+                                        {slide.para}
+                                    </p>
+                                    <a href="/contact">
+                                        <button className="px-6 py-3 font-urbanist text-white font-semibold bg-transparent border-2 border-white rounded-full shadow-lg hover:shadow-xl hover:text-[#025C7A] hover:bg-[#fff] hover:border-[#025c7a] focus:outline-none focus:ring-4 focus:ring-blue-500 transform transition-transform hover:scale-105 duration-300 uppercase">
+                                            Contact Us
+                                        </button>
+                                    </a>
+                                </div>*/}
                             </div>
                         </SwiperSlide>
                     ))}
                 </Swiper>
 
-                {/* Custom arrows, placed outside Swiper */}
+
+                {/* Custom arrows, placed outside Swiper 
                 <div className="swiper-button-next hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", right: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
-                <div className="swiper-button-prev hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", left: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
+                <div className="swiper-button-prev hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", left: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>*/}
             </div>
             {/* Info Boxes Section with animation */}
             <div className={`info-container flex justify-center gap-12 my-[70px] max-w-screen-xl max-w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
