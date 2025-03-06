@@ -173,7 +173,7 @@ function Landing(props: ILandingProps) {
 
     return (
         <>
-            <div className="mt-[78px] sm:mt-[135px]">
+            <div className="mt-[78px] sm:mt-[0px]">
 
                 <Swiper
                     spaceBetween={30}
