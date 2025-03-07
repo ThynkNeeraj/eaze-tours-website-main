@@ -21,7 +21,6 @@ import NavBar from '../components/Navbar';
 import Footer from '../components/Footer';
 import CanonicalURL from "../components/CanonicalURL";
 import logo from "../public/images/logo.png";
-import { Metadata } from "next";
 
 const homePageJsonLd = {
   "@context": "https://schema.org",
@@ -52,24 +51,6 @@ const homePageJsonLd = {
     }
   ]
 }
-
-
-
-export const metadata: Metadata = {
-title: "India Best Tour Packages for USA Travelers - Eaze Tours",
-description: "Explore incredible India with our trips to India packages. Eaze Tours offers the best India tours packages tailored for an unforgettable journey.",
-robots: {
-    index: true,
-    follow: true,
-    'max-snippet': -1,
-    'max-video-preview': -1,
-    'max-image-preview': 'large',
-     googleBot: {
-     index: true,
-     follow: true,
-    },
-  },
-};
 
 export default function RootLayout({
     children,
