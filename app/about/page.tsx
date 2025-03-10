@@ -4,12 +4,12 @@ import Image from 'next/image';
 import Link from "next/link";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { EffectFade, Autoplay } from "swiper/modules";
-
 import about1 from '../../public/images/gallery/18.jpg';
 import about2 from '../../public/images/gallery/28.jpg';
 import about3 from '../../public/images/gallery/30.jpg';
 import about4 from '../../public/images/gallery/6.jpg';
 import about5 from '../../public/images/gallery/13.jpg';
+
 
 const images = [
   '/images/gallery/12.jpg',
@@ -26,7 +26,7 @@ export default function About() {
   return (
     <>
       <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;600&display=swap" rel="stylesheet" />
-      <div className="mt-[135px] sm:mt-[165px] max-w-[1280px] mx-8 sm:mx-auto mb-12">
+      <div className="mt-[135px] sm:mt-[165px] max-w-[1280px] mx-8 mb-12">
         <p className="text-[14px] text-gray-700 mt-4">
           <span className="font-[urbanist] text-[#ccc] hover:text-[#035C7A]">
             <Link href="/" passHref>Home</Link>
@@ -40,7 +40,7 @@ export default function About() {
         </p>
       </div>
 
-      <div className="relative mt-[10px] max-w-[1280px] mx-auto h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center hidden sm:block"
+      <div className="relative mt-[10px] max-w-[1280px] mx-8 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center hidden sm:block"
         style={{ backgroundImage: 'url("/images/gallery/8.jpg")' }}
       >
         {/* Background overlay */}
