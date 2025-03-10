@@ -205,7 +205,6 @@ function Landing(props: ILandingProps) {
                                         className="w-full h-full object-cover"
                                         autoPlay
                                         loop
-                                        muted
                                         playsInline
                                     >
                                         <source src={slide.src} type="video/mp4" />
