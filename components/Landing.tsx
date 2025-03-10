@@ -66,7 +66,7 @@ function Landing(props: ILandingProps) {
 
         const restartVideo = () => {
             if (video.duration) {
-                video.currentTime = Math.max(0, video.duration - 3);
+                video.currentTime = Math.max(0, video.duration - 50);
                 video.play();
             }
         };
