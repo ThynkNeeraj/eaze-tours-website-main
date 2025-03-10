@@ -58,14 +58,14 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
                     <ul className="timeline timeline-snap-icon timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
                         <h2 className="text-2xl font-bold font-[urbanist] text-black text-left mb-4">What to Expect</h2>
-                        {tourPackage.Itinerary.map(itinerary => (
+                        {tourPackage.Itinerary.map((itinerary, index, array) => (
                             <li key={itinerary.M.Id.N}>
                                 <VerticalTimelineElement
                                     time={itinerary.M.day.N}
                                     title={itinerary.M.name.S}
                                     description={itinerary.M.description.S}
-                                >
-                                </VerticalTimelineElement>
+                                    isLast={index === array.length - 1} // Pass true if it's the last element
+                                />
                             </li>
                         ))}
                     </ul>
