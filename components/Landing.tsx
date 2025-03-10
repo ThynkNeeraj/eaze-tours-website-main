@@ -621,7 +621,7 @@ function Landing(props: ILandingProps) {
 
             <div className="max-w-[1280px] mx-auto bg-white">
                 <div className="my-12 max-w-screen-xl mx-8">
-                    <div className="flex justify-between items-center mb-8">
+                    <div className="flex justify-between items-center mt-[50px] mb-8">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
                             Our Accreditations & Certifications
                         </h2>
@@ -644,7 +644,7 @@ function Landing(props: ILandingProps) {
 
             {/* Heading Before the Testimonial Slider */}
             <div className="my-12 max-w-[1280px] mx-8">
-                <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
+                <h2 className="text-2xl font-semibold text-black mt-[100px]" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
 
