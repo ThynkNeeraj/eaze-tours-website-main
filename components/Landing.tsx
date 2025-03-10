@@ -190,7 +190,7 @@ function Landing(props: ILandingProps) {
                 >
                     {[
                         {
-                            src: "/video/Eaze_Web_Main.mp4",
+                            src: "/video/Eaze_Web3.mp4",
                             heading: "Discover Your Next Adventure Create Memories",
                             para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences."
                         },
