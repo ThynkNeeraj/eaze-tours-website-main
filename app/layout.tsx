@@ -17,10 +17,13 @@ import Script from 'next/script';
 import Head from 'next/head';
 import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import { usePathname } from 'next/navigation';
 import NavBar from '../components/Navbar';
+import LandingNavBar from '../components/LandingNavBar'; // Specific Navbar for Landing Page
 import Footer from '../components/Footer';
 import CanonicalURL from "../components/CanonicalURL";
 import logo from "../public/images/logo.png";
+import type { Metadata } from 'next';
 
 const homePageJsonLd = {
   "@context": "https://schema.org",
@@ -50,40 +53,67 @@ const homePageJsonLd = {
       "availableLanguage": "en"
     }
   ]
-}
+};
+
+const metadata: Metadata = {
+  robots: {
+    index: false,
+    follow: false,
+    nosnippet: true,
+    noarchive: true,
+    nocache: true,
+    noimageindex: true,
+    nositelinkssearchbox: true,
+    googleBot: {
+      index: false,
+      follow: false,
+      noimageindex: true,
+      nocache: true,
+      noarchive: true,
+      nosnippet: true,
+      nositelinkssearchbox: true,
+    },
+  },
+};
 
 export default function RootLayout({
-    children,
-  }: {
-    children: React.ReactNode
-  }) {
-    return (
-      <html lang="en">
-        <Head>
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1, shrink-to-fit=no"
-          />
-          <meta name="description" content="Making your Indian journey easy." />
-          <meta name="keywords" content="travel, tours, India, journey, itinerary" />
-          <meta name="author" content="Eaze Tours" />
-          <meta name="google-site-verification" content="Onwjmct_4h7Zidg3dgn_ybMwxYsipyAREOHgDHawUKs" />
-          <title>Eaze Tours</title>
-        </Head>
-        <body>
-          <Script
-              id="organization-schema"
-              type="application/ld+json"
-              strategy="beforeInteractive"
-              dangerouslySetInnerHTML={{ __html: JSON.stringify(homePageJsonLd) }}
-            />
-            <NavBar />
-          <CanonicalURL />
-            <main>{children}</main>
-            <Footer />
-            <Analytics/>
-            <SpeedInsights/>
-        </body>
-      </html>
-    )
-  }
+  children,
+}: {
+  children: React.ReactNode
+}) {
+  const pathname = usePathname(); // Get current route
+
+  return (
+    <html lang="en">
+      <Head>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+        <meta name="description" content="Making your Indian journey easy." />
+        <meta name="keywords" content="travel, tours, India, journey, itinerary" />
+        <meta name="author" content="Eaze Tours" />
+        <meta name="google-site-verification" content="Onwjmct_4h7Zidg3dgn_ybMwxYsipyAREOHgDHawUKs" />
+        <title>Eaze Tours</title>
+        <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;600&display=swap" rel="stylesheet" />
+      </Head>
+      <body>
+        <Script
+          id="organization-schema"
+          type="application/ld+json"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(homePageJsonLd) }}
+        />
+        <CanonicalURL />
+
+        {/* Conditionally Render NavBar */}
+        {pathname === '/' ? <LandingNavBar /> : <NavBar />}
+
+        <main>{children}</main>
+        <Footer />
+        <Analytics />
+        <SpeedInsights />
+      </body>
+    </html>
+  );
+}
