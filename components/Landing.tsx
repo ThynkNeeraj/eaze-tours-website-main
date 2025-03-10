@@ -45,6 +45,51 @@ function Landing(props: ILandingProps) {
     const [visibleBoxes, setVisibleBoxes] = useState(1);
     const boxWidth = useRef<number>(0);
     const infoSliderRef = useRef<HTMLDivElement>(null);
+    const [isMuted, setIsMuted] = useState(true);
+    const videoRef = useRef<HTMLVideoElement>(null);
+
+    const toggleAudio = () => {
+        if (videoRef.current) {
+            if (isMuted) {
+                videoRef.current.muted = false;
+                videoRef.current.play().catch(err => console.error("Autoplay failed", err));
+            } else {
+                videoRef.current.muted = true;
+            }
+            setIsMuted(videoRef.current.muted);
+        }
+    };
+
+    useEffect(() => {
+        const video = videoRef.current;
+        if (!video) return;
+
+        const restartVideo = () => {
+            if (video.duration) {
+                video.currentTime = Math.max(0, video.duration - 3);
+                video.play();
+            }
+        };
+
+        video.addEventListener("ended", restartVideo);
+        return () => video.removeEventListener("ended", restartVideo);
+    }, []);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            if (videoRef.current) {
+                const rect = videoRef.current.getBoundingClientRect();
+                if (rect.bottom < 0 || rect.top > window.innerHeight) {
+                    videoRef.current.muted = true;
+                    setIsMuted(true);
+                }
+            }
+        };
+
+        window.addEventListener("scroll", handleScroll);
+        return () => window.removeEventListener("scroll", handleScroll);
+    }, []);
+
     const slideToIndex = (sliderRef: React.RefObject<HTMLDivElement>, index: number) => {
         if (sliderRef.current) {
             sliderRef.current.style.transition = 'transform 0.4s ease-in-out';
@@ -188,13 +233,11 @@ function Landing(props: ILandingProps) {
                     pagination={{ clickable: true }}
                     modules={[EffectFade, Navigation, Pagination, Autoplay]}
                 >
-                    {[
-                        {
-                            src: "/video/Eaze_Web3.mp4",
-                            heading: "Discover Your Next Adventure Create Memories",
-                            para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences."
-                        },
-                    ].map((slide, index) => (
+                    {[{
+                        src: "/video/Eaze_Web3.mp4",
+                        heading: "Discover Your Next Adventure Create Memories",
+                        para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences."
+                    }].map((slide, index) => (
                         <SwiperSlide key={index}>
                             <div className="relative h-[700px] w-full">
                                 <div className="absolute inset-0 bg-black opacity-0 z-10"></div>
@@ -202,30 +245,23 @@ function Landing(props: ILandingProps) {
                                 {/* Background Video */}
                                 <div className="absolute inset-0 z-0">
                                     <video
+                                        ref={videoRef}
                                         className="w-full h-full object-cover"
                                         autoPlay
-                                        loop
                                         playsInline
+                                        muted={isMuted}
                                     >
                                         <source src={slide.src} type="video/mp4" />
                                         Your browser does not support the video tag.
                                     </video>
                                 </div>
 
-                                {/* Content Overlay 
-                                <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 md:px-0">
-                                    <h1 className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px] w-full sm:w-[90%]">
-                                        {slide.heading}
-                                    </h1>
-                                    <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">
-                                        {slide.para}
-                                    </p>
-                                    <a href="/contact">
-                                        <button className="px-6 py-3 font-urbanist text-white font-semibold bg-transparent border-2 border-white rounded-full shadow-lg hover:shadow-xl hover:text-[#025C7A] hover:bg-[#fff] hover:border-[#025c7a] focus:outline-none focus:ring-4 focus:ring-blue-500 transform transition-transform hover:scale-105 duration-300 uppercase">
-                                            Contact Us
-                                        </button>
-                                    </a>
-                                </div>*/}
+                                {/* Audio Toggle Button */}
+                                <button
+                                    onClick={toggleAudio}
+                                    className="absolute bottom-5 right-5 bg-white p-2 rounded-full shadow-lg text-black text-sm z-[100]">
+                                    {isMuted ? '🔇' : '🔊'}
+                                </button>
                             </div>
                         </SwiperSlide>
                     ))}
