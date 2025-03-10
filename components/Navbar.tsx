@@ -58,7 +58,7 @@ const NavBar: React.FC = () => {
             {/* Pre-header */}
             <div className="hidden sm:block">
                 <div
-                    className={`bg-transparent text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`} style={{ display: displayStyle }}
+                    className={`bg-black text-white h-[57px] py-[14px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`} style={{ display: displayStyle }}
                 >
                     <div className="flex justify-between items-center text-xs md:text-sm w-full max-w-[1270px] mx-auto">
                         {/* Contact Details */}
@@ -83,28 +83,28 @@ const NavBar: React.FC = () => {
                             <a href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white hover:bg-gray-300">
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
                                 <i className="fab fa-tripadvisor text-sm leading-lg" />
                             </a>
 
                             <a href="https://www.instagram.com/eazetourpackages/"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white hover:bg-gray-300">
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
                                 <i className="fab fa-instagram text-sm leading-lg" />
                             </a>
 
                             <a href="https://www.facebook.com/eazetour/"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white hover:bg-gray-300">
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
                                 <i className="fab fa-facebook text-sm leading-lg" />
                             </a>
 
                             <a href="https://www.pinterest.com/eazetourpackages/"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-transparent border border-white text-white text-black hover:bg-gray-300">
+                                className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
                                 <i className="fab fa-pinterest text-sm leading-lg" />
                             </a>
                         </div>
@@ -116,7 +116,7 @@ const NavBar: React.FC = () => {
 
             {/* Navbar */}
             <div
-                className={`flex items-center w-full font-urbanist h-[78px] bg-transparent text-neutral transition-all duration-300`}
+                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300 border-b border-gray-300`}
                 style={{ display: displayStyle }}
             >
                 <div
@@ -148,7 +148,7 @@ const NavBar: React.FC = () => {
                                         onClick={() => handleLinkClick(link.href)}
                                         className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
                                             ? "text-[#6E9753] text-[16px]"
-                                            : "text-[#fff] text-[16px]"
+                                            : "text-[#025C7A] text-[16px]"
                                             }`}
                                     >
                                         {link.label}
@@ -195,7 +195,7 @@ const NavBar: React.FC = () => {
                         <Link href="/contact" passHref>
                             <button
                                 onClick={handleContactClick}
-                                className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-transparent pr-[6px] pl-[10px] hover:bg-[#6E9753]"
+                                className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
                             >
                                 <span
                                     className="mr-2 text-white"
@@ -209,10 +209,9 @@ const NavBar: React.FC = () => {
                                 >
                                     Contact Us
                                 </span>
-                                <span className="relative w-8 h-8 flex items-center justify-center rounded-full bg-transparent border border-white">
-                                    <i className="fas fa-arrow-right text-[#fff] text-lg" />
+                                <span className="relative w-8 h-8 flex items-center justify-center rounded-full bg-white">
+                                    <i className="fas fa-arrow-right text-[#025C7A] text-lg " />
                                 </span>
-
                             </button>
                         </Link>
                     </div>
