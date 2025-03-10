@@ -239,14 +239,14 @@ function Landing(props: ILandingProps) {
                         para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences."
                     }].map((slide, index) => (
                         <SwiperSlide key={index}>
-                            <div className="relative h-[700px] w-full">
+                            <div className="relative sm:h-[700px] h-[300px] w-full">
                                 <div className="absolute inset-0 bg-black opacity-0 z-10"></div>
 
                                 {/* Background Video */}
                                 <div className="absolute inset-0 z-0">
                                     <video
                                         ref={videoRef}
-                                        className="w-full h-full object-cover"
+                                        className="w-full h-full object-cover "
                                         autoPlay
                                         playsInline
                                         muted={isMuted}
@@ -273,7 +273,7 @@ function Landing(props: ILandingProps) {
                 <div className="swiper-button-prev hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", left: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>*/}
             </div>
             {/* Info Boxes Section with animation */}
-            <div className={`info-container flex justify-center gap-12 my-[70px] max-w-screen-xl max-w-[1280px] mx-auto flex-wrap sm:flex-nowrap`}>
+            <div className={`info-container flex justify-center gap-12 my-[70px] max-w-screen-xl max-w-[1280px] sm:mx-8 flex-wrap sm:flex-nowrap`}>
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_1.png" alt="Info Icon 1" width={77} height={77} />
                     <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Book Your Tours Now!</h2>
@@ -309,7 +309,7 @@ function Landing(props: ILandingProps) {
 
             {/* Heading Before the Hover Slider */}
 
-            <div className="my-12 max-w-[1280px] mx-auto pt-[30px]">
+            <div className="my-12 max-w-[1280px] sm:mx-8 pt-[30px]">
 
                 <div className="flex items-center mb-0 flex-wrap mx-4 justify-center gap-4 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black capitalize text-center sm:text-left" style={{ fontSize: '32px' }}>
@@ -389,7 +389,7 @@ function Landing(props: ILandingProps) {
 
             {/* Heading for the next section */}
 
-            <div className="my-12 max-w-[1280px] mx-auto">
+            <div className="my-12 max-w-[1280px] sm:mx-8">
                 <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
                     Trip  Ideas To Inspire You
                 </h2>
@@ -397,7 +397,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Two Horizontal Boxes */}
-            <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-8 sm:mx-auto sm:flex-nowrap">
+            <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-8 sm:flex-nowrap">
                 {/* First Box */}
                 <div className="w-full sm:w-1/2 h-[430px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
                     {/* Extra div for zoom effect */}
@@ -447,13 +447,13 @@ function Landing(props: ILandingProps) {
 
 
             {/* Heading for the next section */}
-            <div className="my-12 max-w-[1280px] mx-8 sm:mx-auto">
+            <div className="my-12 max-w-[1280px] mx-8">
                 <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
                     Popular Packages
                 </h2>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 max-w-[1280px] mx-8 sm:mx-auto">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 max-w-[1280px] mx-8">
                 {packages.map(tourPackage => (
                     <div key={tourPackage.Id} className="h-full">
                         <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
@@ -470,7 +470,7 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
 
-            < div className="my-12 max-w-[1280px] mx-auto sm:mx-auto" >
+            < div className="my-12 max-w-[1280px] mx-8 sm:mx-auto" >
                 <div className="flex text-center sm:text-left mb-4 flex-wrap justify-center gap-4 mx-8 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                         What Clients Say About Us
@@ -487,7 +487,7 @@ function Landing(props: ILandingProps) {
                     </div>
                 </div>
                 <div className="testimonial-slider-container mb-12 relative">
-                    <div className="testimonial-slider relative overflow-hidden mx-8 sm:mx-4">
+                    <div className="testimonial-slider relative overflow-hidden mx-auto sm:mx-4">
                         <div className="testimonial-slider-wrapper flex transition-transform duration-300 ease-in-out" ref={testimonialSliderRef}>
                             {testimonials.map(testimonial => (
                                 <div className="carousel-item flex flex-col w-[calc(100%-24px)] sm:w-[392px] p-3" key={testimonial.Id}>
@@ -507,7 +507,7 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
             {/* New Section - Subscribe Section */}
-            <div className="max-w-[1280px] mx-auto h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }}>
+            <div className="max-w-[1280px] mx-8 h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }}>
                 <div className="w-[600px] bg-black p-8 pb-12 rounded-[23px] text-left">
                     <h2 className="text-white text-[40px] mb-4 font-semibold leading-[1.2em]">Subscribe & Get 20% off</h2>
                     <p className="text-white mb-6">Subscribe to our newsletter and get the latest updates and exclusive offers.</p>
@@ -643,7 +643,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Heading Before the Testimonial Slider */}
-            <div className="my-12 max-w-[1280px] mx-8 sm:mx-auto">
+            <div className="my-12 max-w-[1280px] mx-8">
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
