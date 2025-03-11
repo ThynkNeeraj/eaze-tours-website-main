@@ -18,8 +18,9 @@ function VerticalTimelineElement({ time, title, description, isLast }: VerticalT
 
             <div className={timelineClass}>
                 <time className="text-[18px] font-bold font-[urbanist] pt-[8px]">Day {time} : {title}</time>
-                <ul className="text-[#4f5e71] mt-4 font-[urbanist] font-[500] flex flex-col gap-2 text-[16px] leading-[1.5em]"
-                    dangerouslySetInnerHTML={{ __html: description }}></ul>
+                <ul className="text-[#4f5e71] text-justify break-words mt-4 font-[urbanist] font-[500] flex flex-col gap-2 text-[16px] leading-[1.5em]"
+                    dangerouslySetInnerHTML={{ __html: description }}>
+                </ul>
             </div>
 
             {/* Conditionally render <hr /> only if it's NOT the last item */}
