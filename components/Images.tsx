@@ -359,7 +359,7 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                         />
                         {/* View All Button - Positioned at Bottom Right */}
                         <button
-                            className="absolute bottom-4 right-4 px-3 py-1 bg-black/40 border-2 border-white text-white text-lg rounded-md hover:bg-[#025C7A]"
+                            className="absolute bottom-4 right-4 px-3 py-1 bg-black/40 border-2 border-white text-white text-sm rounded-md hover:bg-[#025C7A]"
                             onClick={() => setIsModalOpen(true)}
                         >
                             View All
