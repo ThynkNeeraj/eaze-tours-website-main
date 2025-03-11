@@ -53,7 +53,7 @@ export default function ContactForm() {
         {/* Map Section */}
         <div className="flex-1">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448388.6391695161!2d76.50468547343748!3d28.598689499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1b009d97262b%3A0x974017a2b36f00ef!2sEasy%20India%20Tour!5e0!3m2!1sen!2sin!4v1741692959606!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.667004282742!2d77.0722994745707!3d28.579760486476783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1aff95555555%3A0x2e6bde5eb7345a17!2sEaze%20Tours!5e0!3m2!1sen!2sin!4v1741698612672!5m2!1sen!2sin"
             width="100%"
             height="480"
             style={{ border: 0, borderRadius: 25 }}
