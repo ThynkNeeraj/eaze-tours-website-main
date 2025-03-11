@@ -1,18 +1,23 @@
-import React from "react";
+import React, { useState } from "react";
 import Image, { StaticImageData } from 'next/image'
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { EffectFade, Navigation, Pagination, Autoplay } from "swiper/modules";
 
-import package_1_1 from '../public/images/1/1.jpeg'
-import package_1_2 from '../public/images/1/2.jpeg'
-import package_1_3 from '../public/images/1/3.jpeg'
-import package_1_4 from '../public/images/1/4.jpeg'
+import package_1_1 from '../public/images/1/1.jpg'
+import package_1_2 from '../public/images/1/2.jpg'
+import package_1_3 from '../public/images/1/3.jpg'
+import package_1_4 from '../public/images/1/4.jpg'
 import package_1_5 from '../public/images/1/5.jpeg'
-import package_1_6 from '../public/images/1/6.jpeg'
-import package_1_7 from '../public/images/1/7.jpeg'
-import package_1_8 from '../public/images/1/8.jpeg'
-import package_1_9 from '../public/images/1/9.jpeg'
+import package_1_6 from '../public/images/1/6.jpg'
+import package_1_7 from '../public/images/1/7.jpg'
+import package_1_8 from '../public/images/1/8.jpg'
+import package_1_9 from '../public/images/1/9.jpg'
+import package_1_10 from '../public/images/1/10.jpg'
+import package_1_11 from '../public/images/1/11.jpg'
+import package_1_12 from '../public/images/1/12.jpeg'
+import package_1_13 from '../public/images/1/13.jpg'
+import package_1_14 from '../public/images/1/14.jpg'
 import package_2_1 from '../public/images/2/1.jpeg'
 import package_2_2 from '../public/images/2/2.jpeg'
 import package_2_3 from '../public/images/2/3.jpeg'
@@ -249,7 +254,7 @@ interface IPackageImageProp {
 }
 
 const package_images: { [key: string]: { main: StaticImageData, list: Array<StaticImageData> } } = {
-    "1": { main: package_1_5, list: [package_1_1, package_1_2, package_1_3, package_1_4, package_1_5, package_1_6, package_1_7, package_1_8, package_1_9] },
+    "1": { main: package_1_5, list: [package_1_1, package_1_2, package_1_3, package_1_4, package_1_5, package_1_6, package_1_7, package_1_8, package_1_9, package_1_10, package_1_11, package_1_12, package_1_13, package_1_14] },
     "2": { main: package_2_1, list: [package_2_1, package_2_2, package_2_3, package_2_4, package_2_5, package_2_6, package_2_7, package_2_8,] },
     "3": { main: package_2_8, list: [package_2_4, package_2_6, package_2_7, package_2_2] },
     "4": { main: package_4_1, list: [package_4_1, package_4_2, package_4_3, package_4_4, package_4_5, package_4_6, package_4_7, package_4_8, package_4_9, package_4_10, package_4_11, package_4_12, package_4_13, package_4_14,] },
@@ -306,38 +311,102 @@ function PackageImage({ source }: IPackageImageProp) {
 }
 
 function PackageImageSwiper({ source }: IPackageImageProp) {
+    const [isModalOpen, setIsModalOpen] = useState(false);
+    const [currentIndex, setCurrentIndex] = useState(0);
+    const images = package_images[source]["list"];
+
+    // Handle Next Image
+    const nextImage = () => {
+        setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
+    };
+
+    // Handle Previous Image
+    const prevImage = () => {
+        setCurrentIndex((prevIndex) =>
+            prevIndex === 0 ? images.length - 1 : prevIndex - 1
+        );
+    };
+
     return (
-
-        <div className="grid grid-cols-10 gap-x-6 max-w-screen-xl mx-8">
-            {/* Left Column (65%) */}
-            <div className="col-span-12 sm:col-span-7 h-full">
-                <Image
-                    src={package_images[source]["list"][0]}
-                    alt="Large Gallery Image"
-                    className="w-full h-[200px] sm:h-[424px] object-cover rounded-[23px]"
-                />
-            </div>
-
-            {/* Right Column (35%) with two stacked images */}
-            <div className="col-span-3 hidden flex-row sm:flex sm:flex-col gap-y-6 h-[400px]">
-                <div className="h-[50%]">
+        <>
+            {/* Image Grid */}
+            <div className="grid grid-cols-10 gap-x-6 max-w-screen-xl mx-8 relative">
+                {/* Left Column (65%) */}
+                <div className="col-span-12 sm:col-span-7 h-full">
                     <Image
-                        src={package_images[source]["list"][1]}
-                        alt="Small Top Image"
-                        className="w-full h-full object-cover rounded-[23px]"
+                        src={images[0]}
+                        alt="Large Gallery Image"
+                        className="w-full h-[200px] sm:h-[424px] object-cover rounded-[23px]"
                     />
                 </div>
-                <div className="h-[50%]">
-                    <Image
-                        src={package_images[source]["list"][2]}
-                        alt="Small Bottom Image"
-                        className="w-full h-full object-cover rounded-[23px]"
-                    />
+
+                {/* Right Column (35%) */}
+                <div className="col-span-3 hidden sm:flex flex-col gap-y-6 h-[400px]">
+                    <div className="h-[50%]">
+                        <Image
+                            src={images[1]}
+                            alt="Small Top Image"
+                            className="w-full h-full object-cover rounded-[23px]"
+                        />
+                    </div>
+
+                    {/* Bottom Image with View All Button */}
+                    <div className="h-[50%] relative">
+                        <Image
+                            src={images[2]}
+                            alt="Small Bottom Image"
+                            className="w-full h-full object-cover rounded-[23px]"
+                        />
+                        {/* View All Button - Positioned at Bottom Right */}
+                        <button
+                            className="absolute bottom-4 right-4 px-3 py-1 bg-black text-white text-lg rounded-md hover:bg-blue-700"
+                            onClick={() => setIsModalOpen(true)}
+                        >
+                            View All
+                        </button>
+                    </div>
                 </div>
             </div>
-        </div>
 
-    )
+            {/* Fullscreen Lightbox Modal */}
+            {isModalOpen && (
+                <div className="fixed inset-0 bg-black bg-opacity-90 flex justify-center items-center z-50">
+                    {/* Close Button */}
+                    <button
+                        className="absolute top-6 right-8 text-white text-3xl"
+                        onClick={() => setIsModalOpen(false)}
+                    >
+                        ✕
+                    </button>
+
+                    {/* Image Display */}
+                    <div className="relative w-[90%] max-w-3xl flex justify-center">
+                        <Image
+                            src={images[currentIndex]}
+                            alt={`Gallery Image ${currentIndex + 1}`}
+                            className="w-full h-auto max-h-[80vh] object-contain rounded-lg"
+                        />
+
+                        {/* Previous Button */}
+                        <button
+                            onClick={prevImage}
+                            className="absolute left-0 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 p-4 text-white rounded-full hover:bg-opacity-80"
+                        >
+                            ❮
+                        </button>
+
+                        {/* Next Button */}
+                        <button
+                            onClick={nextImage}
+                            className="absolute right-0 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 p-4 text-white rounded-full hover:bg-opacity-80"
+                        >
+                            ❯
+                        </button>
+                    </div>
+                </div>
+            )}
+        </>
+    );
 }
 
 export { PackageImage, PackageImageSwiper };
