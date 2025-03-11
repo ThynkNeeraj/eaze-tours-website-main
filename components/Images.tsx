@@ -7,7 +7,7 @@ import { EffectFade, Navigation, Pagination, Autoplay } from "swiper/modules";
 import package_1_1 from '../public/images/1/1.jpg'
 import package_1_2 from '../public/images/1/2.jpg'
 import package_1_3 from '../public/images/1/3.jpg'
-import package_1_4 from '../public/images/1/4.jpeg'
+import package_1_4 from '../public/images/1/4.jpg'
 import package_1_5 from '../public/images/1/5.jpeg'
 import package_1_6 from '../public/images/1/6.jpg'
 import package_1_7 from '../public/images/1/7.jpg'
