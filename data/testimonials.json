@@ -52,17 +52,10 @@
     },
     {
         "Id": 4,
-        "User": "Erika",
+        "User": "Erika & Karim",
         "Content": "Dear Manoj,\nGreat to meet you and to be in contact with you.\nThank you for your timely message and your willingness to accommodate to our schedule. Really\nappreciated!  We would like to thank you for your efficiency to make our tour so comfortable.\nLooking forwards to meeting you again in near future.",
         "Location": "Mexico city",
         "Img": "/images/female.svg"
-    },
-    {
-        "Id": 4,
-        "User": "Karim",
-        "Content": "Dear Manoj,\nGreat to meet you and to be in contact with you.\nThank you for your timely message and your willingness to accommodate to our schedule. Really\nappreciated!  We would like to thank you for your efficiency to make our tour so comfortable.\nLooking forwards to meeting you again in near future.",
-        "Location": "Mexico city",
-        "Img": "/images/male.svg"
     },
     {
         "Id": 15,
