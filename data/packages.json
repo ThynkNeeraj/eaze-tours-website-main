@@ -257,7 +257,7 @@
                         "S": "Arrival NJP Railway Station / (IXB) Bagdogra Airport – Gangtok"
                     },
                     "description": {
-                        "S": "<li>Arrive at NJP Railway Station or Bagdogra Airport (IXB) at 500 ft/150 m elevation.</li><li>Our office executive will greet you and assist with boarding your vehicle.</li><li>Travel to Gangtok (5500 ft/1677 m; 130 km; approx. 4 hrs).</li><li>Check in and stay overnight at the hotel.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Your journey begins with your arrival at NJP Railway Station or Bagdogra Airport (IXB), nestled at an elevation of 500 ft (150 m). Here, an office executive will warmly greet you and assist with your transfer to Gangtok, a scenic 130 km drive ascending to 5,500 ft (1,677 m). The approximately four-hour journey winds through lush landscapes, offering glimpses of the Eastern Himalayas. Upon reaching Gangtok, check into your hotel and unwind, soaking in the serene atmosphere of Sikkim’s capital. Overnight stay at the hotel in Gangtok.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/2/1.jpg' alt='Gangtok' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -273,7 +273,7 @@
                         "S": "Gangtok Sightseeing"
                     },
                     "description": {
-                        "S": "<li><b>Morning Departure:</b> After breakfast, head out for an excursion.</li><li><b>Destination:</b> Visit Tshangu Lake, located 43 km away with a 3-hour journey one way.</li><li><b>Altitude & Depth:</b> The lake sits at 12,400 ft (3,780 m) with an average depth of 50 ft.</li><li><b>Experience:</b> Enjoy the cool waters and surrounding scenic beauty.</li><li><b>Return:</b> Head back to Gangtok and spend the night at a hotel.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, embark on a full-day excursion to the breathtaking Tshangu Lake, a glacial marvel located 43 km from Gangtok. The three-hour drive takes you to an altitude of 12,400 ft (3,780 m), where the lake’s crystal-clear waters, averaging 50 ft in depth, shimmer against a backdrop of snow-capped peaks. Spend time admiring the pristine beauty and crisp mountain air before returning to Gangtok. The evening is free to relax or explore local markets. Overnight stay at your hotel.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/2/2.jpg' alt='Tshangu Lake' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -289,7 +289,7 @@
                         "S": "Gangtok to Kalimpong"
                     },
                     "description": {
-                        "S": "<li>Half-day sightseeing: choose between Rumtek Monastery or Jhakri Water Falls.</li><li>Visit Droul Chorthen, Research Institute of Tibetology, Directorate of Handicraft & Handloom, and Enchey Monastery.</li><li>Afternoon transfer to Kalimpong (3937 ft/1200 m, 85 km/3 hrs).</li><li>Check-in and overnight hotel stay.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Begin the day with half-day sightseeing in Gangtok. Choose between the revered Rumtek Monastery, a hub of Tibetan Buddhism, or the cascading Jhakri Water Falls. Later, visit cultural landmarks like Droul Chorthen, the Research Institute of Tibetology, the Directorate of Handicraft & Handloom, and the tranquil Enchey Monastery. Post-lunch, journey to Kalimpong (3,937 ft/1,200 m), an 85 km drive through terraced hillsides and pine forests. Check into your hotel upon arrival and enjoy the town’s laid-back charm. Overnight in Kalimpong.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/2/3.jpg' alt='Rumtek monastery sikkim' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -305,7 +305,7 @@
                         "S": "Kalimpong to Darjeeling"
                     },
                     "description": {
-                        "S": "<li>After breakfast, visit Dello Hills, Dr. Graham’s Home, Flower Nurseries, Jang-Dong-Palriffo Brang & Durbin Dara Hills.</li><li>Transfer to Darjeeling (7380 ft / 2250 m, 70 kms / 03 hrs).</li><li>Overnight at hotel.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, explore Kalimpong’s highlights: Dello Hills for panoramic views, the historic Dr. Graham’s Home, vibrant flower nurseries, and the spiritual Jang-Dong-Palriffo Brang. Stroll through the bustling local markets, where you can shop for traditional handicrafts and Tibetan souvenirs. Conclude with Durbin Dara Hills, offering breathtaking vistas of the Teesta River and Himalayan ranges, before departing for Darjeeling. The 70 km drive ascends to 7,380 ft (2,250 m), offering misty valleys and tea gardens en route. Stop at scenic viewpoints for stunning photo opportunities. Check into your Darjeeling hotel and savor the colonial-era ambiance. Overnight stay in Darjeeling.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/2/4.jpg' alt='Kalimpong' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -321,7 +321,7 @@
                         "S": "Explore Darjeeling"
                     },
                     "description": {
-                        "S": "<li>Depart early (around 4 AM) to Tiger Hills (8364 ft / 2550 m) for a sunrise view over Kanchendzonga Peak (weather permitting).</li><li>Return via Ghoom Monastery and Batasia Loop.</li><li>After breakfast, enjoy a half-day sightseeing tour including:</li><ul class='list-disc pl-6'><li>Japanese Temple & Peace Pagoda.</li><li>Padmaja Naidu Himalayan Zoological Park & Himalayan Mountaineering Institute (closed on Thursday).</li><li>Tenzing & Gombu Rock.</li><li>Tibetan Refugee Self-Help Center (closed on Sunday).</li><li>Tea Estate OR visit Rock Garden & Ganga Maya Lake.</li></ul><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Rise early (around 4 AM) for a memorable drive to Tiger Hills (8,364 ft/2,550 m) to witness the sunrise casting golden hues over Mt. Kanchendzonga (weather permitting). Return via Ghoom Monastery, one of Darjeeling’s oldest, and the Batasia Loop, a feat of railway engineering. Post breakfast, visit the Japanese Temple, Peace Pagoda, Padmaja Naidu Himalayan Zoological Park (home to red pandas), and the Himalayan Mountaineering Institute. Explore the Tibetan Refugee Center (closed Sundays) or opt for the Rock Garden and Ganga Maya Lake. Overnight in Darjeeling.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/2/5.jpg' alt='Mt. Kanchendzonga' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -337,7 +337,7 @@
                         "S": "Darjeeling – NJP Railway Station / (IXB) Bagdogra Airport"
                     },
                     "description": {
-                        "S": "<li>Enjoy your breakfast.</li><li>Depart for NJP Railway Station or (IXB) Bagdogra Airport.</li><li>The journey covers 100 Kms in approximately 03 hrs.</li><li>Proceed for your onward connection or journey.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, bid farewell to the hills as you transfer to NJP Railway Station or Bagdogra Airport (100 km, ~3 hours). Enjoy the scenic drive through winding roads, lush tea gardens, and charming mountain villages one last time. Reflect on the memories of misty peaks, tranquil lakes, and vibrant cultures as you journey onward. Take with you the warmth of the locals, the flavors of authentic cuisine, and the serenity of nature’s embrace. Whether it’s the thrill of adventure or moments of quiet bliss, cherish the unforgettable experiences. Safe travels, and we hope to welcome you back soon!</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/2/6.jpg' alt='lush tea gardens Darjeeling' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -360,7 +360,7 @@
         "NoOfRatings": 10,
         "Additional_Information": "<li>Standard check-in/out at 12:00 PM.</li><li>Surprise Gifts at the end of the tour.</li><li>Assistance on arrival – departure at airport.</li><li>Rides as per sightseeing in the itinerary.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Summary": "Enjoy comfortable accommodations, guided sightseeing, and hassle-free transfers as you discover the charm and warmth of Gangtok and its surroundings. Let <a href='https://www.eazetours.com/' class='text-[#025C7A] font-semibold'>Eaze Tours</a> guide you through this unforgettable exploration of one of India’s most captivating regions. Explore our <a href='https://www.eazetours.com/packages/north-east-tour-darjeeling-india' class='text-[#025C7A] font-semibold'>North East Tour-Darjeeling Package in India</a> also.",
+        "Summary": "Enjoy comfortable accommodations, guided sightseeing, and hassle-free transfers as you take in the charm and warmth of Gangtok and its surroundings. Immerse yourself in the breathtaking landscapes, rich culture, and vibrant local life while experiencing top-notch hospitality. Let Eaze Tours guide you through this unforgettable exploration of one of India’s most captivating regions. From serene monasteries to bustling markets, every moment promises excitement and beauty. Explore our <a href='https://www.eazetours.com/packages/north-east-tour-darjeeling-india' class='text-[#025C7A] font-semibold'>North East Tour-Darjeeling Package in India</a> as well, featuring stunning tea gardens, scenic views, and unique cultural experiences. Plan your perfect getaway with us today!",
         "Whats_Included": "<li>Accommodation in Star categories Hotel.</li> <li>Daily breakfast and dinner in hotels.</li> <li>Air-conditioned transfers (airport, station, sightseeing, intercity) with all parking, toll, tax, fuel, and driver charges.</li> <li>English-speaking local guides in all cities.</li> <li>Accompanied by Eaze Tours Manager as per group strength.</li> <li>2 water bottles per guest per day during tours.</li> <li>One monument entrance fee.</li> <li>Welcome garland on arrival.</li> <li>All applicable taxes.</li>",
         "Overview": "Embark on a journey to the enchanting Northeast with our Gangtok tour package. Experience the pristine beauty of Sikkim’s landscapes, explore ancient monasteries, and immerse yourself in vibrant local culture. Our curated itinerary combines scenic mountain vistas with visits to iconic attractions, offering a perfect blend of adventure, spirituality, and relaxation.",
         "Ratings": 5.0
@@ -376,7 +376,7 @@
                         "S": "Arrival NJP Railway Station / (IXB) Bagdogra Airport – Darjeeling"
                     },
                     "description": {
-                        "S": "<li>Upon arrival at NJP Railway Station or Bagdogra Airport (IXB), our office executive will meet you at the station or airport.</li><li>Assist you in boarding your vehicle to Darjeeling.</li><li>The journey to Darjeeling (7,380 ft / 2,250 m) covers approximately 72 km and takes about 1 hour and 32 minutes.</li><li>Overnight accommodation will be provided at the hotel.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Upon arrival at NJP Railway Station or Bagdogra Airport, our representative will greet you and facilitate your transfer to Darjeeling. The 72 km drive (1.5 hours) takes you through lush landscapes, winding roads, and scenic tea gardens to the hill station (7,380 ft). En route, enjoy picturesque views of rolling hills and charming villages. Upon reaching Darjeeling, check into your hotel and take some time to relax. Stroll through the vibrant local markets or savor a cup of authentic Darjeeling tea. Enjoy the cool mountain breeze and prepare for an exciting journey ahead. Overnight stay at the hotel.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/3/1.jpg' alt='Taj Mahal Agra' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -392,7 +392,7 @@
                         "S": "Darjeeling Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Early Morning at 4:00 AM Depart for Tiger Hill (8,364 ft / 2,550 m) to witness the sunrise over Kanchenjunga Peak (weather permitting).</li><li>Morning:</li><li>Visit Ghoom Monastery.</li><li>Explore Batasia Loop.</li><li>Post-Breakfast:</li><li>Visit Japanese Temple and Peace Pagoda.</li><li>Explore Padmaja Naidu Himalayan Zoological Park and Himalayan Mountaineering Institute (closed on Thursdays).</li><li>Visit Tenzing & Gombu Rock.</li><li>Explore Tibetan Refugee Self-Help Center (closed on Sundays).</li><li>Tour a Tea Estate or visit Rock Garden & Ganga Maya Lake.</li><li>Evening:</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Begin at 4:00 AM with a drive to Tiger Hill to marvel at the sunrise over Kanchenjunga (weather-dependent). Capture breathtaking views before returning via Ghoom Monastery and Batasia Loop. Enjoy a hearty breakfast before visiting the Japanese Temple and Peace Pagoda, offering serene surroundings. Explore Padmaja Naidu Zoo (closed Thursday) and the Himalayan Mountaineering Institute to learn about legendary climbers. Stop by Tenzing Rock for an adventurous photo opportunity and visit the Tibetan Refugee Center (closed Sunday) for local handicrafts. Later, stroll through Mall Road for shopping, opt for a tea estate tour, or visit Rock Garden & Ganga Maya Lake. Overnight stay in Darjeeling.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/3/2.jpg' alt='Taj Mahal Agra' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -408,7 +408,7 @@
                         "S": "Explore more in Darjeeling"
                     },
                     "description": {
-                        "S": "<li>Morning: After breakfast, depart for Mirik (approximately 50 km, 2 hours).</li><li>Midday: Visit Pashupati Nagar Market, located at the Indo-Nepal border, known for affordable imported goods like electronics, clothing, and perfumes.</li><li>Afternoon: Explore Mirik Lake; enjoy horse riding and boating (available for an additional fee).</li><li>Evening: Return to Darjeeling for overnight stay.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, journey 50 km (2 hours) to Mirik. Stop at Pashupati Nagar Market near the Indo-Nepal border for shopping. Explore the vibrant stalls offering local handicrafts, clothing, and souvenirs. Spend the afternoon at serene Mirik Lake, surrounded by lush tea gardens and pine forests. Enjoy optional boating or horse riding while taking in the picturesque views. Take a leisurely walk along the lakeside, capturing stunning photos of the scenic landscape. Visit the nearby Bokar Monastery for a moment of peace and reflection. Return to Darjeeling by evening for your stay, unwinding after a day filled with beautiful experiences.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/3/3.jpg' alt='Taj Mahal Agra' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -424,7 +424,7 @@
                         "S": "Darjeeling – NJP Railway Station / (IXB) Bagdogra Airport"
                     },
                     "description": {
-                        "S": "<li>Enjoy your breakfast.</li><li>Depart for NJP Railway Station or (IXB) Bagdogra Airport.</li><li>The journey covers 100 Kms in approximately 03 hrs.</li><li>Proceed for your onward connection or journey.</li>"
+                        "S": "<li>After breakfast, take in the final views of Darjeeling before departing for NJP/IXB (100 km, 3 hours). Enjoy a comfortable journey as you proceed with your onward travel arrangements, bringing your unforgettable Darjeeling adventure to a close. Safe travels!</li>"
                     },
                     "Id": {
                         "N": "4"
