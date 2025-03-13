@@ -18,14 +18,15 @@ import package_1_11 from '../public/images/1/11.jpg'
 import package_1_12 from '../public/images/1/12.jpg'
 import package_1_13 from '../public/images/1/13.jpg'
 import package_1_14 from '../public/images/1/14.jpg'
-import package_2_1 from '../public/images/2/1.jpeg'
-import package_2_2 from '../public/images/2/2.jpeg'
-import package_2_3 from '../public/images/2/3.jpeg'
-import package_2_4 from '../public/images/2/4.jpeg'
-import package_2_5 from '../public/images/2/5.jpeg'
-import package_2_6 from '../public/images/2/6.jpeg'
-import package_2_7 from '../public/images/2/7.jpeg'
-import package_2_8 from '../public/images/2/8.jpeg'
+import package_2_1 from '../public/images/2/1.jpg'
+import package_2_2 from '../public/images/2/2.jpg'
+import package_2_3 from '../public/images/2/3.jpg'
+import package_2_4 from '../public/images/2/4.jpg'
+import package_2_5 from '../public/images/2/5.jpg'
+import package_2_6 from '../public/images/2/6.jpg'
+import package_3_1 from '../public/images/3/1.jpg'
+import package_3_2 from '../public/images/3/2.jpg'
+import package_3_3 from '../public/images/3/3.jpg'
 import package_4_1 from '../public/images/4/1.jpeg'
 import package_4_2 from '../public/images/4/2.jpeg'
 import package_4_3 from '../public/images/4/3.jpeg'
@@ -255,8 +256,8 @@ interface IPackageImageProp {
 
 const package_images: { [key: string]: { main: StaticImageData, list: Array<StaticImageData> } } = {
     "1": { main: package_1_5, list: [package_1_1, package_1_2, package_1_3, package_1_4, package_1_5, package_1_6, package_1_7, package_1_8, package_1_9, package_1_10, package_1_11, package_1_12, package_1_13, package_1_14] },
-    "2": { main: package_2_1, list: [package_2_1, package_2_2, package_2_3, package_2_4, package_2_5, package_2_6, package_2_7, package_2_8,] },
-    "3": { main: package_2_8, list: [package_2_4, package_2_6, package_2_7, package_2_2] },
+    "2": { main: package_2_1, list: [package_2_1, package_2_2, package_2_3, package_2_4, package_2_5, package_2_6] },
+    "3": { main: package_3_1, list: [package_3_1, package_3_2, package_3_3] },
     "4": { main: package_4_1, list: [package_4_1, package_4_2, package_4_3, package_4_4, package_4_5, package_4_6, package_4_7, package_4_8, package_4_9, package_4_10, package_4_11, package_4_12, package_4_13, package_4_14,] },
     "5": { main: package_5_1, list: [package_5_1, package_5_2, package_5_3] },
     "6": { main: package_6_1, list: [package_6_1, package_6_2, package_6_3] },
@@ -336,13 +337,13 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                     <Image
                         src={images[0]}
                         alt="Large Gallery Image"
-                        className="w-full h-[200px] sm:h-[424px] object-cover rounded-[23px]"
+                        className="w-full h-[200px] sm:h-[403px] object-cover rounded-[23px]"
                     />
                 </div>
 
                 {/* Right Column (35%) */}
                 <div className="col-span-3 hidden sm:flex flex-col gap-y-6 h-[400px]">
-                    <div className="h-[50%]">
+                    <div className="h-[189px]">
                         <Image
                             src={images[1]}
                             alt="Small Top Image"
@@ -351,7 +352,7 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                     </div>
 
                     {/* Bottom Image with View All Button */}
-                    <div className="h-[50%] relative">
+                    <div className="h-[189px] relative">
                         <Image
                             src={images[2]}
                             alt="Small Bottom Image"
