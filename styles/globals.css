@@ -54,6 +54,11 @@
 .blog_detail ul {
     margin-bottom: 8px;
     font-size: 16px;
-    list-style-type: disc;
+    list-style-type: square;
     list-style-position: inside;
+}
+
+.blog_detail ul li::marker {
+    color: #6e9753;
+    /* Set the bullet color */
 }
