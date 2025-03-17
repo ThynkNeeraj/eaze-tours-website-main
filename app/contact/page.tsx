@@ -101,7 +101,7 @@ export default function ContactUs() {
                                     className="textarea textarea-bordered textarea-lg w-full max-w-xs"></textarea>
                             </div>
                             <div className="form-control mt-3">
-                                <button className="btn btn-primary" type="submit">Send</button>
+                                <button className="btn bg-[#025C7A] rounded-[41px] text-white px-8 hover:bg-[#6E9753]" type="submit">Send</button>
                             </div>
                         </form>
                     </div>
