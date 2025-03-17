@@ -7,8 +7,8 @@ interface VerticalTimelineElementProp {
 
 function VerticalTimelineElement({ time, title, description, isLast }: VerticalTimelineElementProp) {
     const timelineClass = parseInt(time) % 2 === 1
-        ? "timeline-end md:text-start mb-[70px] mt-5 ml-5"
-        : "timeline-end md:text-start mb-[70px] mt-5 ml-5";
+        ? "timeline-end md:text-start mb-[70px] ml-[-15px] mr-5 sm:ml-5 sm:mr-0 mt-5"
+        : "timeline-end md:text-start mb-[70px] ml-[-15px] mr-5 sm:ml-5 sm:mr-0 mt-5";
 
     return (
         <>
@@ -17,7 +17,7 @@ function VerticalTimelineElement({ time, title, description, isLast }: VerticalT
             </div>
 
             <div className={timelineClass}>
-                <time className="text-[18px] font-bold font-[urbanist] pt-[8px]">Day {time} : {title}</time>
+                <time className="text-[18px] font-bold font-[urbanist] pt-[8px] ml-[25px]">Day {time} : {title}</time>
                 <ul className="package_detail text-[#4f5e71] text-justify break-words mt-4 font-[urbanist] font-[500] flex flex-col gap-2 text-[16px] leading-[1.5em]"
                     dangerouslySetInnerHTML={{ __html: description }}>
                 </ul>
