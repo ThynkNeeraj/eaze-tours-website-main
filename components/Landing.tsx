@@ -45,57 +45,50 @@ function Landing(props: ILandingProps) {
     const [visibleBoxes, setVisibleBoxes] = useState(1);
     const boxWidth = useRef<number>(0);
     const infoSliderRef = useRef<HTMLDivElement>(null);
-    const [isMuted, setIsMuted] = useState(false);
-    const videoRef = useRef<HTMLVideoElement>(null);
-    const [videoSrc, setVideoSrc] = useState("/video/Eaze_mp4.mp4");
+    const [isMuted, setIsMuted] = useState(true);
+    const [videoSrc, setVideoSrc] = useState("");
+    const [videoKey, setVideoKey] = useState(0);
+    const videoRef = useRef<HTMLVideoElement | null>(null);
+    const [reloadCount, setReloadCount] = useState(0);
 
     const toggleAudio = () => {
         if (videoRef.current) {
-            videoRef.current.muted = !videoRef.current.muted;
+            videoRef.current.muted = !isMuted;
             setIsMuted(videoRef.current.muted);
-
             if (!videoRef.current.muted) {
-                videoRef.current.play().catch(err => console.error("Playback error", err));
+                videoRef.current.play().catch(err => console.error("Autoplay blocked:", err));
             }
         }
     };
 
-    // Play video with sound on page load
-    useEffect(() => {
-        const playVideoWithSound = async () => {
-            if (videoRef.current) {
-                try {
-                    await videoRef.current.play(); // Try playing with sound
-                } catch (error) {
-                    console.error("Autoplay with sound blocked, muting video.", error);
-                    videoRef.current.muted = true; // Mute if autoplay with sound fails
-                    setIsMuted(true);
-                    await videoRef.current.play(); // Play the video muted
-                }
-            }
-        };
-
-        playVideoWithSound();
-    }, []);
-
-    // Detect screen size and change video source
+    // Update video source based on screen size
     useEffect(() => {
         const updateVideoSrc = () => {
-            if (window.innerWidth <= 768) {
-                setVideoSrc("/video/Eazetour_Mobile_Format.mp4"); // Mobile version
-            } else {
-                setVideoSrc("/video/Eaze_mp4.mp4"); // Desktop version
+            const newSrc =
+                window.innerWidth <= 768
+                    ? "/video/Eazetour_Mobile_Format.mp4"
+                    : "/video/Eaze_mp4.mp4";
+
+            if (videoSrc !== newSrc) {
+                setVideoSrc(newSrc);
+                setVideoKey(prevKey => prevKey + 1);
+                setReloadCount(prev => prev + 1);
             }
         };
 
-        updateVideoSrc(); // Initial check
+        updateVideoSrc();
         window.addEventListener("resize", updateVideoSrc);
+        return () => window.removeEventListener("resize", updateVideoSrc);
+    }, [videoSrc]);
 
-        return () => {
-            window.removeEventListener("resize", updateVideoSrc);
-        };
-    }, []);
+    // Auto-mute after 5 reloads
+    useEffect(() => {
+        if (reloadCount >= 5) {
+            setIsMuted(true);
+        }
+    }, [reloadCount]);
 
+    // Auto-mute when out of view
     useEffect(() => {
         const handleScroll = () => {
             if (videoRef.current) {
@@ -110,6 +103,17 @@ function Landing(props: ILandingProps) {
         window.addEventListener("scroll", handleScroll);
         return () => window.removeEventListener("scroll", handleScroll);
     }, []);
+
+    // Ensure video loops correctly
+    useEffect(() => {
+        if (videoRef.current) {
+            videoRef.current.addEventListener("ended", () => {
+                videoRef.current!.currentTime = 0;
+                videoRef.current!.play();
+            });
+        }
+    }, []);
+
 
     const slideToIndex = (sliderRef: React.RefObject<HTMLDivElement>, index: number) => {
         if (sliderRef.current) {
@@ -243,6 +247,7 @@ function Landing(props: ILandingProps) {
 
                 <Swiper
                     spaceBetween={30}
+                    key={videoKey}
                     effect={"fade"}
                     fadeEffect={{ crossFade: true }}
                     loop={true}
@@ -255,7 +260,7 @@ function Landing(props: ILandingProps) {
                     modules={[EffectFade, Navigation, Pagination, Autoplay]}
                 >
                     <SwiperSlide>
-                        <div className="relative h-[100vh] w-full">
+                        <div className="relative h-[750px] sm:h-[100vh] w-full">
                             <div className="absolute inset-0 bg-black opacity-0 z-10"></div>
 
                             {/* Background Video */}
@@ -266,7 +271,7 @@ function Landing(props: ILandingProps) {
                                     autoPlay
                                     playsInline
                                     loop
-                                    muted={false} // Try to play with sound
+                                    muted={isMuted}
                                 >
                                     <source src={videoSrc} type="video/mp4" />
                                     Your browser does not support the video tag.
