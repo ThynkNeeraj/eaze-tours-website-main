@@ -463,7 +463,7 @@
                         "S": "Arrival in Manali"
                     },
                     "description": {
-                        "S": "<li>Arrive in Manali and check into your accommodation.</li><li> Spend the day acclimatizing to the altitude.</li><li> Meet your guide, review the itinerary, and prepare your gear for the adventure.</li><li> Afternoon explore Manali by testing biking visit Naggar Castle, Jagatsukh Temple and Vashist Hot Spring etc.</li><li> Overnight at hotel (B).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Upon arriving in Manali, check into your accommodation and spend the day acclimatizing to the altitude. Meet your guide to review the itinerary and prepare your gear for the upcoming adventure. In the afternoon, explore Manali on a biking excursion, visiting highlights such as the historic Naggar Castle, the serene Jagatsukh Temple, and the rejuvenating Vashist Hot Spring. Take in breathtaking mountain views as you ride through scenic trails. Stroll through the vibrant Mall Road, where you can shop for local handicrafts and savor delicious Himachali cuisine. Return to your hotel for an overnight stay.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/1.jpg' alt='manali mall road' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -479,7 +479,7 @@
                         "S": "Manali to Rohtang Pass (61 km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, full-day biking tour around Manali includes Manikaran, Hadimba Temple, and Kullu Valley.</li> <li>Travel distance is around 61 kms and takes approximately 2 hours.</li> <li>Overnight stay at hotel (B).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, embark on a full-day biking tour around Manali, covering scenic spots like Manikaran, Hadimba Temple, and the lush Kullu Valley. Along the way, enjoy breathtaking views of snow-capped peaks, meandering rivers, and charming villages. Stop for a refreshing break at a local café or explore vibrant markets showcasing Himachali crafts. The 61 km ride takes approximately 2 hours, offering a mix of cultural and natural wonders. Capture stunning photos at picturesque viewpoints and immerse yourself in the serene beauty of the Himalayas. Overnight stay at a hotel.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/2.jpg' alt='hadimba temple' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -495,7 +495,7 @@
                         "S": "Rohtang Pass to Jispa (86 km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, commence biking tour to Leh via Rohtang Pass (3990M).</li> <li>Enjoy the ride through Gulaba, Marhi, Rani Nala, Rohtang Jyot, Koksar, Gondla, Tandi (Confluence of Chandra and Bhaga River), and Keylong, finally reaching Jispa.</li> <li>Travel distance is around 86 kms and takes approximately 2 hrs 30 min.</li> <li>On arrival, check-in at hotel or fixed tent (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Post-breakfast, begin your journey toward Leh via Rohtang Pass (3,990m). Traverse through Gulaba, Marchi, Rani Nala, Koksar, and Tandi—where the Chandra and Bhaga rivers merge—before arriving in Jispa. Along the way, take in breathtaking views of snow-capped peaks, winding roads, and lush valleys. Capture stunning photographs and experience the thrill of high-altitude travel. The 86 km ride, lasting 2.5 hours, offers a mix of adventure and serenity, making it a memorable part of your journey. Upon reaching Jispa, unwind with an overnight stay at a hotel or fixed tent, enjoying a warm meal with breakfast and dinner included.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/3.jpg' alt='Rohtang Pass' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -511,7 +511,7 @@
                         "S": "Jispa – Darcha- Suraj Tal- Baralachal Pass (4890m) – Sarchu (110 Km)"
                     },
                     "description": {
-                        "S": "<li>Breakfast at hotel or fix tent.</li><li> Prepare your bike to cover next destination, through the high passes and nice landscape, cross small hamlets or tea stall as Darcha, this is the first TRC checking points and this place is known for adventure lover who want commence trek to Zanskar Valley.</li><li> Ascend to Baralacha La Pass (4,890 meters), known for its mesmerizing landscapes.</li><li> On arrival at Sarchu take the tent for overnight stay. (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Fuel up with breakfast before biking through dramatic high-altitude landscapes. Ride past rugged mountain terrain and picturesque valleys, capturing stunning panoramic views. Pass Darcha, a hub for trekkers heading to Zanskar Valley, and ascend the breathtaking Baralachal Pass (4,890m), where snow-capped peaks and winding roads create an unforgettable journey. Feel the thrill of the open road as you navigate challenging yet rewarding stretches of the route. Arrive in Sarchu for an overnight stay in tents, where you can unwind under a star-studded sky. Enjoy a warm meal with breakfast and dinner provided, recharging for the adventure ahead.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/4.jpg' alt='suraj taal lake' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -527,7 +527,7 @@
                         "S": "Sarchu – Pang – Dibiring – Tsokar (180 Km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast get ready to next day biking tour to Tsokar (Salt) Lake, enjoy the landscape and time to time break for photos, on arrival at Tsokar check in fix tent, rest of the time explore surrounding, catch the wild animals (Hinting with Camera).</li><li> Overnight enjoy the meal. (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, ride toward Tso Kar Lake, pausing for photo opportunities amid stark, surreal vistas. Along the way, witness breathtaking high-altitude landscapes and nomadic settlements. Upon arrival, settle into fixed tents and explore the area, keeping an eye out for wildlife (camera in hand!). Stroll along the lake’s shores, where the changing hues of the water create a mesmerizing view. Capture the beauty of this remote oasis and soak in the tranquility of the surroundings. As the evening unfolds, share travel stories by the campfire and enjoy dinner under the stars, embracing the serenity of this untouched wilderness.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/5.jpg' alt='Tsokar Lake' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -543,7 +543,7 @@
                         "S": "Tsokar – Sumdah – Tsomoriri (145 Km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast at fix tent proceed to Tsomoriri via Sumdah Village, again magnificent rIde see the wild animals, landscape and sulpher water spring.</li><li> En route visit the Tibetan refugee village.</li><li> Cross the Namshang La 4920m.</li><li> & a small lake Thachung Karo Lake.</li><li> Continue drive to Karzok (Tsomoriri) check in fix tent, rest of the time visit crystal Water Lake walking tour is possible there, bikes not allowed.</li><li> Overnight at Tsomoriri. (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Depart Tsokar after breakfast, biking through Sumdah Village and past sulfur springs and Tibetan refugee settlements. Cross Namshang La Pass (4,920m) and Thachung Karo Lake before reaching Karzok (Tsomoriri). Along the way, enjoy breathtaking views of rugged mountain landscapes and remote high-altitude plains. Stop for a short break to soak in the serene surroundings before continuing the journey. Upon arrival, explore the pristine lake on foot (bikes prohibited), witnessing its crystal-clear waters reflecting the towering peaks. Interact with local nomadic communities and experience their unique culture. Overnight in tents with meals, enjoying the tranquility of this stunning destination.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/6.jpg' alt='Namshang La Pass' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -559,7 +559,7 @@
                         "S": "Tsomoriri – Mahay BrIdge- Chumathang – Leh (145 Km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast start your rIde going through the Indus River many crossing many small villages and hamlets, Reach Natural Hot Spring at Chumathang.</li><li> Visit hot spring and lunch.</li><li> After that continue drive to Leh, through the small village, markets along with the India River, en route visit Hemis Monastery.</li><li> On arrival at Leh check in hotel.</li><li> Rest of the time free. (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Post-breakfast, ride along the Indus River, stopping at Chumathang’s natural hot springs and Hemis Monastery. Capture stunning landscapes along the way and immerse yourself in the region’s rich culture. Arrive in Leh by evening and check into a hotel. Stroll through the local markets or relax at a café, soaking in the serene atmosphere. Enjoy free time to unwind, with breakfast and dinner included.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/7.jpg' alt='Leh LAdakh' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -575,7 +575,7 @@
                         "S": "Nubra Valley Over Khardung La Pass (120 Km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast start rIding to Nubra over the Khardong La Pass (5602m) – the Highest Motorable Road in the World.</li><li> You will stop on the top of the pass when one can see the Snow Peak Mountains and glacier.</li><li> Have a cup of Hot Tea from the Highest Cafeteria in the World.</li><li> This is an old route which used as part of the Legendary Silk Road which ran to Tibet, China & Turkmenistan, behind the Khardong mountain pass.</li><li> The Road opens up and you are met with the wonderful view of the fruitful green valley of Ladakh which are watered thanks to Shyok and Nubra waterways-this road was previously on the silk street and lots of Caravans weaved their way further to central Asia- the green Nubra valley was for centuries the resting spot for Camel and Yak caravans- you will see apple, apricot and lots of mulberry trees in Hunder and other areas, Lamaism plays an important role in life in this area.</li><li> After that continue drive through Nubra valley to Diskit, total drive will takes about 4 hrs.</li><li> Upon reaching check in Guest House.</li><li> Late afternoon, optional, You can also enjoy the Bactrian (Double hump) camel in the sand dune between Hunder and Diskit Village.</li><li> Overnight at Diskit. (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, embark on an exhilarating ride to Nubra Valley via the iconic Khardung La Pass (5,602m), the highest motorable road in the world. Pause at the summit to take in breathtaking views of snow-capped peaks and glaciers. While there, enjoy a cup of hot tea at the highest cafeteria in the world, situated along the historic Silk Road that once connected Tibet, China, and Turkmenistan. As the road descends, witness the stunning transformation of the landscape as it opens up to the lush green valley of Ladakh, nourished by the Shyok and Nubra rivers. This region, once a vital stop for ancient caravans traveling to Central Asia, is now home to flourishing apple, apricot, and mulberry orchards, particularly in Hunder. Lamaism remains an integral part of life in the valley, reflected in its rich cultural heritage. Continue the journey through Nubra Valley to reach Diskit, a scenic drive of approximately four hours. Upon arrival, check in to your guesthouse and relax. Later in the afternoon, opt for a unique experience with a Bactrian camel ride on the sand dunes between Hunder and Diskit Village. Conclude the day with a peaceful evening in Diskit, where you will stay overnight.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/8.jpg' alt='Khardung La Pass' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -591,7 +591,7 @@
                         "S": "Diskit – Leh"
                     },
                     "description": {
-                        "S": "<li>After breakfast visit Diskit Monastery, The Diskit monastery was founded by Changzem Tserab Zangpo in the 14th century.</li><li> The history of the Nubra Valley and the monastery could thus be traced from 14th century onwards.</li><li> It has a tallest statue of Maitreya Buddha in Ladakh.</li><li> After that visit Sumoor village and drive back to Leh.</li><li> Upon arrival check in hotel.</li><li> Late afternoon visit Shanti Stupa for Sunset Tour.</li><li> The Stupa is located on the hill top of the Changspa locality in Leh, it was built in 1983 on the rock and inaugurated by HH Dalai Lam.</li><li> From this Stupa you can see the memorable sunset over the Leh Valley.</li><li> After that back to Leh and some free time for shopping.</li><li> Evening dinner. (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, visit Diskit Monastery, founded by Changzem Tserab Zangpo in the 14th century. This historic monastery holds deep cultural significance, with its ancient murals and artifacts reflecting the rich heritage of the Nubra Valley. The site is also home to the tallest statue of Maitreya Buddha in Ladakh, offering breathtaking views of the surrounding landscape. Later, head to Sumoor village, known for its peaceful atmosphere and scenic beauty, before driving back to Leh. Upon arrival, check in at the hotel and relax. In the late afternoon, visit Shanti Stupa for a mesmerizing sunset tour. Perched atop a hill in the Changspa locality, the stupa was built in 1983 on a rock and inaugurated by HH Dalai Lama. From this vantage point, enjoy a stunning sunset over Leh Valley. Return to Leh for some leisure time, perfect for shopping or exploring the local markets. End the day with a delightful dinner. </li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/9.jpg' alt='statue of Maitreya Buddha in Ladakh' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -607,7 +607,7 @@
                         "S": "Leh – Lamayuru (240 Km) – Leh"
                     },
                     "description": {
-                        "S": "<li>After breakfast full day rIding to lower Ladakh called Sham Valley, straight drive to Lamayuru, visit monastery and moon land, drive back to Leh, en route visit Rizong Gompa, Alchi Choskor, Likir, Basgo Palace and Nimmo (Confluence of Indus and Zanskar River) if the time is allowed just a photo break at Gurudwara Pathar Saheb.</li><li> Rest of the time free at Leh market. (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>After breakfast, embark on a full-day ride to lower Ladakh, known as Sham Valley, a region filled with stunning landscapes and cultural treasures. Drive straight to Lamayuru, home to one of the oldest monasteries in Ladakh, and admire the breathtaking moon land formations, a surreal landscape resembling the lunar surface. On the way back to Leh, visit Rizong Gompa, a serene monastery known for its meditation retreats, and explore Alchi Choskor, an ancient monastic complex with exquisite murals. Continue to Likir, famous for its towering Buddha statue, and Basgo Palace, a historical fort with intricate murals. Stop at Nimmo to witness the mesmerizing confluence of the Indus and Zanskar rivers, where the contrasting colors of the waters create a spectacular sight. If time permits, make a brief photo stop at Gurudwara Pathar Saheb, a revered Sikh shrine known for its legendary stone. The rest of the day is free to explore the vibrant Leh market, where you can shop for souvenirs, handicrafts, and local delicacies.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/10.jpg' alt='Rizong Gompa' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -623,7 +623,7 @@
                         "S": "Arrival in Leh"
                     },
                     "description": {
-                        "S": "<li>Full day free for individual activities or last time shopping etc.</li><li> Celebrate your achievement with your team.</li><li> Overnight at hotel (B/D).</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Enjoy a free day to relax, shop for souvenirs, or explore Leh independently. Stroll through the bustling markets, visit local cafés, or take in the stunning mountain views. You can also explore nearby attractions, interact with locals, or capture the beauty of Leh through your lens. In the evening, celebrate your journey’s success with your team over a final dinner, sharing memories and experiences from your adventure. Overnight at hotel.</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/11.jpg' alt='LEH' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -639,7 +639,7 @@
                         "S": "Departure from Leh"
                     },
                     "description": {
-                        "S": "<li>Bid farewell to the Himalayas.</li><li> Early in the morning departure transfer to airport connect flight to Delhi or onward destination.</li>"
+                        "S": "<div class='flex flex-col sm:flex-row gap-8'><div class='w-full sm:w-1/2 flex flex-col justify-center py-4 gap-2'><li>Bid farewell to the majestic Himalayas as you cherish the unforgettable memories of your journey. Wake up to the crisp mountain air one last time before an early morning transfer to the airport for your flight to Delhi or your onward destination. Take in the breathtaking landscapes as you depart, reflecting on the serene monasteries, rugged terrains, and warm hospitality that made your trip truly special. Carry with you the essence of Ladakh’s rich culture, stunning vistas, and spiritual charm, knowing that this extraordinary adventure will remain in your heart forever. Until next time, let the mountains call you back!</li></div><div class='w-full sm:w-1/2 flex justify-center items-center'><img src='/images/4/12.jpg' alt='Depart from Leh' class='h-full max-w-[600px] rounded-[20px] h-[300px] object-cover'></div></div>"
                     },
                     "Id": {
                         "N": "12"
