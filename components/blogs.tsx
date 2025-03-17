@@ -12,7 +12,7 @@ export default function Blogs() {
                 <p className="text-[14px] text-gray-700 mt-4">
                     <span className="text-[#ccc] hover:text-[#035C7A]"><Link href="/" passHref>Home</Link></span> / Blog
                 </p>
-                <h2 className="text-[42px] font-semibold text-black text-center sm:text-left">
+                <h2 className="text-[42px] font-semibold text-black text-left">
                     Blog
                 </h2>
                 <p className="text-md text-gray-700 mt-1">
