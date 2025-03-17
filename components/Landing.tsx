@@ -46,6 +46,8 @@ function Landing(props: ILandingProps) {
     const boxWidth = useRef<number>(0);
     const infoSliderRef = useRef<HTMLDivElement>(null);
     const [isMuted, setIsMuted] = useState(true);
+    const [videoSrc, setVideoSrc] = useState("");
+    const [videoKey, setVideoKey] = useState(0);
     const videoRef = useRef<HTMLVideoElement>(null);
 
     const toggleAudio = () => {
@@ -73,6 +75,25 @@ function Landing(props: ILandingProps) {
 
         video.addEventListener("ended", restartVideo);
         return () => video.removeEventListener("ended", restartVideo);
+    }, []);
+
+    // Detect screen size *only after mount* to prevent hydration errors
+    useEffect(() => {
+        const updateVideoSrc = () => {
+            const newSrc = window.innerWidth <= 768
+                ? "/video/Eazetour_Mobile_Format.mp4" // Mobile version
+                : "/video/Eaze_mp4.mp4"; // Desktop version
+
+            if (videoSrc !== newSrc) {
+                setVideoSrc(newSrc); // Update state
+                setVideoKey(prevKey => prevKey + 1); // Force re-render by changing key
+                console.log("Updated Video Source:", newSrc); // Debugging
+            }
+        };
+
+        updateVideoSrc(); // Initial check
+        window.addEventListener("resize", updateVideoSrc);
+        return () => window.removeEventListener("resize", updateVideoSrc);
     }, []);
 
     useEffect(() => {
@@ -218,10 +239,11 @@ function Landing(props: ILandingProps) {
 
     return (
         <>
-            <div className="mt-[78px] sm:mt-[0px]">
+            <div className="mt-[0px]">
 
                 <Swiper
                     spaceBetween={30}
+                    key={videoKey}
                     effect={"fade"}
                     fadeEffect={{ crossFade: true }}
                     loop={true}
@@ -233,39 +255,35 @@ function Landing(props: ILandingProps) {
                     pagination={{ clickable: true }}
                     modules={[EffectFade, Navigation, Pagination, Autoplay]}
                 >
-                    {[{
-                        src: "/video/Eaze_Web3.mp4",
-                        heading: "Discover Your Next Adventure Create Memories",
-                        para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences."
-                    }].map((slide, index) => (
-                        <SwiperSlide key={index}>
-                            <div className="relative sm:h-[700px] h-[300px] w-full">
-                                <div className="absolute inset-0 bg-black opacity-0 z-10"></div>
+                    <SwiperSlide>
+                        <div className="relative h-[100vh] w-full">
+                            <div className="absolute inset-0 bg-black opacity-0 z-10"></div>
 
-                                {/* Background Video */}
-                                <div className="absolute inset-0 z-0">
-                                    <video
-                                        ref={videoRef}
-                                        className="w-full h-full object-cover "
-                                        autoPlay
-                                        playsInline
-                                        muted={isMuted}
-                                    >
-                                        <source src={slide.src} type="video/mp4" />
-                                        Your browser does not support the video tag.
-                                    </video>
-                                </div>
-
-                                {/* Audio Toggle Button */}
-                                <button
-                                    onClick={toggleAudio}
-                                    className="absolute bottom-5 right-5 bg-white p-2 rounded-full shadow-lg text-black text-sm z-[100]">
-                                    {isMuted ? '🔇' : '🔊'}
-                                </button>
+                            {/* Background Video */}
+                            <div className="absolute inset-0 z-0">
+                                <video
+                                    ref={videoRef}
+                                    className="w-full h-full object-cover"
+                                    autoPlay
+                                    playsInline
+                                    muted={isMuted}
+                                >
+                                    <source src={videoSrc} type="video/mp4" />
+                                    Your browser does not support the video tag.
+                                </video>
                             </div>
-                        </SwiperSlide>
-                    ))}
+
+                            {/* Audio Toggle Button */}
+                            <button
+                                onClick={toggleAudio}
+                                className="absolute bottom-5 left-1/2 transform -translate-x-1/2 bg-white p-2 rounded-full shadow-lg text-black text-sm z-[100]"
+                            >
+                                {isMuted ? '🔇' : '🔊'}
+                            </button>
+                        </div>
+                    </SwiperSlide>
                 </Swiper>
+
 
 
                 {/* Custom arrows, placed outside Swiper 
