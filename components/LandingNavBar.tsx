@@ -148,8 +148,8 @@ const LandingNavBar: React.FC = () => {
 
                     {/* Hamburger Menu */}
                     <div className="md:hidden flex items-center pr-3 relative z-50">
-                        <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="text-[#025C7A]">
-                            <i className={`fas ${isMenuOpen ? "fa-times" : "fa-bars"} text-xl`} />
+                        <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="">
+                            <i className={`fas ${isMenuOpen ? "fa-times  text-[#025C7A]" : "fa-bars text-[#fff]"} text-xl`} />
                         </button>
                     </div>
 
