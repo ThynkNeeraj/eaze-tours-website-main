@@ -402,7 +402,7 @@ function Landing(props: ILandingProps) {
             {/* Two Horizontal Boxes */}
             <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-8 sm:flex-nowrap">
                 {/* First Box */}
-                <div className="w-full sm:w-1/2 h-[430px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
+                <div className="w-full sm:w-1/2 h-[360px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
                     {/* Extra div for zoom effect */}
                     <div className="absolute top-0 left-0 w-full h-full bg-cover bg-center rounded-lg transition-transform duration-300 ease-in-out group-hover:scale-110"
                         style={{
