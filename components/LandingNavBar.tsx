@@ -78,8 +78,8 @@ const LandingNavBar: React.FC = () => {
                         {/* Contact Details */}
                         <div className="flex gap-4">
                             <span className="flex items-center gap-2">
-                                <span className="relative w-6 h-6 flex items-center justify-center rounded-full bg-white text-black">
-                                    <i className="fas fa-phone fa-flip-horizontal text-xs" />
+                                <span className="relative flex items-center justify-center rounded-full bg-transparent text-white">
+                                    <i className="fas fa-phone fa-flip-horizontal text-[15px]" />
                                 </span>
                                 <a href="tel:+919873186168" className="text-white text-[16px]">+91 987 318 6168</a>
                             </span>
