@@ -27,20 +27,18 @@ import package_2_6 from '../public/images/2/6.jpg'
 import package_3_1 from '../public/images/3/1.jpg'
 import package_3_2 from '../public/images/3/2.jpg'
 import package_3_3 from '../public/images/3/3.jpg'
-import package_4_1 from '../public/images/4/1.jpeg'
-import package_4_2 from '../public/images/4/2.jpeg'
-import package_4_3 from '../public/images/4/3.jpeg'
-import package_4_4 from '../public/images/4/4.jpeg'
-import package_4_5 from '../public/images/4/5.jpeg'
-import package_4_6 from '../public/images/4/6.jpeg'
-import package_4_7 from '../public/images/4/7.jpeg'
-import package_4_8 from '../public/images/4/8.jpeg'
-import package_4_9 from '../public/images/4/9.jpeg'
-import package_4_10 from '../public/images/4/10.jpeg'
-import package_4_11 from '../public/images/4/11.jpeg'
-import package_4_12 from '../public/images/4/12.jpeg'
-import package_4_13 from '../public/images/4/13.jpeg'
-import package_4_14 from '../public/images/4/14.jpeg'
+import package_4_1 from '../public/images/4/1.jpg'
+import package_4_2 from '../public/images/4/2.jpg'
+import package_4_3 from '../public/images/4/3.jpg'
+import package_4_4 from '../public/images/4/4.jpg'
+import package_4_5 from '../public/images/4/5.jpg'
+import package_4_6 from '../public/images/4/6.jpg'
+import package_4_7 from '../public/images/4/7.jpg'
+import package_4_8 from '../public/images/4/8.jpg'
+import package_4_9 from '../public/images/4/9.jpg'
+import package_4_10 from '../public/images/4/10.jpg'
+import package_4_11 from '../public/images/4/11.jpg'
+import package_4_12 from '../public/images/4/12.jpg'
 import package_5_1 from '../public/images/5/1.jpeg'
 import package_5_2 from '../public/images/5/2.jpeg'
 import package_5_3 from '../public/images/5/3.jpg'
@@ -258,7 +256,7 @@ const package_images: { [key: string]: { main: StaticImageData, list: Array<Stat
     "1": { main: package_1_5, list: [package_1_1, package_1_2, package_1_3, package_1_4, package_1_5, package_1_6, package_1_7, package_1_8, package_1_9, package_1_10, package_1_11, package_1_12, package_1_13, package_1_14] },
     "2": { main: package_2_1, list: [package_2_1, package_2_2, package_2_3, package_2_4, package_2_5, package_2_6] },
     "3": { main: package_3_1, list: [package_3_1, package_3_2, package_3_3] },
-    "4": { main: package_4_1, list: [package_4_1, package_4_2, package_4_3, package_4_4, package_4_5, package_4_6, package_4_7, package_4_8, package_4_9, package_4_10, package_4_11, package_4_12, package_4_13, package_4_14,] },
+    "4": { main: package_4_1, list: [package_4_1, package_4_2, package_4_3, package_4_4, package_4_5, package_4_6, package_4_7, package_4_8, package_4_9, package_4_10, package_4_11, package_4_12] },
     "5": { main: package_5_1, list: [package_5_1, package_5_2, package_5_3] },
     "6": { main: package_6_1, list: [package_6_1, package_6_2, package_6_3] },
     "7": { main: package_7_1, list: [package_7_1, package_7_2, package_7_3] },
