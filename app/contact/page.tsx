@@ -72,6 +72,9 @@ export default function ContactUs() {
                                         <i className="lg:text-blueGray-200 text-blueGray-400 fas fa-phone-alt text-lg leading-lg " >   </i>    +91 991 168 4818
                                     </p>
                                     <p>
+                                        <i className="lg:text-blueGray-200 text-blueGray-400 fas fa-phone-alt text-lg leading-lg " >   </i>    +91 981 800 6830
+                                    </p>
+                                    <p>
                                         <i className="lg:text-blueGray-200 text-blueGray-400 fas fa-envelope text-lg leading-lg " >   </i>   info@eazetours.com
                                     </p>
                                 </span>
