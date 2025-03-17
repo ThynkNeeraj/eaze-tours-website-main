@@ -51,15 +51,32 @@ function Landing(props: ILandingProps) {
 
     const toggleAudio = () => {
         if (videoRef.current) {
-            if (isMuted) {
-                videoRef.current.muted = false;
-                videoRef.current.play().catch(err => console.error("Autoplay failed", err));
-            } else {
-                videoRef.current.muted = true;
-            }
+            videoRef.current.muted = !videoRef.current.muted;
             setIsMuted(videoRef.current.muted);
+
+            if (!videoRef.current.muted) {
+                videoRef.current.play().catch(err => console.error("Playback error", err));
+            }
         }
     };
+
+    // Play video with sound on page load
+    useEffect(() => {
+        const playVideoWithSound = async () => {
+            if (videoRef.current) {
+                try {
+                    await videoRef.current.play(); // Try playing with sound
+                } catch (error) {
+                    console.error("Autoplay with sound blocked, muting video.", error);
+                    videoRef.current.muted = true; // Mute if autoplay with sound fails
+                    setIsMuted(true);
+                    await videoRef.current.play(); // Play the video muted
+                }
+            }
+        };
+
+        playVideoWithSound();
+    }, []);
 
     // Detect screen size and change video source
     useEffect(() => {
@@ -247,8 +264,9 @@ function Landing(props: ILandingProps) {
                                     ref={videoRef}
                                     className="w-full h-full object-cover"
                                     autoPlay
-                                    muted={false}
                                     playsInline
+                                    loop
+                                    muted={false} // Try to play with sound
                                 >
                                     <source src={videoSrc} type="video/mp4" />
                                     Your browser does not support the video tag.
