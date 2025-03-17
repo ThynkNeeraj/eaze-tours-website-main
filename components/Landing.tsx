@@ -62,21 +62,6 @@ function Landing(props: ILandingProps) {
         }
     };
 
-    useEffect(() => {
-        const video = videoRef.current;
-        if (!video) return;
-
-        const restartVideo = () => {
-            if (video.duration) {
-                video.currentTime = Math.max(0, video.duration - 50);
-                video.play();
-            }
-        };
-
-        video.addEventListener("ended", restartVideo);
-        return () => video.removeEventListener("ended", restartVideo);
-    }, []);
-
     // Detect screen size *only after mount* to prevent hydration errors
     useEffect(() => {
         const updateVideoSrc = () => {
