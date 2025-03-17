@@ -45,10 +45,9 @@ function Landing(props: ILandingProps) {
     const [visibleBoxes, setVisibleBoxes] = useState(1);
     const boxWidth = useRef<number>(0);
     const infoSliderRef = useRef<HTMLDivElement>(null);
-    const [isMuted, setIsMuted] = useState(true);
-    const [videoSrc, setVideoSrc] = useState("");
-    const [videoKey, setVideoKey] = useState(0);
+    const [isMuted, setIsMuted] = useState(false);
     const videoRef = useRef<HTMLVideoElement>(null);
+    const [videoSrc, setVideoSrc] = useState("/video/Eaze_mp4.mp4");
 
     const toggleAudio = () => {
         if (videoRef.current) {
@@ -62,23 +61,37 @@ function Landing(props: ILandingProps) {
         }
     };
 
-    // Detect screen size *only after mount* to prevent hydration errors
+    useEffect(() => {
+        const video = videoRef.current;
+        if (!video) return;
+
+        const restartVideo = () => {
+            if (video.duration) {
+                video.currentTime = Math.max(0, video.duration - 50);
+                video.play();
+            }
+        };
+
+        video.addEventListener("ended", restartVideo);
+        return () => video.removeEventListener("ended", restartVideo);
+    }, []);
+
+    // Detect screen size and change video source
     useEffect(() => {
         const updateVideoSrc = () => {
-            const newSrc = window.innerWidth <= 768
-                ? "/video/Eazetour_Mobile_Format.mp4" // Mobile version
-                : "/video/Eaze_mp4.mp4"; // Desktop version
-
-            if (videoSrc !== newSrc) {
-                setVideoSrc(newSrc); // Update state
-                setVideoKey(prevKey => prevKey + 1); // Force re-render by changing key
-                console.log("Updated Video Source:", newSrc); // Debugging
+            if (window.innerWidth <= 768) {
+                setVideoSrc("/video/Eazetour_Mobile_Format.mp4"); // Mobile version
+            } else {
+                setVideoSrc("/video/Eaze_mp4.mp4"); // Desktop version
             }
         };
 
         updateVideoSrc(); // Initial check
         window.addEventListener("resize", updateVideoSrc);
-        return () => window.removeEventListener("resize", updateVideoSrc);
+
+        return () => {
+            window.removeEventListener("resize", updateVideoSrc);
+        };
     }, []);
 
     useEffect(() => {
@@ -228,7 +241,6 @@ function Landing(props: ILandingProps) {
 
                 <Swiper
                     spaceBetween={30}
-                    key={videoKey}
                     effect={"fade"}
                     fadeEffect={{ crossFade: true }}
                     loop={true}
@@ -250,8 +262,8 @@ function Landing(props: ILandingProps) {
                                     ref={videoRef}
                                     className="w-full h-full object-cover"
                                     autoPlay
+                                    muted={false}
                                     playsInline
-                                    muted={isMuted}
                                 >
                                     <source src={videoSrc} type="video/mp4" />
                                     Your browser does not support the video tag.
@@ -268,8 +280,6 @@ function Landing(props: ILandingProps) {
                         </div>
                     </SwiperSlide>
                 </Swiper>
-
-
 
                 {/* Custom arrows, placed outside Swiper 
                 <div className="swiper-button-next hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", right: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
