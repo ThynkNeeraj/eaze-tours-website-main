@@ -33,14 +33,11 @@ function Blog({ blog }: IBlogProp) {
                             <p className="text-md text-[#04000B]"><Link href={getPackageHref(blog.Urlb)} passHref>
                                 Continue Reading
                             </Link></p>
-                            <i className="fa fa-arrow-right text-lg text-[#025C7A] -mt-1" />
+                            <i className="fa fa-arrow-right text-[16px] mt-[5px] text-[#025C7A]" />
                         </div>
                     </div>
                 </div>
             </div>
-
-
-
         </>
     )
 
