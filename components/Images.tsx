@@ -335,7 +335,7 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                     <Image
                         src={images[0]}
                         alt="Large Gallery Image"
-                        className="w-full h-[200px] sm:h-[403px] object-cover rounded-[23px]"
+                        className="h-full object-cover rounded-[23px]"
                     />
                     {/* View All Button - Visible on Mobile Inside Left Image */}
                     <button
