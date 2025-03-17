@@ -331,12 +331,19 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
             {/* Image Grid */}
             <div className="grid grid-cols-10 gap-x-6 max-w-screen-xl mx-8 relative">
                 {/* Left Column (65%) */}
-                <div className="col-span-12 sm:col-span-7 h-full">
+                <div className="col-span-12 sm:col-span-7 h-full relative">
                     <Image
                         src={images[0]}
                         alt="Large Gallery Image"
                         className="w-full h-[200px] sm:h-[403px] object-cover rounded-[23px]"
                     />
+                    {/* View All Button - Visible on Mobile Inside Left Image */}
+                    <button
+                        className="absolute bottom-4 right-4 sm:hidden px-3 py-1 bg-black/40 border-2 border-white text-white text-sm rounded-md hover:bg-[#025C7A]"
+                        onClick={() => setIsModalOpen(true)}
+                    >
+                        View All
+                    </button>
                 </div>
 
                 {/* Right Column (35%) */}
@@ -356,9 +363,9 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                             alt="Small Bottom Image"
                             className="w-full h-full object-cover rounded-[23px]"
                         />
-                        {/* View All Button - Positioned at Bottom Right */}
+                        {/* View All Button - Positioned at Bottom Right for Larger Screens */}
                         <button
-                            className="absolute bottom-4 right-4 px-3 py-1 bg-black/40 border-2 border-white text-white text-sm rounded-md hover:bg-[#025C7A]"
+                            className="absolute bottom-4 right-4 hidden sm:block px-3 py-1 bg-black/40 border-2 border-white text-white text-sm rounded-md hover:bg-[#025C7A]"
                             onClick={() => setIsModalOpen(true)}
                         >
                             View All
@@ -366,6 +373,7 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                     </div>
                 </div>
             </div>
+
 
             {/* Fullscreen Lightbox Modal */}
             {isModalOpen && (
