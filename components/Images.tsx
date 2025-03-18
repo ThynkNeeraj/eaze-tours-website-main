@@ -298,7 +298,7 @@ function PackageImage({ source }: IPackageImageProp) {
                 src={package_images[source]["main"]}
                 style={{
                     objectFit: "cover",
-                    width: "auto",
+                    width: "100%",
                     height: "100%",
                 }}
                 alt="PackageImage"
