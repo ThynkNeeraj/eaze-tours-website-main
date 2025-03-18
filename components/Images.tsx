@@ -329,7 +329,7 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
     return (
         <>
             {/* Image Grid */}
-            <div className="grid grid-cols-10 gap-x-6 max-w-screen-xl mx-8 relative">
+            <div className="grid grid-cols-10 gap-x-6 max-w-screen-xl mx-8 relative h-full">
                 {/* Left Column (65%) */}
                 <div className="col-span-12 sm:col-span-7 h-full relative">
                     <Image
@@ -347,8 +347,8 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                 </div>
 
                 {/* Right Column (35%) */}
-                <div className="col-span-3 hidden sm:flex flex-col gap-y-6 h-[400px]">
-                    <div className="h-[189px]">
+                <div className="col-span-3 hidden sm:flex flex-col gap-y-6 h-full">
+                    <div className="h-1/2">
                         <Image
                             src={images[1]}
                             alt="Small Top Image"
@@ -357,7 +357,7 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                     </div>
 
                     {/* Bottom Image with View All Button */}
-                    <div className="h-[189px] relative">
+                    <div className="h-1/2 relative">
                         <Image
                             src={images[2]}
                             alt="Small Bottom Image"
@@ -373,7 +373,6 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                     </div>
                 </div>
             </div>
-
 
             {/* Fullscreen Lightbox Modal */}
             {isModalOpen && (
