@@ -6,7 +6,7 @@ import signature from '../public/images/logo.png';
 function Footer() {
   return (
     <footer className="footer flex flex-col bg-[#0D2000] text-white border-t-2 border-gray-300 gap-0">
-      <div className="container mx-auto flex flex-col md:flex-row gap-0 justify-between p-6 md:p-10">
+      <div className="container mx-auto flex flex-col md:flex-row gap-0 justify-between p-6 md:py-10 md:px-7">
         {/* First Column - Logo, Content, and Social Icons */}
 
         <div className="w-full md:w-[20%] mb-8 text-left pl-0">
@@ -30,9 +30,9 @@ function Footer() {
         </div>
 
         {/* Second Column - Useful Links */}
-        <div className="w-full md:w-[38%] mb-8 pl-1 md:pl-5 md:pt-10">
+        <div className="w-full md:w-[34%] mb-8 pl-1 md:pl-5 md:pt-10">
           <div className="text-lg font-semibold mb-4 border-top-2">India Best Tour Packages</div>
-          <ul className="grid sm:grid-cols-2 gap-x-4 gap-y-2">
+          <ul className="grid sm:grid-cols-2 gap-x-0 gap-y-2">
             <li><Link href="/forts-and-palaces-india" className="hover:text-blue-600 transition-colors">Fort and Palaces of India</Link></li>
             <li><Link href="/royal-rajasthan-tour-package-india" className="hover:text-blue-600 transition-colors">Luxury Tour Package</Link></li>
             <li><Link href="/gujarat-tribal-tour-package-india" className="hover:text-blue-600 transition-colors">Tribal Tour Package India</Link></li>
@@ -49,9 +49,9 @@ function Footer() {
         </div>
 
         {/* Third Column - Top Destinations */}
-        <div className="w-full md:w-[14%] mb-8 pl-1 md:pl-6 md:pt-10">
+        <div className="w-full md:w-[14%] mb-8 pl-1 md:pl-8 md:pt-10">
           <div className="text-lg font-semibold mb-4">Top Destinations</div>
-          <ul className="space-y-2">
+          <ul className="space-y-2 pl-1">
             <li><Link href="/packages/classical-delhi-jaipur-agra-khajurao-varanasi-tour-india" className="hover:text-blue-600 transition-colors">Delhi</Link></li>
             <li><Link href="/packages/forts-of-rajasthan-from-delhi-11-days-package-india" className="hover:text-blue-600 transition-colors">Jaipur</Link></li>
             <li><Link href="/packages/golden-triangle-delhi-agra-jaipur-7-days-package-india" className="hover:text-blue-600 transition-colors">Agra</Link></li>
@@ -61,9 +61,9 @@ function Footer() {
         </div>
 
         {/* Fouth Column - Top Destinations */}
-        <div className="w-full md:w-[13%] mb-8 pl-1 md:pl-6 md:pt-10">
+        <div className="w-full md:w-[13%] mb-8 pl-1 md:pl-8 md:pt-10">
           <div className="text-lg font-semibold mb-4">Useful Links</div>
-          <ul className="space-y-2">
+          <ul className="space-y-2 pl-1">
             <li><Link href="/about" className="hover:text-blue-600 transition-colors">About Us</Link></li>
             <li><Link href="/contact" className="hover:text-blue-600 transition-colors">Contact Us</Link></li>
             <li><Link href="/packages" className="hover:text-blue-600 transition-colors">Packages</Link></li>
@@ -74,7 +74,7 @@ function Footer() {
         </div>
 
         {/* Fifth Column - Contact Info */}
-        <div className="w-full md:w-[20%] mb-8 pl-1 md:pl-4 md:pt-10">
+        <div className="w-full md:w-[20%] mb-8 pl-1 md:pl-1 md:pt-10">
           <div className="text-lg font-semibold mb-4">Contact Us</div>
           <div className="space-y-4">
             <div className="flex items-start space-x-2">
