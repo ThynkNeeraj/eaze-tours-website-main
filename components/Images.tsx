@@ -298,8 +298,8 @@ function PackageImage({ source }: IPackageImageProp) {
                 src={package_images[source]["main"]}
                 style={{
                     objectFit: "cover",
-                    width: "100%",
-                    height: "auto",
+                    width: "auto",
+                    height: "100%",
                 }}
                 alt="PackageImage"
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -335,7 +335,7 @@ function PackageImageSwiper({ source }: IPackageImageProp) {
                     <Image
                         src={images[0]}
                         alt="Large Gallery Image"
-                        className="h-full object-cover rounded-[23px]"
+                        className="w-full h-full object-cover rounded-[23px]"
                     />
                     {/* View All Button - Visible on Mobile Inside Left Image */}
                     <button
