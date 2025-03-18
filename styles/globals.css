@@ -122,3 +122,12 @@
         padding-bottom: 1rem;
     }
 }
+
+@media (max-width: 600px) {
+.package_detail .blog-image {
+    aspect-ratio: 3 / 2;
+}
+.package_detail .blog-flex-box {
+    padding-left: 10px;
+}
+}
