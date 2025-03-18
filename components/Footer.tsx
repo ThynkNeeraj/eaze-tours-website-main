@@ -9,7 +9,7 @@ function Footer() {
       <div className="container mx-auto flex flex-col md:flex-row gap-0 justify-between p-6 md:p-10">
         {/* First Column - Logo, Content, and Social Icons */}
 
-        <div className="w-full md:w-[20%] mb-8 text-left pl-1 md:pl-8">
+        <div className="w-full md:w-[20%] mb-8 text-left pl-0">
           <Link href="/" passHref><Image className="z-0 mb-4 md:mx-0" src={signature} width={200} height={87} alt="Logo"></Image></Link>
 
           <p className="text-sm mt-2 mb-4">Established in 2015, Eaze Tours is driven by three travel professionals, with decades of combined varied experience in the tour industry.</p>
@@ -30,7 +30,7 @@ function Footer() {
         </div>
 
         {/* Second Column - Useful Links */}
-        <div className="w-full md:w-[38%] mb-8 pl-1 md:pl-10 md:pt-10">
+        <div className="w-full md:w-[38%] mb-8 pl-1 md:pl-5 md:pt-10">
           <div className="text-lg font-semibold mb-4 border-top-2">India Best Tour Packages</div>
           <ul className="grid sm:grid-cols-2 gap-x-4 gap-y-2">
             <li><Link href="/forts-and-palaces-india" className="hover:text-blue-600 transition-colors">Fort and Palaces of India</Link></li>
