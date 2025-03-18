@@ -17,7 +17,7 @@ function VerticalTimelineElement({ time, title, description, isLast }: VerticalT
             </div>
 
             <div className={timelineClass}>
-                <time className="text-[18px] font-bold font-[urbanist] pt-[0px] pl-[10px] sm:pl-[0px]">Day {time} : {title}</time>
+                <time className="text-[18px] font-bold font-[urbanist] pt-[0px] pl-[10px] sm:pl-[0px] block">Day {time} : {title}</time>
                 <ul className="package_detail text-[#4f5e71] text-justify break-words mt-4 font-[urbanist] font-[500] flex flex-col gap-2 text-[16px] leading-[1.5em]"
                     dangerouslySetInnerHTML={{ __html: description }}>
                 </ul>
