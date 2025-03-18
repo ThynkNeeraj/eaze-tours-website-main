@@ -715,7 +715,7 @@ function Landing(props: ILandingProps) {
                                                     Continue Reading
                                                 </Link>
                                             </p>
-                                            <i className="fa fa-arrow-right text-lg text-[#025C7A] -mt-1" />
+                                            <i className="fa fa-arrow-right text-lg text-[#025C7A] mt-[0px]" />
                                         </div>
                                     </div>
                                 </div>
