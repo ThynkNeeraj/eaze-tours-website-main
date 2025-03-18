@@ -411,14 +411,14 @@ function Landing(props: ILandingProps) {
             {/* Heading for the next section */}
 
             <div className="my-12 max-w-[1280px] sm:mx-8">
-                <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
+                <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-4" style={{ fontSize: '32px' }}>
                     Trip  Ideas To Inspire You
                 </h2>
 
             </div>
 
             {/* Two Horizontal Boxes */}
-            <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-8 sm:flex-nowrap">
+            <div className="flex flex-wrap justify-between gap-4 my-12 mb-[120px] max-w-[1280px] mx-11 sm:flex-nowrap">
                 {/* First Box */}
                 <div className="w-full sm:w-1/2 h-[360px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
                     {/* Extra div for zoom effect */}
@@ -469,12 +469,12 @@ function Landing(props: ILandingProps) {
 
             {/* Heading for the next section */}
             <div className="my-12 max-w-[1280px] mx-8">
-                <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
+                <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-4" style={{ fontSize: '32px' }}>
                     Popular Packages
                 </h2>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 max-w-[1280px] mx-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 max-w-[1280px] mx-10   ">
                 {packages.map(tourPackage => (
                     <div key={tourPackage.Id} className="h-full">
                         <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
@@ -492,7 +492,7 @@ function Landing(props: ILandingProps) {
             </div >
 
             < div className="my-12 max-w-[1280px] mx-8 sm:mx-auto" >
-                <div className="flex text-center sm:text-left mb-4 flex-wrap justify-center gap-4 mx-8 sm:justify-between sm:gap-0">
+                <div className="flex text-center sm:text-left mb-4 flex-wrap justify-center gap-4 mx-12 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                         What Clients Say About Us
                     </h2>
@@ -528,7 +528,7 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
             {/* New Section - Subscribe Section */}
-            <div className="max-w-[1280px] mx-8 h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }}>
+            <div className="max-w-[1280px] mx-11 h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }}>
                 <div className="w-[600px] bg-black p-8 pb-12 rounded-[23px] text-left">
                     <h2 className="text-white text-[40px] mb-4 font-semibold leading-[1.2em]">Subscribe & Get 20% off</h2>
                     <p className="text-white mb-6">Subscribe to our newsletter and get the latest updates and exclusive offers.</p>
@@ -564,8 +564,8 @@ function Landing(props: ILandingProps) {
                 </div>
             </div>
             {/* Gallery Section */}
-            <div className="max-w-[1280px] mx-auto py-16 bg-white">
-                <div className="my-12 max-w-screen-xl mx-8">
+            <div className="mx-2 py-16 bg-white">
+                <div className="my-12 max-w-screen-xl mx-12">
                     <div className="flex justify-between items-center mb-8">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
                             The Unforgettable Tour Gallery
@@ -574,7 +574,7 @@ function Landing(props: ILandingProps) {
                 </div>
 
                 {/* Gallery Grid */}
-                <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 max-w-screen-xl mx-8">
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 mx-11">
                     {images.map((image, index) => (
                         <div key={index} className="relative group">
                             <Image
@@ -640,8 +640,8 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
 
-            <div className="max-w-[1280px] mx-auto bg-white">
-                <div className="max-w-screen-xl mx-8 my-4">
+            <div className="bg-white mx-12">
+                <div className="max-w-screen-xl my-4">
                     <div className="flex justify-between items-center mt-[120px] mb-0">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
                             Our Accreditations & Certifications
@@ -650,7 +650,7 @@ function Landing(props: ILandingProps) {
                 </div>
 
                 {/* Gallery Grid */}
-                <div className="grid grid-cols-2 sm:grid-cols-5 justify-center items-center gap-0 max-w-screen-xl mx-8">
+                <div className="grid grid-cols-2 sm:grid-cols-5 justify-center items-center gap-0 max-w-screen-xl">
                     {[isoimage, msmeimage, latoimage, sepcimage, mtfoimage].map((imgSrc, index) => (
                         <div key={index} className="w-full aspect-square flex justify-center p-6 items-center">
                             <Image
@@ -664,7 +664,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Heading Before the Testimonial Slider */}
-            <div className="my-12 max-w-[1280px] mx-8">
+            <div className="my-12 max-w-[1280px] mx-12">
                 <h2 className="text-2xl font-semibold text-black mt-[100px]" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
