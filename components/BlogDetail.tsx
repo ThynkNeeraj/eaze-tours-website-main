@@ -68,7 +68,7 @@ export default function BlogDetail({ blogId }: BlogDetailProps) {
                 <h1 className="text-[30px] text-left font-semibold mb-8 sm:text-[45px]">{blog.title}</h1>
 
                 {/* Hero Image */}
-                <div className="relative w-full h-[250px] sm:h-[600px] rounded-[40px] overflow-hidden mb-8">
+                <div className="relative w-full h-[200px] sm:h-[250px] sm:h-[600px] rounded-[40px] overflow-hidden mb-8">
                     <Image src={blog.image} alt={blog.title} fill className="object-cover" priority />
                 </div>
 
@@ -112,7 +112,7 @@ export default function BlogDetail({ blogId }: BlogDetailProps) {
                                 {section.subheadings.map((subheading, subIndex) => (
                                     <div key={subIndex}>
                                         <h3 className="text-xl font-semibold mb-2">{subheading.title}</h3>
-                                        <p className="prose prose-lg max-w-none">{renderContent(subheading.content, subheading.links)}</p>
+                                        <p className="prose prose-lg max-w-none">{subheading.content}</p>
                                     </div>
                                 ))}
                             </div>
