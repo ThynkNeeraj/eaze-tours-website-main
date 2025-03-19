@@ -1,12 +1,12 @@
 interface IItineraryLineDataType {
-    name: { [key: string]: string }
-    description: { [key: string]: string }
-    Id: { [key: string]: string }
-    day: { [key: string]: string }
+    name: { [key: string]: string };
+    description: { [key: string]: string };
+    Id: { [key: string]: string };
+    day: { [key: string]: string };
 }
 
 interface IItineraryDetailDataType {
-    M: IItineraryLineDataType
+    M: IItineraryLineDataType;
 }
 
 interface IPackageDetailDataType {
@@ -37,13 +37,71 @@ interface ITestimonialDataType {
     Img: string;
 }
 
-interface IBlogDataType {
-    Urlb: string;
-    Title: string;
-    Page_heading: string;
-    Description: string;
-    Content: string;
-    Img: string;
+// Blog structure interfaces
+interface IBlogLink {
+    text: string;
+    url: string;
+    key: string;
 }
 
-export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType, IBlogDataType }
+type IBlogLinks = IBlogLink[];
+
+interface IBlogIntroduction {
+    content: string;
+    links?: IBlogLinks;
+}
+
+interface IBlogBulletPoint {
+    title?: string;
+    content: string;
+}
+
+interface IBlogSubheading {
+    title: string;
+    content: string;
+    links?: IBlogLinks;
+}
+
+interface IBlogSection {
+    heading: string;
+    content?: string;
+    links?: IBlogLinks;
+    bullet_points?: Array<string | IBlogBulletPoint>;
+    subheadings?: Array<IBlogSubheading>;
+}
+
+interface IBlogConclusion {
+    heading: string;
+    content: string;
+    links?: IBlogLinks;
+}
+
+interface IBlogStructure {
+    introduction: IBlogIntroduction;
+    main_sections: Array<IBlogSection>;
+    conclusion: IBlogConclusion;
+}
+
+interface IBlogDataType {
+    url: string;
+    title: string;
+    description: string;
+    image: string;
+    structure: IBlogStructure;
+}
+
+export type {
+    IPackageDetailDataType,
+    IItineraryDetailDataType,
+    IItineraryLineDataType,
+    ITestimonialDataType,
+    IBlogDataType,
+    IBlogIntroduction,
+    IBlogSection,
+    IBlogConclusion,
+    IBlogStructure,
+    IBlogLink,
+    IBlogLinks,
+    IBlogBulletPoint,
+    IBlogSubheading,
+};
