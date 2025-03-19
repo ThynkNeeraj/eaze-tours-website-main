@@ -77,7 +77,7 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                         <ul className="text-[#4f5e71] font-[urbanist] font-[500] font-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Summary }} />
                     </div>
                 </div>
-                {/* <ContactForm /> */}
+                <ContactForm />
             </div>
 
             <div className="my-12 max-w-screen-xl mx-8">
