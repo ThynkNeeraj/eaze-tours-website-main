@@ -33,18 +33,18 @@ function Footer() {
         <div className="w-full md:w-[34%] mb-8 pl-1 md:pl-5 md:pt-10">
           <div className="text-lg font-semibold mb-4 border-top-2">India Best Tour Packages</div>
           <ul className="grid sm:grid-cols-2 gap-x-0 gap-y-2">
-            <li><Link href="/forts-and-palaces-india" className="hover:text-blue-600 transition-colors">Fort and Palaces of India</Link></li>
-            <li><Link href="/royal-rajasthan-tour-package-india" className="hover:text-blue-600 transition-colors">Luxury Tour Package</Link></li>
-            <li><Link href="/gujarat-tribal-tour-package-india" className="hover:text-blue-600 transition-colors">Tribal Tour Package India</Link></li>
-            <li><Link href="/kerala-cochin-trivandrum-tour-india" className="hover:text-blue-600 transition-colors">Kerala Tour Package</Link></li>
-            <li><Link href="/ayurveda-tour-package-kerala-india" className="hover:text-blue-600 transition-colors">Ayurveda Tour in India</Link></li>
-            <li><Link href="/chardham-pilgrimage-tour-package-india" className="hover:text-blue-600 transition-colors">Chardham Tour Package India</Link></li>
-            <li><Link href="/tiger-safari-tour-india" className="hover:text-blue-600 transition-colors">Tiger Safari Tour Package</Link></li>
+            <li><Link href="/packages/forts-and-palaces-india" className="hover:text-blue-600 transition-colors">Fort and Palaces of India</Link></li>
+            <li><Link href="/packages/royal-rajasthan-tour-package-india" className="hover:text-blue-600 transition-colors">Luxury Tour Package</Link></li>
+            <li><Link href="/packages/gujarat-tribal-tour-package-india" className="hover:text-blue-600 transition-colors">Tribal Tour Package India</Link></li>
+            <li><Link href="/packages/kerala-cochin-trivandrum-tour-india" className="hover:text-blue-600 transition-colors">Kerala Tour Package</Link></li>
+            <li><Link href="/packages/ayurveda-tour-package-kerala-india" className="hover:text-blue-600 transition-colors">Ayurveda Tour in India</Link></li>
+            <li><Link href="/packages/chardham-pilgrimage-tour-package-india" className="hover:text-blue-600 transition-colors">Chardham Tour Package India</Link></li>
+            <li><Link href="/packages/tiger-safari-tour-india" className="hover:text-blue-600 transition-colors">Tiger Safari Tour Package</Link></li>
             <li><Link href="/packages" className="hover:text-blue-600 transition-colors">Best Tours to India from USA</Link></li>
-            <li><Link href="/wildlife-safari-tour-package-india" className="hover:text-blue-600 transition-colors">Wildlife Tour Package</Link></li>
-            <li><Link href="/markha-trek-leh-travel-package" className="hover:text-blue-600 transition-colors">Trekking Tour Package in India</Link></li>
-            <li><Link href="/south-india-tour-package-india" className="hover:text-blue-600 transition-colors">South India Tour Package</Link></li>
-            <li><Link href="/romantic-andaman-tour-package-india" className="hover:text-blue-600 transition-colors">Honeymoon Tour Package India</Link></li>
+            <li><Link href="/packages/wildlife-safari-tour-package-india" className="hover:text-blue-600 transition-colors">Wildlife Tour Package</Link></li>
+            <li><Link href="/packages/markha-trek-leh-travel-package" className="hover:text-blue-600 transition-colors">Trekking Tour Package in India</Link></li>
+            <li><Link href="/packages/south-india-tour-package-india" className="hover:text-blue-600 transition-colors">South India Tour Package</Link></li>
+            <li><Link href="/packages/romantic-andaman-tour-package-india" className="hover:text-blue-600 transition-colors">Honeymoon Tour Package India</Link></li>
           </ul>
         </div>
 
