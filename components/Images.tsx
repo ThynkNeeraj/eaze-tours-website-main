@@ -39,9 +39,17 @@ import package_4_9 from '../public/images/4/9.jpg'
 import package_4_10 from '../public/images/4/10.jpg'
 import package_4_11 from '../public/images/4/11.jpg'
 import package_4_12 from '../public/images/4/12.jpg'
-import package_5_1 from '../public/images/5/1.jpeg'
-import package_5_2 from '../public/images/5/2.jpeg'
+import package_5_1 from '../public/images/5/1.jpg'
+import package_5_2 from '../public/images/5/2.jpg'
 import package_5_3 from '../public/images/5/3.jpg'
+import package_5_4 from '../public/images/5/4.jpg'
+import package_5_5 from '../public/images/5/5.jpg'
+import package_5_6 from '../public/images/5/6.jpg'
+import package_5_7 from '../public/images/5/7.jpg'
+import package_5_8 from '../public/images/5/8.jpg'
+import package_5_9 from '../public/images/5/9.jpg'
+import package_5_10 from '../public/images/5/10.jpg'
+import package_5_11 from '../public/images/5/11.jpg'
 import package_6_1 from '../public/images/6/1.jpeg'
 import package_6_2 from '../public/images/6/2.jpeg'
 import package_6_3 from '../public/images/6/3.jpeg'
@@ -53,9 +61,20 @@ import package_8_2 from '../public/images/8/2.jpg'
 import package_8_3 from '../public/images/8/3.jpg'
 import package_8_4 from '../public/images/8/4.jpg'
 import package_8_5 from '../public/images/8/5.jpg'
-import package_9_1 from '../public/images/9/1.jpeg'
-import package_9_2 from '../public/images/9/2.jpeg'
+import package_9_1 from '../public/images/9/1.jpg'
+import package_9_2 from '../public/images/9/2.jpg'
 import package_9_3 from '../public/images/9/3.jpg'
+import package_9_4 from '../public/images/9/4.jpg'
+import package_9_5 from '../public/images/9/5.jpg'
+import package_9_6 from '../public/images/9/6.jpg'
+import package_9_7 from '../public/images/9/7.jpg'
+import package_9_8 from '../public/images/9/8.jpg'
+import package_9_9 from '../public/images/9/9.jpg'
+import package_9_10 from '../public/images/9/10.jpg'
+import package_9_11 from '../public/images/9/11.jpg'
+import package_9_12 from '../public/images/9/12.jpg'
+import package_9_13 from '../public/images/9/13.jpg'
+import package_9_14 from '../public/images/9/14.jpg'
 import package_10_1 from '../public/images/10/1.jpeg'
 import package_10_2 from '../public/images/10/2.jpeg'
 import package_10_3 from '../public/images/10/3.jpeg'
@@ -257,11 +276,11 @@ const package_images: { [key: string]: { main: StaticImageData, list: Array<Stat
     "2": { main: package_2_1, list: [package_2_1, package_2_2, package_2_3, package_2_4, package_2_5, package_2_6] },
     "3": { main: package_3_1, list: [package_3_1, package_3_2, package_3_3] },
     "4": { main: package_4_1, list: [package_4_1, package_4_2, package_4_3, package_4_4, package_4_5, package_4_6, package_4_7, package_4_8, package_4_9, package_4_10, package_4_11, package_4_12] },
-    "5": { main: package_5_1, list: [package_5_1, package_5_2, package_5_3] },
+    "5": { main: package_5_1, list: [package_5_1, package_5_2, package_5_3, package_5_4, package_5_5, package_5_6, package_5_7, package_5_8, package_5_9, package_5_10, package_5_11] },
     "6": { main: package_6_1, list: [package_6_1, package_6_2, package_6_3] },
     "7": { main: package_7_1, list: [package_7_1, package_7_2, package_7_3] },
     "8": { main: package_8_1, list: [package_8_1, package_8_2, package_8_3, package_8_4, package_8_5] },
-    "9": { main: package_9_1, list: [package_9_1, package_9_2, package_9_3] },
+    "9": { main: package_9_1, list: [package_9_1, package_9_2, package_9_3, package_9_4, package_9_5, package_9_6, package_9_7, package_9_8, package_9_9, package_9_10, package_9_11, package_9_12, package_9_13, package_9_14] },
     "10": { main: package_10_1, list: [package_10_1, package_10_2, package_10_3, package_10_4, package_10_5, package_10_6, package_10_7, package_10_8, package_10_9, package_10_10, package_10_11] },
     "11": { main: package_11_1, list: [package_11_1, package_11_2, package_11_3, package_11_4, package_11_5, package_11_6, package_11_7, package_11_8] },
     "12": { main: package_12_1, list: [package_12_1, package_12_2, package_12_3] },
