@@ -2700,7 +2700,7 @@
                         "S": "Delhi to Chandigarh"
                     },
                     "description": {
-                        "S": "<li>Arrive at Delhi airport, meet your coach, and proceed towards Chandigarh.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival at Delhi airport, meet your designated coach and begin your journey towards Chandigarh, a city known for its modern architecture and well-planned layout. Enjoy the scenic drive as you pass through the picturesque countryside of North India. Chandigarh, designed by the renowned architect Le Corbusier, is often referred to as the 'City Beautiful' due to its clean streets, lush greenery, and well-maintained gardens. Upon arrival, check into your hotel and take some time to relax after your journey. Depending on your arrival time, you may explore the local markets or take a leisurely walk around the city. Enjoy a comfortable overnight stay at your hotel in Chandigarh.</li></div><div class='img-flex-center'><img src='/images/15/1.jpg' alt='Depart from Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -2716,7 +2716,7 @@
                         "S": "Chandigarh to Manali"
                     },
                     "description": {
-                        "S": "<li>Drive towards Manali, with a stop en route to visit Vaishnomata Mandir at Kullu.</li><li>Arrive in Manali by the evening.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After an early breakfast, embark on a scenic drive from Chandigarh to Manali, a breathtaking hill station nestled in the Himalayas. En route, take a refreshing stop at Kullu, known for its stunning valleys, apple orchards, and vibrant handicrafts. Visit the revered Vaishno Mata Mandir, a popular pilgrimage site dedicated to Goddess Vaishno Devi, where devotees seek blessings for prosperity and well-being. Continue your journey through winding mountain roads, picturesque villages, and the majestic Beas River flowing alongside. By evening, arrive in Manali, a paradise for nature lovers and adventure seekers. Check into your hotel and unwind, preparing for the exciting days ahead. Enjoy a comfortable overnight stay in Manali.</li></div><div class='img-flex-center'><img src='/images/15/2.jpg' alt='Depart from Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -2732,7 +2732,7 @@
                         "S": "Manali to Solang Valley and Back"
                     },
                     "description": {
-                        "S": "<li>Start the day with water rafting in the Beas River (subject to weather conditions). Then head to Solang Valley, a stunning location between Solang Village and Beas Kund, offering breathtaking views of glaciers, snow-capped mountains, and ski slopes.</li><li>Note: For safety reasons, children under 12 years of age or weighing less than 35 kg are not permitted for water rafting.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your day with an exhilarating experience of water rafting in the Beas River, navigating through its thrilling rapids amidst stunning mountain scenery (subject to weather conditions). After this adrenaline-pumping adventure, proceed towards the breathtaking Solang Valley, nestled between Solang Village and Beas Kund. Known for its panoramic views of glaciers, snow-capped peaks, and vast ski slopes, the valley is a haven for adventure lovers. Depending on the season, you can indulge in activities like skiing, paragliding, zorbing, and snowmobiling. Spend time soaking in the serene beauty or enjoying a cable car ride to get a mesmerizing aerial view of the valley. Return to Manali by evening and relax at your hotel for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/15/3.jpg' alt='Depart from Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -2748,7 +2748,7 @@
                         "S": "Manali to Rohtang Snow Point and Back"
                     },
                     "description": {
-                        "S": "<li>Enjoy a scenic drive to Rohtang Snow Point, where you will have free time to play and enjoy the snow.</li><li>Note: Rohtang Pass is 51 km away from Manali and is covered with snow for most of the year.</li><li>We typically visit a snow point on the Rohtang road, as permitted by the Border Security Force.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your day with a scenic drive towards Rohtang Snow Point, a breathtaking destination renowned for its pristine snow-covered landscapes and panoramic mountain views. Situated 51 km from Manali, Rohtang remains blanketed in snow for most of the year, making it a perfect spot for snow activities. Enjoy free time playing in the snow, building snowmen, or engaging in thrilling activities like sledging, skiing, and snow biking. Important Note: Rohtang Pass access is subject to government and Border Security Force (BSF) permissions. If travel to Rohtang Pass is restricted, you will visit the designated snow point along the route where activities are permitted. After an exciting day in the snow, return to Manali by evening and relax at your hotel for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/15/4.jpg' alt='Depart from Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -2764,7 +2764,7 @@
                         "S": "Manali Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Explore ancient temples in the morning, including Jagatsukh Gayatri Mandir, Vashista Kund, and Hidimba Mandir.</li><li>The rest of the day is free for shopping or leisure activities.</li><li>In the evening, enjoy a get-together with your travel companions.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Start your day with a visit to Jagatsukh Gayatri Mandir, followed by the Vashisht Kund, known for its natural hot water springs. Next, explore the Hidimba Devi Temple, an ancient wooden shrine set amidst tall cedar forests. After the temple visits, spend your afternoon strolling through Mall Road, shopping for souvenirs, woolens, and local handicrafts. You can also indulge in adventure activities or relax at a cozy café. As the evening sets in, enjoy a delightful get-together with your travel companions, sharing stories and experiences over music and refreshments. This day perfectly balances spirituality, exploration, and relaxation, making your Manali trip unforgettable. Overnight stay in Manali.</li></div><div class='img-flex-center'><img src='/images/15/5.jpg' alt='Depart from Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -2780,7 +2780,7 @@
                         "S": "Manali to Chandigarh"
                     },
                     "description": {
-                        "S": "<li>Proceed back to Chandigarh, with a visit to Kullu Valley and the Shawl Factory in Kullu.</li><li>Arrive in Chandigarh by evening.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, begin your journey back to Chandigarh, passing through the scenic Kullu Valley, known for its breathtaking landscapes and lush greenery. En route, visit a Shawl Factory in Kullu, where you can witness the intricate craftsmanship of traditional Himachali woolens and shop for souvenirs. Enjoy the picturesque drive along the Beas River, soaking in the serene mountain views. By evening, arrive in Chandigarh and check into your hotel. The rest of the evening is free for relaxation or an optional visit to local markets for shopping. This marks the end of a memorable journey through the Himalayan wonders. Overnight stay in Chandigarh.</li></div><div class='img-flex-center'><img src='/images/15/6.jpg' alt='Depart from Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -2796,7 +2796,7 @@
                         "S": "Chandigarh to Delhi and Departure"
                     },
                     "description": {
-                        "S": "<li>Head towards Delhi, where you will board your flight back home. Tour concludes.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After an early breakfast, embark on your journey back to Delhi, enjoying the comfortable drive through the well-connected highway. Upon arrival in Delhi, proceed to the airport for your onward flight back home, marking the end of a wonderful trip filled with cherished memories. Take with you the unforgettable experiences of the scenic Himalayan landscapes, adventure activities, and cultural explorations from the past few days. Bid farewell to your fellow travelers as your tour concludes. Safe travels!</li></div><div class='img-flex-center'><img src='/images/15/7.jpg' alt='Depart from Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
