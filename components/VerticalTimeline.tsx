@@ -55,7 +55,7 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                     </div>
                 </div>
 
-                <div className="overflow-auto border-0 sm:border-2 rounded-[20px]">
+                <div className="overflow-auto border-0 sm:border-2 sm:mx-8 mx-0 rounded-[20px]">
                     <ul className="timeline timeline-snap-icon timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
                         <h2 className="text-2xl font-bold font-[urbanist] text-black text-left mx-8 mb-4">What to Expect</h2>
                         {tourPackage.Itinerary.map((itinerary, index, array) => (
