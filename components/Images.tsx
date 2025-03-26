@@ -129,6 +129,10 @@ import package_14_7 from '../public/images/14/7.jpg'
 import package_15_1 from '../public/images/15/1.jpg'
 import package_15_2 from '../public/images/15/2.jpg'
 import package_15_3 from '../public/images/15/3.jpg'
+import package_15_4 from '../public/images/15/4.jpg'
+import package_15_5 from '../public/images/15/5.jpg'
+import package_15_6 from '../public/images/15/6.jpg'
+import package_15_7 from '../public/images/15/7.jpg'
 import package_16_1 from '../public/images/16/1.jpg'
 import package_16_2 from '../public/images/16/2.jpg'
 import package_16_3 from '../public/images/16/3.jpg'
@@ -309,7 +313,7 @@ const package_images: { [key: string]: { main: StaticImageData, list: Array<Stat
     "12": { main: package_12_1, list: [package_12_1, package_12_2, package_12_3, package_12_4, package_12_5, package_12_6, package_12_7, package_12_8] },
     "13": { main: package_13_1, list: [package_13_1, package_13_2, package_13_3, package_13_4, package_13_5, package_13_6, package_13_7, package_13_8, package_13_9, package_13_10, package_13_11] },
     "14": { main: package_14_1, list: [package_14_1, package_14_2, package_14_3, package_14_4, package_14_5, package_14_6, package_14_7] },
-    "15": { main: package_15_1, list: [package_15_1, package_15_2, package_15_3] },
+    "15": { main: package_15_1, list: [package_15_1, package_15_2, package_15_3, package_15_4, package_15_5, package_15_6, package_15_7] },
     "16": { main: package_16_1, list: [package_16_1, package_16_2, package_16_3] },
     "17": { main: package_17_1, list: [package_17_1, package_17_2, package_17_3, package_17_4, package_17_5, package_17_6, package_17_7, package_17_8, package_17_9, package_17_10] },
     "18": { main: package_18_1, list: [package_18_1, package_18_2, package_18_3, package_18_4, package_18_5, package_18_6, package_18_7, package_18_8, package_18_9, package_18_10, package_18_11, package_18_12, package_18_13] },
