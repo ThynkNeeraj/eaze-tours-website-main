@@ -678,7 +678,7 @@
                         "S": "Arrival Leh"
                     },
                     "description": {
-                        "S": "<li>Arrival at Leh airport meet to our representative and transfer to hotel, during the check in time you will get tea, coffee, snacks, etc.</li><li> Complete the check formalities.</li><li> After lunch commence walking tour in the market or visit Shanti Stupa, Tsomo Castle.</li><li> Overnight at hotel. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival at Leh airport, you will be warmly welcomed by our representative and transferred to your hotel. As you check in, you will be served refreshing tea, coffee, and snacks to help you settle in comfortably. After completing the check-in formalities, you can relax and acclimatize to the high-altitude surroundings. Following a delicious lunch, embark on a leisurely walking tour through the local market, where you can explore traditional crafts and immerse yourself in the vibrant atmosphere. Alternatively, visit the serene Shanti Stupa and the historic Tsomo Castle, both offering breathtaking views of the region. Conclude your day with a comfortable overnight stay at the hotel, where you will be served a delightful breakfast and dinner.</li></div><div class='img-flex-center'><img src='/images/5/1.jpg' alt='Arrival Leh' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -694,7 +694,7 @@
                         "S": "Leh Sightseeing"
                     },
                     "description": {
-                        "S": "<li>After breakfast full day sightseeing of Lamayuru, Rizong, Alchi, Gurudwara Pathar Saheb, Nimmo (Confluence of Indus and Zanskar River).</li><li> Drive back to Leh, rest of the time free for indivIdual activities.</li><li> Overnight at hotel (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, set out for a full-day sightseeing tour around Leh. Visit the ancient Lamayuru Monastery, followed by the serene Rizong Monastery and the historic Alchi Monastery, known for its exquisite murals. Stop at Gurudwara Pathar Saheb, a revered Sikh shrine, and witness the stunning confluence of the Indus and Zanskar rivers at Nimmo. After an enriching day, return to Leh and enjoy some free time for personal activities. End the day with a relaxing overnight stay at the hotel with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/2.jpg' alt='Leh Sightseeing' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -710,7 +710,7 @@
                         "S": "Leh – Spituk (Kali Temple) – Zinchen: 4-5 H. Trek"
                     },
                     "description": {
-                        "S": "<li>After the breakfast drive to Spituk BrIdge behind the Spituk monastery, around 7 kms from Leh town.</li><li> From Spituk brIdge starts the trekking along Indus River walking through flat and desolate plane at the foot of the Stok Mountain.</li><li> Ascend to higher altitudes, crossing breathtaking mountain passes.</li><li> Soon you arrive at Zingchen through a gorge, which gives you a feeling of complete isolation.</li><li> Stay overnight in Camp at Zingchen. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, drive to Spituk Bridge, located about 7 kilometers from Leh, behind the Spituk Monastery. From here, begin your trekking adventure along the Indus River, traversing a flat and desolate plain at the base of the majestic Stok Mountains. As you ascend to higher altitudes, cross breathtaking mountain passes that offer stunning panoramic views. The trail eventually leads through a dramatic gorge, creating a sense of complete isolation before reaching Zingchen. Conclude the day with an overnight stay in a camp at Zingchen, with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/3.jpg' alt='Leh – Spituk (Kali Temple)' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -726,7 +726,7 @@
                         "S": "Zinchen – Yurutse: 5-6 H. Trek"
                     },
                     "description": {
-                        "S": "<li>Leave Zingchen for Rumbak through a straight forward road; leaving village, you enter Hemis national park for the preservation of Snow leopard, Baharal, marmot, wolf etc.</li><li> Walk through a narrow trail and valley wIdens as you arrive Rumbak and camp at Yurutse below Gandala Pass.</li><li> Overnight in Camp. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, set off from Zingchen towards Rumbak, following a straightforward trail that gradually leads into Hemis National Park, home to rare wildlife such as the elusive snow leopard, bharal, marmots, and wolves. As you trek through a narrow path, the valley gradually opens up, revealing breathtaking landscapes. Continue your journey until you reach Yurutse, a serene campsite nestled below the majestic Gandala Pass. Spend the night in a camp, surrounded by the tranquility of the mountains, with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/4.jpg' alt='Zinchen – Yurutse' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -742,7 +742,7 @@
                         "S": "Yurutse – Gondala (4350m) – Shingo – Skyu: 7 – 8 H. Trek"
                     },
                     "description": {
-                        "S": "<li>From Yurutse follow the path along the mountain sIde, then cross a small valley and follow zig zag steep path.</li><li> There after cross Gandala pass (4380m).</li><li> Then walk the long descent towards Shingo for 2 hrs that will lead to the valley of Markha and after few hundred meters you reach Skyu.</li><li> Overnight halt in tents. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, begin your trek from Yurutse, following a scenic path along the mountainside before crossing a small valley. The trail then ascends steeply in a zigzag pattern, leading to the breathtaking Gandala Pass at 4,380 meters. After soaking in the panoramic views, start the long descent towards Shingo, a journey of about two hours, gradually entering the picturesque Markha Valley. A short walk further brings you to the village of Skyu, where you will set up camp for an overnight stay in tents, with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/5.jpg' alt='Yurutse – Gondala' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -758,7 +758,7 @@
                         "S": "Skyu – Markha Village: 7-8 H. Trek."
                     },
                     "description": {
-                        "S": "<li>After breakfast commence trek to Markha village, follow a good path on the right bank of Markha where one can find great vegetation.</li><li> Then cross the right bank of river then the barren plain and arrive at Chaluk.</li><li> Thereafter, walk along the left bank of river and after another crossing climb towards Markha village.</li><li> Towards the end of the village there are good camp site near the river.</li><li> Overnight stay in tents. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, begin your trek towards Markha Village, following a well-defined trail along the right bank of the Markha River, where lush vegetation contrasts with the rugged landscape. Cross the river to reach a barren plain before arriving at Chaluk. Continue along the left bank, navigating another river crossing before ascending towards Markha Village. At the far end of the village, set up camp near the river, offering a peaceful and scenic resting spot. Enjoy an overnight stay in tents with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/6.jpg' alt='Skyu – Markha Village' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -774,7 +774,7 @@
                         "S": "Markha Village – Hankar – Thachunche: 7-8 H. Trek"
                     },
                     "description": {
-                        "S": "<li>Right after breakfast you start trekking in the morning to reach Tchatchutse via Hankar village.</li><li> Overnight in tents. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, begin your trek towards Tchatchutse, passing through the picturesque village of Hankar. The trail offers stunning views of the surrounding mountains and landscapes as you gradually ascend through the valley. After a long yet rewarding journey, reach Tchatchutse and settle into your campsite for an overnight stay in tents, with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/7.jpg' alt='Markha Village – Hankar – Thachunche' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -790,7 +790,7 @@
                         "S": "Thachunche – Nimaling: 5-6 H. Trek"
                     },
                     "description": {
-                        "S": "<li>After breakfast start trekking to reach Nimaling.</li><li> Nimaling (4900 M) has a sweeping pasture where thousands of sheep, goats and yaks graze during the summer months.</li><li> Rising to the south is 6400 M high Kang Yatse (Nimaling Peak), a lovely mountain, but not an easy one to climb.</li><li> Overnight in tents. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, set out on a trek towards Nimaling, a breathtaking high-altitude pasture at 4,900 meters. This vast grazing land comes alive in the summer months with herds of sheep, goats, and yaks. Towering to the south stands Kang Yatse, a majestic 6,400-meter peak, offering a stunning backdrop to the serene landscape. After a rewarding trek, settle into your campsite for an overnight stay in tents, with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/8.jpg' alt='Thachunche – Nimaling' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -806,7 +806,7 @@
                         "S": "Nimaling – Shang Sumdo: 7-8 H. Trek"
                     },
                     "description": {
-                        "S": "<li>After breakfast start trekking to reach Kongmaru La (5100 M).</li><li> The trek to Kongmaru la passes through narrow gorges.</li><li> From the top of the pass, you can have a view of Ladakh ranges and the sight of villages to the north of Indus valley is excellent.</li><li> Cross the pass and proceed to Shang.</li><li> Overnight in tents. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, begin your trek towards Kongmaru La, the highest pass of the journey at 5,100 meters. The trail winds through dramatic narrow gorges before reaching the summit, where breathtaking views of the Ladakh ranges and the distant villages of the Indus Valley unfold. After soaking in the panoramic scenery, descend from the pass and continue trekking towards Shang Sumdo. Conclude the day's adventure with an overnight stay in tents, with dinner included.</li></div><div class='img-flex-center'><img src='/images/5/9.jpg' alt='Nimaling – Shang Sumdo' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -822,7 +822,7 @@
                         "S": "Shang Sumdo Village – Hemis – Leh: 2 H. Trek /Drive"
                     },
                     "description": {
-                        "S": "<li>Walk along the stream down to Hemis monastery, which is one of the oldest and richest monasteries in Ladakh.</li><li> Visit Hemis monastery and drive to Leh, enroute visit Thiksey Monastery, Shey Palace and Stok Palace cum museum.</li><li> On arrival at Leh check in hotel, rest of the time free for indivIdual activities. (B/D).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, take a short trek along the stream leading to Hemis Monastery, one of the oldest and wealthiest monasteries in Ladakh. Explore its vibrant murals, ancient artifacts, and spiritual ambiance before driving back to Leh. En route, visit Thiksey Monastery, known for its grand Maitreya Buddha statue, followed by Shey Palace and Stok Palace, which also houses a fascinating museum. Upon arrival in Leh, check into your hotel and enjoy the rest of the day at leisure for individual activities. Dinner and an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/5/10.jpg' alt='Shang Sumdo Village – Hemis' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -838,7 +838,7 @@
                         "S": "Leh Departure"
                     },
                     "description": {
-                        "S": "<li>After breakfast in time depart from the base location, taking with you unforgettable memories departure transfer to airport, board onward flight and a sense of accomplishment.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast in time depart from the base location, taking with you unforgettable memories departure transfer to airport, board onward flight and a sense of accomplishment.</li></div><div class='img-flex-center'><img src='/images/5/11.jpg' alt='Leh Departure' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -1522,7 +1522,7 @@
                         "S": "Ayurveda – A Balance of Body, Mind, and Soul"
                     },
                     "description": {
-                        "S": "<li>Arrival in Kerala, the heart of authentic Ayurvedic healing.</li><li>Begin your journey with a holistic Ayurvedic treatment that rejuvenates your body, mind, and soul.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Arrive in Kerala, the land of authentic Ayurvedic healing, and begin your wellness journey. Experience a holistic Ayurvedic treatment that revitalizes your body, calms your mind, and nourishes your soul. Let the serene environment and ancient therapies guide you toward deep relaxation and transformation. Rejuvenate with herbal oils, therapeutic massages, and personalized treatments designed to restore balance and harmony. Immerse yourself in the wisdom of Ayurveda, where centuries-old traditions offer natural healing and renewal. Kerala’s lush landscapes and tranquil retreats provide the perfect setting for a profound wellness experience. Embrace the journey to holistic well-being and return refreshed, recharged, and deeply renewed. Your path to true wellness starts here.</li></div><div class='img-flex-center'><img src='/images/9/1.jpg' alt='Ayurveda – A Balance of Body, Mind, and Soul' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -1538,7 +1538,7 @@
                         "S": "The Blessings of Nature"
                     },
                     "description": {
-                        "S": "<li>Experience Kerala’s unique climate, lush forests, and cool monsoon season, ideal for Ayurvedic healing.</li><li>Learn how the high humidity levels enhance the effectiveness of natural medicines.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Immerse yourself in Kerala’s tranquil embrace, where nature enhances your healing journey. The region’s lush greenery, fresh air, and cool monsoon climate create the ideal atmosphere for deep rejuvenation. The high humidity boosts the absorption of herbal medicines, making Ayurvedic treatments more effective in restoring balance and vitality. Let the soothing rains and serene surroundings amplify your wellness experience, ensuring a profound connection between nature and healing. As you relax amidst Kerala’s natural beauty, feel your stress melt away, replaced by a sense of renewal and harmony. Embrace the blessings of nature and allow Ayurveda to work its magic on your body and mind.</li></div><div class='img-flex-center'><img src='/images/9/2.jpg' alt='The Blessings of Nature' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -1554,7 +1554,7 @@
                         "S": "Dental Vacations"
                     },
                     "description": {
-                        "S": "<li>Explore world-class dental care in Kerala at affordable rates.</li><li>Receive dental treatments like root canal therapy, crowns, implants, and more, all combined with a relaxing vacation.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Combine wellness with world-class dental care in Kerala, where affordability meets excellence. Experience high-quality treatments like root canals, crowns, and implants from skilled professionals using advanced technology. As you enhance your smile, immerse yourself in Kerala’s serene landscapes, from tranquil backwaters to lush greenery, ensuring a stress-free recovery. The region’s holistic healing environment complements your dental treatments, promoting relaxation and overall well-being. Enjoy a rejuvenating getaway while receiving top-tier care at a fraction of international costs. Whether for cosmetic enhancements or essential procedures, Kerala offers the perfect blend of healthcare and leisure, making your dental vacation both rewarding and revitalizing.</li></div><div class='img-flex-center'><img src='/images/9/3.jpg' alt='Dental Vacations' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -1570,7 +1570,7 @@
                         "S": "Ayurveda for Rejuvenation"
                     },
                     "description": {
-                        "S": "<li>Embark on a rejuvenating Ayurvedic treatment package in Kerala’s renowned hospitals and resorts.</li><li>Enjoy daily yoga, meditation, and treatments for stress management, including all meals and accommodation.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Embark on a transformative Ayurvedic journey at Kerala’s top hospitals and wellness resorts, where ancient wisdom blends with modern comfort. Rejuvenate your body and mind through daily yoga, meditation, and personalized stress-relief treatments. Experience the healing touch of expert therapists using time-tested herbal therapies to restore balance and vitality. Indulge in nourishing Ayurvedic meals tailored to support your well-being, while serene accommodations provide the perfect space for relaxation and renewal. Surrounded by Kerala’s tranquil landscapes, immerse yourself in a holistic retreat that refreshes your senses and revitalizes your soul. Let Ayurveda guide you toward lasting wellness, inner harmony, and complete rejuvenation.</li></div><div class='img-flex-center'><img src='/images/9/4.jpg' alt='Ayurveda for Rejuvenation' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -1586,13 +1586,13 @@
                         "S": "Abhyangam (Oil Massage)"
                     },
                     "description": {
-                        "S": "<li>Experience Abhyangam, a specialized oil massage aimed at treating specific conditions.</li><li>This daily 45-minute massage addresses rheumatism, poor blood circulation, and more.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Indulge in the rejuvenating benefits of Abhyangam, a traditional Ayurvedic oil massage known for its deep healing effects. This specialized 45-minute therapy uses warm herbal oils tailored to your body’s needs, enhancing blood circulation, relieving muscle tension, and alleviating rheumatic discomfort. Through rhythmic strokes and expert techniques, Abhyangam nourishes the skin, calms the nervous system, and promotes overall well-being. As the therapeutic oils penetrate deeply, toxins are flushed out, leaving you feeling refreshed and revitalized. Experience the profound relaxation and rejuvenation that this ancient therapy offers, restoring balance to both body and mind. Let the healing power of Ayurveda bring you renewed energy and vitality.</li></div><div class='img-flex-center'><img src='/images/9/5.jpg' alt='Abhyangam (Oil Massage)' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
                     },
                     "day": {
-                        "N": "4"
+                        "N": "5"
                     }
                 }
             },
@@ -1602,13 +1602,13 @@
                         "S": "Ilakkizhi (Patrasweda)"
                     },
                     "description": {
-                        "S": "<li>Enjoy the healing effects of Ilakkizhi, where bundles of herbal leaves and grated coconut are used for a soothing massage.</li><li>This treatment helps with rheumatic pains and joint swelling.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Discover the healing power of Ilakkizhi, a traditional Ayurvedic therapy designed to relieve pain and rejuvenate the body. Warm bundles of medicinal leaves, grated coconut, and herbal powders are gently massaged over the body using rhythmic strokes. The heat and medicinal properties penetrate deep into the muscles and joints, easing stiffness, reducing inflammation, and enhancing blood circulation. This therapy is especially effective for alleviating rheumatic pain, joint swelling, and muscular tension, promoting deep relaxation and overall well-being. As your body absorbs the therapeutic warmth, feel stress and discomfort melt away, leaving you refreshed, re-energized, and deeply healed by Ayurveda’s ancient wisdom.</li></div><div class='img-flex-center'><img src='/images/9/6.jpg' alt='Ilakkizhi (Patrasweda)' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
                     },
                     "day": {
-                        "N": "4"
+                        "N": "6"
                     }
                 }
             },
@@ -1618,7 +1618,7 @@
                         "S": "Podikkizhi (Choornasweda)"
                     },
                     "description": {
-                        "S": "<li>Try Podikkizhi, a therapeutic sweating treatment using herbal-filled linen bags.</li><li>This method balances the Vata and Kapha doshas, offering relief from body discomfort.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Experience the rejuvenating power of Podikkizhi, an Ayurvedic therapy that revitalizes the body and calms the mind. Warm linen bags filled with medicinal herbs and powders are gently massaged over the body, inducing therapeutic sweating that helps eliminate toxins. This detoxifying treatment balances Vata and Kapha doshas, relieving body aches, muscle stiffness, and joint discomfort. As the warmth penetrates deep into the tissues, it enhances blood circulation, reduces inflammation, and promotes overall well-being. The soothing heat and rhythmic massage work together to dissolve stress and tension, leaving you feeling deeply relaxed, re-energized, and refreshed. Let Ayurveda’s ancient wisdom restore your vitality and balance.</li></div><div class='img-flex-center'><img src='/images/9/7.jpg' alt='Podikkizhi (Choornasweda)' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -1634,7 +1634,7 @@
                         "S": "Panchakarma"
                     },
                     "description": {
-                        "S": "<li>Detoxify your body with Panchakarma, an Ayurvedic purification process.</li><li>Five treatments (Vamana, Virechana, Snehavasti, Kashayavasti, Nasya) cleanse and restore vitality.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Embark on the ultimate Ayurvedic detox with Panchakarma, a transformative purification therapy that restores balance and vitality. This intensive process comprises five specialized treatments—Vamana (therapeutic vomiting), Virechana (purgation), Snehavasti (oil enema), Kashayavasti (decoction enema), and Nasya (nasal therapy)—each designed to eliminate deep-seated toxins from the body. By cleansing the digestive system, improving circulation, and rejuvenating internal organs, Panchakarma enhances overall well-being and promotes long-term health. Under expert Ayurvedic guidance, this therapy revitalizes both body and mind, leaving you feeling lighter, healthier, and more energized. Surrender to this ancient healing ritual and experience complete renewal from within.</li></div><div class='img-flex-center'><img src='/images/9/8.jpg' alt='Panchakarma' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -1650,7 +1650,7 @@
                         "S": "Abhyangam with Special Face Massage"
                     },
                     "description": {
-                        "S": "<li>Indulge in a combined treatment of traditional Abhyangam and a rejuvenating facial massage.</li><li>Herbal extracts and essential oils are used to promote glowing skin and relaxation.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Indulge in the ultimate relaxation with Abhyangam combined with a special Ayurvedic face massage, a rejuvenating therapy that revitalizes both body and mind. Warm herbal oils are gently massaged over the body using rhythmic strokes, enhancing circulation, relieving muscle tension, and promoting overall well-being. The specialized facial massage, enriched with herbal extracts and essential oils, deeply nourishes the skin, improving texture, glow, and elasticity. This holistic therapy not only enhances skin radiance but also calms the nervous system, alleviates stress, and restores inner harmony. Experience a profound sense of relaxation and renewal as Ayurveda works its magic, leaving you refreshed, rejuvenated, and glowing with vitality.</li></div><div class='img-flex-center'><img src='/images/9/9.jpg' alt='Abhyangam with Special Face Massage' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -1666,7 +1666,7 @@
                         "S": "Udvarthanam (Herbal Powder Massage)"
                     },
                     "description": {
-                        "S": "<li>Experience Udvarthanam, a unique upward massage with herbal powder to aid in slimming and weight reduction.</li><li>This treatment helps reduce excess fat and fight obesity.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Rejuvenate your body with Udvarthanam, a unique Ayurvedic therapy that uses herbal powders in a vigorous upward massage to stimulate circulation and detoxification. This energizing treatment helps break down excess fat, improves metabolism, and supports weight management, making it ideal for those seeking a toned and revitalized body. The friction generated by the massage exfoliates the skin, enhances lymphatic drainage, and removes toxins, leaving you feeling lighter, refreshed, and full of vitality. As the herbal powders penetrate deep into the skin, they promote a natural glow while balancing Kapha dosha. Experience the transformative benefits of Udvarthanam and embrace a renewed sense of energy and well-being.</li></div><div class='img-flex-center'><img src='/images/9/10.jpg' alt='Udvarthanam (Herbal Powder Massage)' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -1682,7 +1682,7 @@
                         "S": "Navarakkizhi"
                     },
                     "description": {
-                        "S": "<li>Treat your body to Navarakkizhi, a massage using linen bags filled with Navara rice.</li><li>Beneficial for conditions like arthritis, muscle weakness, and fibromyalgia, this treatment promotes anti-aging and rejuvenation.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Immerse yourself in the healing warmth of Navarakkizhi, a specialized Ayurvedic therapy that deeply nourishes and rejuvenates the body. In this unique treatment, warm linen bags filled with Navara rice—a medicinal variety cooked in herbal decoctions—are gently massaged over the body. This soothing therapy enhances muscle strength, relieves arthritis, fibromyalgia, and nerve-related disorders, while promoting anti-aging and overall rejuvenation. The rich nutrients in Navara rice deeply penetrate the tissues, improving skin texture, reducing inflammation, and restoring vitality. Ideal for those seeking renewed energy and relief from chronic pain, Navarakkizhi offers a luxurious and therapeutic experience, leaving you feeling refreshed, revitalized, and balanced.</li></div><div class='img-flex-center'><img src='/images/9/11.jpg' alt='Navarakkizhi' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -1698,7 +1698,7 @@
                         "S": "Ksheeradhara"
                     },
                     "description": {
-                        "S": "<li>Ksheeradhara involves pouring medicated milk over the body to calm the Pitta dosha.</li><li>Enjoy the relaxing effects of this therapy, particularly beneficial for stress and skin disorders.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Experience the deeply calming and nourishing effects of Ksheeradhara, an Ayurvedic therapy where a continuous stream of medicated milk is gently poured over the body or forehead. This cooling treatment helps balance Pitta dosha, making it ideal for relieving stress, anxiety, insomnia, and skin disorders. The herbal-infused milk penetrates the skin, providing intense hydration, soothing inflammation, and enhancing overall skin radiance. As the warm, rhythmic flow relaxes the nervous system, it induces a state of deep relaxation and mental clarity. Ideal for those seeking emotional and physical rejuvenation, Ksheeradhara leaves you feeling refreshed, serene, and revitalized from within.</li></div><div class='img-flex-center'><img src='/images/9/12.jpg' alt='Ksheeradhara' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -1714,7 +1714,7 @@
                         "S": "Thakradhara"
                     },
                     "description": {
-                        "S": "<li>Experience Thakradhara, a deeply relaxing therapy involving the pouring of buttermilk over the forehead.</li><li>It alleviates stress, improves memory, and helps with conditions like insomnia and hypertension.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Unwind with Thakradhara, a deeply soothing Ayurvedic therapy where a continuous stream of medicated buttermilk is gently poured over the forehead. This cooling treatment is highly effective in calming the mind, relieving stress, anxiety, migraines, and insomnia, while also helping manage hypertension and memory-related concerns. The therapeutic properties of buttermilk help balance Pitta dosha, reducing excess heat in the body and promoting a state of deep relaxation and mental clarity. As the gentle flow soothes the nervous system, you’ll experience a profound sense of peace and rejuvenation. Ideal for those seeking stress relief and emotional balance, Thakradhara leaves you feeling refreshed, calm, and revitalized.</li></div><div class='img-flex-center'><img src='/images/9/13.jpg' alt='Thakradhara' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -1730,7 +1730,7 @@
                         "S": "Pizhichil"
                     },
                     "description": {
-                        "S": "<li>Conclude your Ayurvedic journey with Pizhichil, where lukewarm medicated oil is poured over the body for healing.</li><li>Effective for conditions like paralysis and muscle spasms, this treatment balances the Vata dosha.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Conclude your Ayurvedic journey with Pizhichil, a luxurious therapy that combines oil bathing and gentle massage for deep relaxation and healing. In this soothing treatment, warm medicated oil is continuously poured over the body while skilled hands massage it in slow, rhythmic strokes. This therapy deeply nourishes muscles, rejuvenates the nervous system, and alleviates conditions like paralysis, arthritis, and muscle spasms. By effectively balancing Vata dosha, Pizhichil enhances blood circulation, relieves stress, and promotes overall well-being. As the warmth seeps into your body, you’ll feel profound relaxation, renewed energy, and inner harmony, making it the perfect conclusion to your rejuvenating Ayurvedic retreat.</li></div><div class='img-flex-center'><img src='/images/9/14.jpg' alt='Pizhichil' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
