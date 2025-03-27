@@ -50,17 +50,42 @@ import package_5_8 from '../public/images/5/8.jpg'
 import package_5_9 from '../public/images/5/9.jpg'
 import package_5_10 from '../public/images/5/10.jpg'
 import package_5_11 from '../public/images/5/11.jpg'
-import package_6_1 from '../public/images/6/1.jpeg'
-import package_6_2 from '../public/images/6/2.jpeg'
-import package_6_3 from '../public/images/6/3.jpeg'
+import package_6_1 from '../public/images/6/1.jpg'
+import package_6_2 from '../public/images/6/2.jpg'
+import package_6_3 from '../public/images/6/3.jpg'
+import package_6_4 from '../public/images/6/4.jpg'
+import package_6_5 from '../public/images/6/5.jpg'
+import package_6_6 from '../public/images/6/6.jpg'
+import package_6_7 from '../public/images/6/7.jpg'
+import package_6_8 from '../public/images/6/8.jpg'
+import package_6_9 from '../public/images/6/9.jpg'
 import package_7_1 from '../public/images/7/1.jpg'
 import package_7_2 from '../public/images/7/2.jpg'
 import package_7_3 from '../public/images/7/3.jpg'
-import package_8_1 from '../public/images/8/1.jpeg'
+import package_7_4 from '../public/images/7/4.jpg'
+import package_7_5 from '../public/images/7/5.jpg'
+import package_7_6 from '../public/images/7/6.jpg'
+import package_7_8 from '../public/images/7/8.jpg'
+import package_7_9 from '../public/images/7/9.jpg'
+import package_7_10 from '../public/images/7/10.jpg'
+import package_7_11 from '../public/images/7/11.jpg'
+import package_7_12 from '../public/images/7/12.jpg'
+import package_7_13 from '../public/images/7/13.jpg'
+import package_7_14 from '../public/images/7/14.jpg'
+import package_7_15 from '../public/images/7/15.jpg'
+import package_7_16 from '../public/images/7/16.jpg'
+import package_8_1 from '../public/images/8/1.jpg'
 import package_8_2 from '../public/images/8/2.jpg'
 import package_8_3 from '../public/images/8/3.jpg'
 import package_8_4 from '../public/images/8/4.jpg'
 import package_8_5 from '../public/images/8/5.jpg'
+import package_8_6 from '../public/images/8/6.jpg'
+import package_8_7 from '../public/images/8/7.jpg'
+import package_8_8 from '../public/images/8/8.jpg'
+import package_8_9 from '../public/images/8/9.jpg'
+import package_8_10 from '../public/images/8/10.jpg'
+import package_8_11 from '../public/images/8/11.jpg'
+import package_8_12 from '../public/images/8/12.jpg'
 import package_9_1 from '../public/images/9/1.jpg'
 import package_9_2 from '../public/images/9/2.jpg'
 import package_9_3 from '../public/images/9/3.jpg'
@@ -304,9 +329,9 @@ const package_images: { [key: string]: { main: StaticImageData, list: Array<Stat
     "3": { main: package_3_1, list: [package_3_1, package_3_2, package_3_3] },
     "4": { main: package_4_1, list: [package_4_1, package_4_2, package_4_3, package_4_4, package_4_5, package_4_6, package_4_7, package_4_8, package_4_9, package_4_10, package_4_11, package_4_12] },
     "5": { main: package_5_1, list: [package_5_1, package_5_2, package_5_3, package_5_4, package_5_5, package_5_6, package_5_7, package_5_8, package_5_9, package_5_10, package_5_11] },
-    "6": { main: package_6_1, list: [package_6_1, package_6_2, package_6_3] },
-    "7": { main: package_7_1, list: [package_7_1, package_7_2, package_7_3] },
-    "8": { main: package_8_1, list: [package_8_1, package_8_2, package_8_3, package_8_4, package_8_5] },
+    "6": { main: package_6_1, list: [package_6_1, package_6_2, package_6_3, package_6_4, package_6_5, package_6_6, package_6_7, package_6_8, package_6_9] },
+    "7": { main: package_7_1, list: [package_7_1, package_7_2, package_7_3, package_7_4, package_7_5, package_7_6, package_7_8, package_7_9, package_7_10, package_7_11, package_7_12, package_7_13, package_7_14, package_7_15, package_7_16] },
+    "8": { main: package_8_1, list: [package_8_1, package_8_2, package_8_3, package_8_4, package_8_5, package_8_6, package_8_7, package_8_8, package_8_9, package_8_10, package_8_11, package_8_12] },
     "9": { main: package_9_1, list: [package_9_1, package_9_2, package_9_3, package_9_4, package_9_5, package_9_6, package_9_7, package_9_8, package_9_9, package_9_10, package_9_11, package_9_12, package_9_13, package_9_14] },
     "10": { main: package_10_1, list: [package_10_1, package_10_2, package_10_3, package_10_4, package_10_5, package_10_6, package_10_7, package_10_8, package_10_9, package_10_10, package_10_11, package_10_12, package_10_13, package_10_14] },
     "11": { main: package_11_1, list: [package_11_1, package_11_2, package_11_3, package_11_4, package_11_5, package_11_6, package_11_7, package_11_8, package_11_9, package_11_10, package_11_11] },
