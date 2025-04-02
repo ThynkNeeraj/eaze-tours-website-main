@@ -16,7 +16,7 @@ function BlogSummaryCard({ blog }: IBlogProp) {
             <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1">
                 <div
                     className="w-full h-[160px] sm:h-[210px] aspect-w-2 aspect-h-1 bg-cover bg-center rounded-t-[23px] border-b border-gray-300"
-                    style={{ backgroundImage: `url(${blog.image})` }}
+                    style={{ backgroundImage: `url(${blog.feature_image})` }}
                 ></div>
                 <div className="w-full px-4 py-10 flex flex-col justify-center gap-2 sm:gap-5">
                     <div className="flex items-start space-x-2">
