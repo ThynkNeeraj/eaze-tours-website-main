@@ -87,6 +87,7 @@ interface IBlogDataType {
     title: string;
     description: string;
     image: string;
+    feature_image: string;
     structure: IBlogStructure;
 }
 
