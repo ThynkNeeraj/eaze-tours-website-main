@@ -1,7 +1,7 @@
 import BlogList from "../../../components/blogs";
 import BlogDetail from "../../../components/BlogDetail";
 import { notFound } from "next/navigation";
-import blogData from "../../../data/blog.json";
+import blogData from "../../../data/blog-structure.json";
 
 import { Metadata } from 'next';
 
@@ -19,12 +19,12 @@ export async function generateMetadata(
 
   if (slug !== undefined && slug.length === 1) {
     const blogUrlb = slug[0];
-    const blog = blogData.find((item) => item.Urlb === blogUrlb);
+    const blog = blogData.find((item) => item.url === blogUrlb);
 
     if (blog) {
       return {
-        title: blog.Title,
-        description: blog.Description,
+        title: blog.title,
+        description: blog.description,
       };
     }
   }
@@ -48,13 +48,13 @@ export default function Blogs({ params }: { params: { slug?: string[] } }) {
     );
   } else if (slug.length === 1) {
     const blogUrlb = slug[0];
-    const blog = blogData.find((item) => item.Urlb === blogUrlb);
+    const blog = blogData.find((item) => item.url === blogUrlb);
 
     if (blog) {
       return (
         <div>
           <div className="mt-16">
-            <BlogDetail blogId={blog.Urlb} />
+            <BlogDetail blogId={blog.url} />
           </div>
         </div>
       );
