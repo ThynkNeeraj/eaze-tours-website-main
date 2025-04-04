@@ -5773,7 +5773,7 @@
                         "S": "Arrive in Delhi"
                     },
                     "description": {
-                        "S": "<li>Upon arrival in Delhi, you will be greeted and transferred to your hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon your arrival in Delhi, you will be warmly greeted by our representative at the airport, who will be waiting to welcome you with a friendly smile and assist you with your luggage. From there, you will be comfortably transferred to your hotel in a private, air-conditioned vehicle. During the drive, you can catch a glimpse of the bustling streets and vibrant culture of India’s capital city. Once you arrive at your hotel, you will proceed with the check-in process and have time to relax and settle in after your journey.</li></div><div class='img-flex-center'><img src='/images/30/1.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -5789,7 +5789,7 @@
                         "S": "Delhi Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Begin your day with a sightseeing tour of Old Delhi, a city with a rich historical tapestry.</li> <li>Your first stop is the Red Fort, constructed by the Mughal Emperor Shah Jahan when he moved his capital from Agra.</li> <li>A short drive will take you to the Jama Masjid, one of India's largest mosques.</li> <li>Continue to Rajghat, the memorial dedicated to Mahatma Gandhi.</li> <li>In the afternoon, explore New Delhi with visits to the Qutub Minar, the tallest stone tower in India, built in 1191 AD.</li> <li>Also visit Chhatarpur Temple, known for its peaceful atmosphere, and Humayun’s Tomb, which inspired the Taj Mahal and many later Mughal tombs.</li> <li>Lastly, visit the Bahai Temple, a stunning lotus-shaped structure that welcomes people from all faiths.</li> <li>Afterward, check out from the hotel and transfer to the railway station to board the overnight train to Bikaner.</li> <li>Overnight aboard the train.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Your day begins with a sightseeing tour of Old Delhi, a city known for its rich historical tapestry.  The first stop is the Red Fort, constructed by the Mughal Emperor Shah Jahan.  A short drive will take you to the Jama Masjid, one of India's largest mosques.  You will then continue to Rajghat, the memorial dedicated to Mahatma Gandhi.  In the afternoon, you will explore New Delhi, with visits to the Qutub Minar, the tallest stone tower in India, built in 1191 AD.  You will also visit Chhatarpur Temple, known for its peaceful atmosphere, and Humayun’s Tomb, which served as an inspiration for the Taj Mahal and many later Mughal tombs.  The last visit of the day is to the Bahai Temple, a stunning lotus-shaped structure that welcomes people of all faiths.  Afterward, you will check out from the hotel and be transferred to the railway station to board the overnight train to Bikaner.  You will spend the night on the train.</li></div><div class='img-flex-center'><img src='/images/30/2.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -5805,7 +5805,7 @@
                         "S": "Bikaner to Gajner (Drive: 45 km / 1 hr)"
                     },
                     "description": {
-                        "S": "<li>Upon arrival in Bikaner, you will be assisted and transferred to the Gajner Palace.</li> <li>Check in and spend the rest of the day at leisure.</li> <li>You can explore the palace surroundings on horse-drawn carriages (buggies) or open jeeps, or take a nature walk in the nearby forest.</li> <li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Bikaner, you will receive assistance and be transferred to the Gajner Palace.  After checking in, you can spend the rest of the day at leisure. You have the option to explore the palace surroundings in horse-drawn carriages (buggies) or open jeeps, or take a nature walk in the nearby forest.  You will stay overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/30/3.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -5821,7 +5821,7 @@
                         "S": "Gajner to Bikaner and back to Gajner"
                     },
                     "description": {
-                        "S": "<li>In the morning, enjoy a sightseeing tour of Bikaner, beginning with a visit to Junagarh Fort, built by Raja Rai Singhji in the 16th century.</li> <li>Continue to Devi Kund Sagar, a royal cremation site with beautiful cenotaphs (Chhatris) of Bikaner’s rulers.</li> <li>The architecture of these cenotaphs is a significant highlight, with Maharaja Surat Singh’s Chhatri being a stunning example of white marble and Rajput painting.</li> <li>Later, visit the Deshnok Temple, dedicated to Karni Mata, an incarnation of Durga, famous for its rats, considered sacred by devotees.</li> <li>Return to Gajner for the evening and relax.</li> <li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will enjoy a sightseeing tour of Bikaner, starting with a visit to Junagarh Fort, built by Raja Rai Singhji in the 16th century.  The tour continues to Devi Kund Sagar, a royal cremation site featuring beautiful cenotaphs (Chhatris) of Bikaner’s rulers.  The architecture of these cenotaphs is a significant highlight, with Maharaja Surat Singh’s Chhatri being a stunning example of white marble and Rajput painting.  Later, you will visit the Deshnok Temple, dedicated to Karni Mata, an incarnation of Durga, which is famous for its rats, considered sacred by devotees.  In the evening, you will return to Gajner to relax, with an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/30/4.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -5837,7 +5837,7 @@
                         "S": "Gajner to Mandawa (Drive: 250 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>After checking out from the hotel, drive to Mandawa.</li> <li>On arrival, check in at Hotel Castle Mandawa.</li> <li>Spend the rest of the day exploring this charming town, known for its beautiful Havelis adorned with exquisite frescoes.</li> <li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After checking out from the hotel, you will drive to Mandawa, a quaint town in the heart of Rajasthan known for its rich cultural heritage and historical significance. Upon arrival, you will check in at the beautifully restored Hotel Castle Mandawa, a former royal residence that offers a glimpse into the region’s regal past. The rest of the day is spent exploring this charming town, renowned for its stunning Havelis adorned with intricate frescoes and detailed artwork that reflect the opulence of a bygone era. As you wander through the narrow lanes, you'll discover architectural marvels and hidden gems that tell stories of merchant families and royal influences. You will stay overnight at the hotel, enjoying the peaceful ambiance and traditional hospitality.</li></div><div class='img-flex-center'><img src='/images/30/5.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -5853,7 +5853,7 @@
                         "S": "Mandawa to Nawalgarh and back to Mandawa"
                     },
                     "description": {
-                        "S": "<li>Morning: Drive to Nawalgarh, a historic town founded in the 18th century, famous for its vibrant frescoes in the Shekhawati region.</li> <li>Sightseeing: Visit prominent havelis, including Anandilal Poddar Haveli, Aath Haveli, and Hodh Raj Patodia Haveli.</li> <li>Historical Sites: Explore the two forts of Nawalgarh.</li> <li>Cultural Experience: Visit Roop Niwas Palace, a heritage hotel known for its painted rooms and luxurious interiors.</li> <li>Evening: Return to Mandawa.</li> <li>Night: Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will drive to Nawalgarh, a historic town founded in the 18th century, famous for its vibrant frescoes in the Shekhawati region.  The sightseeing includes visits to prominent havelis such as Anandilal Poddar Haveli, Aath Haveli, and Hodh Raj Patodia Haveli.  You will also explore the two forts of Nawalgarh and visit Roop Niwas Palace, a heritage hotel known for its painted rooms and luxurious interiors.  In the evening, you will return to Mandawa for an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/30/6.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -5869,7 +5869,7 @@
                         "S": "Mandawa to Dundlod and back to Mandawa"
                     },
                     "description": {
-                        "S": "<li>In the morning, drive to Dundlod.</li> <li>Visit Dundlod Fort, a stunning blend of Rajput and Mughal architecture.</li> <li>Explore the fort’s cultural motifs and ancient furniture.</li> <li>Enjoy the serene atmosphere and scenic views.</li> <li>Return to Mandawa later in the day.</li> <li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will drive to Dundlod, a charming town in the heart of Rajasthan’s Shekhawati region, known for its historical richness and timeless appeal. Here, you will visit Dundlod Fort, a stunning blend of Rajput and Mughal architecture that reflects the grandeur of a bygone era. As you explore the fort’s intricate cultural motifs, ancient furniture, and beautifully carved interiors, you’ll be transported back in time to the royal heritage of Rajasthan. The serene atmosphere and scenic views from the fort provide a perfect backdrop for reflection and photography. You may also stroll through the surrounding village to witness the traditional lifestyle and local craftsmanship. Later in the day, you will return to Mandawa for an overnight stay at the hotel, where you can relax and unwind after a day of cultural discovery.</li></div><div class='img-flex-center'><img src='/images/30/7.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -5885,7 +5885,7 @@
                         "S": "Mandawa to Jaipur (Drive: 151 km / 3 ½ hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out of the hotel and drive to Jaipur, the Rose Pink City.</li> <li>Discover Jaipur’s rich history, founded by Maharaja Jai Singh II.</li> <li>Admire the city's pink-hued buildings and well-planned streets.</li> <li>Explore the Old City (Pink City) with its bustling bazaars and beautiful crafts.</li> <li>Check in at your hotel upon arrival.</li> <li>Enjoy a free evening to explore the local markets.</li> <li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You will check out of the hotel and drive to Jaipur, famously known as the Rose Pink City for its stunning pink-hued architecture and rich cultural heritage. Upon your arrival, you will check in at your hotel and take some time to settle in and refresh. The rest of the evening is yours to enjoy at leisure—you can explore the vibrant local markets filled with colorful textiles, traditional handicrafts, and delicious street food. Take in the lively atmosphere, maybe even bargain for a souvenir or two. After an exciting evening of discovery, return to your hotel for a comfortable overnight stay.</li></div><div class='img-flex-center'><img src='/images/30/8.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -5901,7 +5901,7 @@
                         "S": "Jaipur"
                     },
                     "description": {
-                        "S": "<li>Begin your day with an excursion to Amber Fort, built in 1592 by Raja Man Singh.</li> <li>Perched on a hill with stunning valley views.</li> <li>A prime example of Rajput architecture, later expanded by Sawai Jai Singh.</li> <li>Explore massive gates, courts, stairways, pavilions, and beautiful palaces.</li> <li>In the afternoon, visit the City Palace.</li> <li>Home to several palaces and museums.</li> <li>Showcases royal collections and artifacts.</li> <li>Next, visit Jantar Mantar, the observatory built by King Jai Singh in 1726.</li> <li>Houses precise astronomical instruments.</li> <li>End the day at Hawa Mahal, a stunning five-story structure.</li> <li>Features latticed windows that allowed royal women to view the city streets.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The day starts with an excursion to Amber Fort, built in 1592 by Raja Man Singh. This fort, perched on a hill with stunning valley views, is a prime example of Rajput architecture, later expanded by Sawai Jai Singh. You will explore its massive gates, courts, stairways, pavilions, and beautiful palaces. In the afternoon, you will visit the City Palace, home to several palaces and museums that showcase royal collections and artifacts. Next, you will visit Jantar Mantar, the observatory built by King Jai Singh in 1726, which houses precise astronomical instruments. The day concludes with a visit to Hawa Mahal, a stunning five-story structure featuring latticed windows that allowed royal women to view the city streets. You will stay overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/30/9.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -5917,7 +5917,7 @@
                         "S": "Jaipur to Delhi (Drive: 265 km / 5 ½ hrs)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, check out of the hotel.</li> <li>Drive back to Delhi.</li> <li>Upon arrival, transfer directly to the International Airport.</li> <li>Board your onward flight.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, you will check out of the hotel and begin your drive back to Delhi, enjoying the scenic journey one last time. Sit back, relax, and reflect on the wonderful experiences of your trip as you travel through the heart of India. Upon arrival in Delhi, you will be transferred directly to the International Airport, where our team will assist you with the check-in process for your onward flight. We hope you leave with unforgettable memories and look forward to welcoming you again in the future.</li></div><div class='img-flex-center'><img src='/images/30/10.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -5956,7 +5956,7 @@
                         "S": "Arrive Mumbai"
                     },
                     "description": {
-                        "S": "<li>Met on arrival and transfer to hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Mumbai, you will be greeted and transferred to your hotel. The remainder of the day is at leisure to relax and acclimate to the vibrant city. Enjoy an overnight stay at the hotel, preparing for the exploration ahead.</li></div><div class='img-flex-center'><img src='/images/32/1.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -5972,7 +5972,7 @@
                         "S": "Explore Mumbai"
                     },
                     "description": {
-                        "S": "<li>Begin your journey in Mumbai, discovering its bustling markets, colonial architecture, and the iconic Gateway of India.</li><li>Half day city tour of Mumbai will include a visit to the Prince of Wales Museum, Marine Drive, Mani Bhawan (Gandhi House), Flora Fountain, Kamla Nehru Park, and finally to the Hanging Gardens.</li><li>Experience the vibrant nightlife and explore the culture-rich city.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your day with a half-day city tour of Mumbai, immersing yourself in its bustling energy and colonial heritage. Visit iconic landmarks such as the Gateway of India, Prince of Wales Museum, Marine Drive, and Mani Bhawan (Gandhi House). Stroll through Kamla Nehru Park and the Hanging Gardens for panoramic views. Experience Mumbai’s vibrant nightlife and cultural diversity before returning to the hotel for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/32/2.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -5988,7 +5988,7 @@
                         "S": "Mumbai to Bangalore"
                     },
                     "description": {
-                        "S": "<li>Morning check-out of the hotel and transfer to the airport in time to board the flight for Bangalore.</li><li>Assistance on arrival and transfer to the hotel.</li><li>Later, proceed for a sightseeing tour of Bangalore, one of India’s most pleasant cities.</li><li>Explore the central area, known for its beautifully laid-out parks, gardens, wide tree-lined avenues, imposing buildings, and lively bazaars.</li><li>Visit the Vidhana Soudha, one of India’s most spectacular buildings, constructed in granite with neo-Dravidian architectural style.</li><li>Discover Cubbon Park, a beautifully landscaped area with flowering trees, covering 120 hectares, and known as the lung of the city, established in 1864.</li><li>Explore other notable attractions like the Lalbagh Gardens, Tipu Sultan’s Palace, and the Bull Temple, one of the oldest temples in Bangalore.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Check out from the hotel and transfer to Mumbai Airport for your flight to Bangalore. Upon arrival, settle into your hotel before embarking on a sightseeing tour. Explore Bangalore’s lush parks, including Cubbon Park and Lalbagh Gardens, and admire architectural marvels like the neo-Dravidian Vidhana Soudha. Discover historical sites such as Tipu Sultan’s Palace and the ancient Bull Temple. Overnight stay in Bangalore.</li></div><div class='img-flex-center'><img src='/images/32/3.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -6004,7 +6004,7 @@
                         "S": "Bangalore – Hassan (Drive: 190 km / 5 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning check-out of the hotel and drive to Hassan, en-route visit Shravanbelagola, a small village nestled between two hillocks.</li><li>Arrive in Hassan and check-in at the hotel.</li><li>Later, visit Belur & Halebid.</li><li><strong>Belur</strong> – Situated on the banks of the Yagachi River, Belur was the capital of the Hoysala Empire 800 years ago. The town is home to one of the greatest monuments of medieval India, the 12th-century Chennakesava Temple, which commemorates the victory of the Hoysalas over the Cholas in the Battle of Talakad. The temple’s exterior is adorned with intricate sculptures and friezes, while its interior features exquisite panels and richly carved pillars. A tall stone pillar in the temple courtyard is balanced only by its center of gravity.</li><li><strong>Halebid</strong> – Halebid, once the capital of the Hoysala Empire known as Dwarasamudra, was founded in the early 11th century AD. After being raided by the Delhi Sultanate armies in 1311 and 1327, the city was deserted and came to be known as Halebid or the Old Capital. The Hoysaleswara Temple, dedicated to Lord Shiva, is a prominent surviving structure from the ancient city.</li><li>In the evening, return to the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Depart Bangalore and drive to Hassan, stopping en route at Shravanbelagola, a village famed for its Jain heritage. In Hassan, visit the UNESCO-listed Hoysala temples of Belur and Halebid. Marvel at the intricate carvings of the 12th-century Chennakesava Temple in Belur and the Hoysaleswara Temple in Halebid, remnants of the Hoysala Empire. Return to Hassan for an overnight stay. Belur – Situated on the banks of the Yagachi River, Belur was the capital of the Hoysala Empire 800 years ago. The town is home to one of the greatest monuments of medieval India, the 12th-century Chennakesava Temple, which commemorates the victory of the Hoysalas over the Cholas in the Battle of Talakad. The temple’s exterior is adorned with intricate sculptures and friezes, while its interior features exquisite panels and richly carved pillars. A tall stone pillar in the temple courtyard is balanced only by its center of gravity. Halebid – Halebid, once the capital of the Hoysala Empire known as Dwarasamudra, was founded in the early 11th century AD. After being raided by the Delhi Sultanate armies in 1311 and 1327, the city was deserted and came to be known as Halebid or the Old Capital. The Hoysaleswara Temple, dedicated to Lord Shiva, is a prominent surviving structure from the ancient city.</li></div><div class='img-flex-center'><img src='/images/32/4.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -6020,7 +6020,7 @@
                         "S": "Hassan – Mysore (Drive: 120 km / 3 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning check-out of the hotel and proceed to Mysore.</li><li>En-route, visit Srirangapatna, the summer palace of Tipu Sultan, an island fortress encircled by the River Cauvery, featuring high stone walls, moats, temples, palaces, and a great mosque.</li><li>Upon arrival in Mysore, check-in at the hotel.</li><li>Visit the Maharaja’s Palace, an Indo-Saracenic style palace, elaborately decorated with a jewel-studded golden throne.</li><li>Explore the Jaganmohan Palace, converted into an Art Gallery in 1875, showcasing paintings dating back to that era.</li><li>Visit the fabled Brindavan Gardens, famous for its dancing fountains and colorful lights, a major attraction for visitors.</li><li>Evening at leisure.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, drive to Mysore, pausing at Srirangapatna to explore Tipu Sultan’s summer palace and island fortress. In Mysore, visit the opulent Maharaja’s Palace, adorned with a golden throne, and the Jaganmohan Palace Art Gallery. Conclude the day with a visit to the illuminated Brindavan Gardens, famed for its musical fountains. Overnight in Mysore.</li></div><div class='img-flex-center'><img src='/images/32/5.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -6036,7 +6036,7 @@
                         "S": "Mysore – Ooty (Drive: 160 km / 5 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Check-out of the hotel and drive to Ooty, a popular hill station in the Nilgiris, also known as the Blue Mountains due to the mist that envelops the range.</li><li>Ooty is situated at an elevation of 2286 meters and offers various breathtaking natural landscapes, each with its own unique grandeur.</li><li>Upon arrival, check-in at the hotel.</li><li>Enjoy the evening at leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Journey to Ooty, a serene hill station nestled in the breathtaking Nilgiri Mountains, known for its lush greenery, picturesque valleys, and pleasant weather. As you make your way through winding roads and scenic landscapes, take in the fresh mountain air and mesmerizing views. Upon arrival, check into your hotel, where you can unwind and relax after your journey. Spend the evening at leisure, strolling through the charming town, exploring nearby attractions, or simply soaking in the cool climate and misty surroundings. Enjoy a peaceful overnight stay in Ooty, preparing for the adventures that await.</li></div><div class='img-flex-center'><img src='/images/32/6.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -6052,7 +6052,7 @@
                         "S": "Ooty"
                     },
                     "description": {
-                        "S": "<li>Morning: Proceed for a sightseeing tour of Ooty, exploring the picturesque hill slopes covered with tea estates, lush downs, and placid lakes, all set against a salubrious climate.</li><li>Visit the Botanical Gardens, laid out in 1847 by the Marquis of Tweeddale, showcasing a variety of exotic and ornamental plants. See a fossil tree trunk, believed to be 20 million years old.</li><li>Experience the charm of Ooty Lake, where you can indulge in paddle boating, though the lake is increasingly weed-locked.</li><li>Visit the Rose Garden, home to 1919 varieties of roses.</li><li>Explore the town’s historic British buildings, including the gothic St. Stephen’s Church (built in 1820), the Stone House bungalow, and Raj Bhawan (built in 1877).</li><li>Discover the Roman Catholic shrine, Kandal Cross, which is said to bear a relic of the True Cross, earning Ooty the title of the 'Jerusalem of the East.'.</li><li>Evening: Free time to relax and enjoy at leisure.</li><li>Overnight: Stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Start your day with a delightful sightseeing tour of Ooty, where the scenic hill slopes are adorned with lush tea estates, rolling downs, and tranquil lakes, all set against the backdrop of a refreshing climate. Begin by exploring the renowned Botanical Gardens, established in 1847 by the Marquis of Tweeddale, which boast an impressive collection of exotic and ornamental plants, along with a fascinating fossil tree trunk estimated to be 20 million years old. Next, immerse yourself in the serene beauty of Ooty Lake, where you can enjoy a paddle boating experience, though parts of the lake have become weed-locked over time. Continue your journey to the enchanting Rose Garden, home to an astonishing 1,919 varieties of roses, creating a mesmerizing floral display. As you delve into the town’s rich colonial heritage, visit historic British landmarks such as the gothic-style St. Stephen’s Church, built in 1820, the iconic Stone House bungalow, and Raj Bhawan, a grand structure dating back to 1877. For those interested in religious history, a visit to Kandal Cross is a must. This Roman Catholic shrine is believed to house a relic of the True Cross, earning Ooty the revered title of the 'Jerusalem of the East.' As the evening approaches, take some free time to unwind and enjoy the serene atmosphere at your own pace. Conclude your day with an overnight stay at your hotel, resting amidst the tranquil beauty of Ooty.</li></div><div class='img-flex-center'><img src='/images/32/7.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -6068,7 +6068,7 @@
                         "S": "Ooty– Cochin (Drive: 285 km / 8 hrs)"
                     },
                     "description": {
-                        "S": "<li>Morning check-out of the hotel and proceed for Cochin.</li><li>Upon arrival, check-in at the hotel.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After an early morning check-out from the hotel, begin your journey toward Cochin, enjoying the scenic drive through lush landscapes and picturesque views. Upon arrival in Cochin, proceed with a smooth check-in at your hotel, where you can unwind and relax after your journey. Take some time to explore the hotel's amenities or step out to get a glimpse of the city's vibrant culture and historic charm. Later, return to your hotel for a comfortable and restful overnight stay, preparing for the adventures that await in this beautiful coastal city.</li></div><div class='img-flex-center'><img src='/images/32/8.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -6084,7 +6084,7 @@
                         "S": "Cochin – Kumarakom (Drive: 51 km / 1.5 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning: Explore Cochin, a port city rich in history and vibrant present-day life.</li><li>Visit the serene backwaters, golden sunsets, and lagoons surrounded by feathery coconut palms.</li><li>Discover picturesque islands such as Vypeen, Willingdon, Ramanthuruth, Vallarpadam, and Bolghatty, contributing to Cochin's stunning cityscape.</li><li>Tour the Jewish Synagogue, the oldest in India, and the Mattancherry Palace, once home to the former Maharajas.</li><li>See the iconic Chinese fishing nets, a technique that dates back to Kubla Khan’s court and still in use today.</li><li>Later in the day: Check out from the hotel and drive to Kumarakom.</li><li>Arrive and check-in at the hotel.</li><li>Overnight: Stay at the hotel in Kumarakom.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your day in Cochin, a historic port city where the echoes of colonial past blend seamlessly with its dynamic present. Stroll through the bustling streets, where old-world charm meets modern vibrance, and take in the sights of heritage buildings and lively markets. Venture into the serene backwaters, where tranquil lagoons and golden-hued sunsets paint an idyllic scene, framed by swaying coconut palms. As you explore the city's waterfront, discover picturesque islands like Vypeen, Willingdon, Ramanthuruth, Vallarpadam, and Bolghatty, each adding to Cochin’s breathtaking cityscape. Step into history with a visit to the Jewish Synagogue, India’s oldest, adorned with exquisite Belgian chandeliers and hand-painted tiles. Nearby, the Mattancherry Palace, once the regal residence of the Maharajas, showcases captivating murals and royal artifacts. No visit to Cochin is complete without witnessing the iconic Chinese fishing nets, an ancient technique believed to have originated from Kubla Khan’s court and still practiced today by local fishermen. As the day winds down, check out from your hotel and embark on a scenic drive to Kumarakom, a charming backwater destination. Upon arrival, check in to your hotel and relax, soaking in the serene atmosphere of this tranquil retreat. Spend a peaceful night at your hotel, preparing for more adventures ahead.</li></div><div class='img-flex-center'><img src='/images/32/9.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -6100,7 +6100,7 @@
                         "S": "Kumarakom – Periyar (Drive: 122 km / 4 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning at leisure.</li><li>Later in the day, check-out from the hotel and proceed to Periyar, renowned for its wildlife and a must-see destination in Kerala.</li><li>Upon arrival, check-in at the hotel.</li><li>Afternoon: Enjoy a boat cruise on Periyar Lake, situated at the heart of the sanctuary, offering a unique opportunity to observe wildlife in their natural habitat.</li><li>Spot animals like wild elephants, majestic gaur, deer, wild boar, Nilgiri langur, and water birds along the lake.</li><li>The sanctuary is home to diverse wildlife including tigers, sambars, barking deer, mouse deer, Nilgiri tahr, wild dogs, porcupines, lion-tailed macaques, Malabar squirrels, and sloth bears.</li><li>Bird watchers can delight in spotting hornbills, blue-winged parakeets, whistling thrushes, flycatchers, and a variety of water birds.</li><li>Evening at leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your day with a leisurely morning, allowing yourself time to relax and soak in the surroundings. Later, check out from the hotel and embark on a journey to Periyar, a renowned wildlife sanctuary and one of Kerala’s most captivating destinations. As you arrive, check in at your hotel and prepare for an afternoon filled with adventure. A scenic boat cruise on the tranquil Periyar Lake awaits, offering a rare chance to observe wildlife in their natural habitat. As you glide through the waters, keep an eye out for wild elephants, the mighty gaur, graceful deer, wild boars, and the elusive Nilgiri langur. The sanctuary is home to an incredible variety of fauna, including tigers, sambars, barking deer, mouse deer, Nilgiri tahr, wild dogs, porcupines, lion-tailed macaques, Malabar giant squirrels, and sloth bears. Bird enthusiasts will be thrilled by the opportunity to spot vibrant species such as hornbills, blue-winged parakeets, whistling thrushes, flycatchers, and numerous water birds. As the day winds down, enjoy a relaxing evening at leisure, immersing yourself in the serene ambiance of Periyar before retiring for an overnight stay at your hotel.</li></div><div class='img-flex-center'><img src='/images/32/10.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -6116,7 +6116,7 @@
                         "S": "Periyar – Madurai (Drive: 160 km / 5 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning check-out from the hotel and proceed to Madurai.</li><li>Upon arrival, check-in at the hotel.</li><li>In the afternoon, proceed for a sightseeing tour of Madurai.</li><li>Visit the Meenakshi Sundareswarar Temple, located in the heart of the town. Admire the immense gopurams towering over the city and explore the intricately carved temple complex, a major pilgrimage and tourist destination.</li><li>Explore the Tirumalai Nayak Temple, known for its Indo-Saracenic architectural style, built in the 17th century. See the impressive pillars, ranging in height from 4m to 12m, and the 15 domes, three of which are enormous.</li><li>Visit the Palace Building within the Tirumalai Nayak Temple, featuring beautiful arches and unique ornamental workmanship.</li><li>Visit Vandiyur Mariamman Tank, a vast temple tank measuring 304.8 meters on each side, with a central mandapam.</li><li>Discover Madurai’s traditional handicrafts, particularly those made from brass and bronze, as the city is also a business hub for these crafts.</li><li>Evening at leisure to explore the local market.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you'll check out of the hotel and proceed to Madurai. Upon arrival, check into your hotel. The afternoon features a sightseeing tour of Madurai, including a visit to the Meenakshi Sundareswarar Temple, located centrally within the town, where you can admire the immense gopurams and explore the intricately carved temple complex, a significant pilgrimage and tourist site. The tour also includes the Tirumalai Nayak Temple, known for its Indo-Saracenic architectural style, where you'll see its impressive pillars, ranging from 4 to 12 meters, and its enormous domes. You'll also visit the Palace Building within the Tirumalai Nayak Temple, noting its beautiful arches and unique ornamental workmanship, and Vandiyur Mariamman Tank, a large temple tank with a central mandapam measuring 304.8 meters on each side. Madurai's traditional handicrafts, particularly those made from brass and bronze, are also a point of interest. The evening is yours to enjoy at leisure, with an opportunity to explore the local market, followed by an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/32/11.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -6132,7 +6132,7 @@
                         "S": "Madurai – Tiruchirapali (Drive: 128 km / 3 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning: Check-out of the hotel and proceed for Tiruchirapalli.</li><li>Upon arrival, check-in at the hotel.</li><li>Afternoon: Proceed for a sightseeing tour of Tiruchirapalli, starting with the Rock Fort, perched on a massive rock that rises 83 meters above the plains.</li><li>Visit the Rock Fort Temple, built by the Nayak of Madurai, and learn about its historical significance during the Carnatic battles in the 18th century.</li><li>Explore Srirangam, a picturesque island between the Cauvery river and its tributary Kollidam, located north of Tiruchirapalli.</li><li>Visit the Sri Ranganathaswamy Temple, one of the largest Vaishnavite temples in South India, dating back to the 13th and 14th centuries.</li><li>Marvel at the 21 magnificent towers, stone pillars adorned with intricate carvings, and the seven walls surrounding the temple, within which the town is situated.</li><li>Evening: Leisure time to explore the local town.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival, you'll check in at the hotel.  The afternoon features a sightseeing tour of Tiruchirapalli, starting with the Rock Fort, which is perched on a massive rock 83 meters above the plains.  You'll also visit the Rock Fort Temple, built by the Nayak of Madurai, and learn about its historical significance during the Carnatic battles of the 18th century.  The tour includes Srirangam, a picturesque island between the Cauvery River and its tributary Kollidam, located north of Tiruchirapalli.  You'll also get to see the Sri Ranganathaswamy Temple, one of the largest Vaishnavite temples in South India, dating back to the 13th and 14th centuries, and marvel at its 21 magnificent towers, stone pillars with intricate carvings, and the seven walls surrounding the temple complex.  The evening offers leisure time to explore the local town, followed by an overnight stay at the hotel.  </li></div><div class='img-flex-center'><img src='/images/32/12.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -6148,7 +6148,7 @@
                         "S": "Tiruchirapali – Thanjavur (Drive: 54 km / 2 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning: Check-out from the hotel and drive to Thanjavur.</li><li>Upon arrival: Check-in at the hotel.</li><li>Later: Proceed for a sightseeing tour of Thanjavur, known as the Rice Bowl of Tamil Nadu and home to many ancient temple wonders.</li><li>Visit the Brihadeeswara Temple (Big Temple of God), an architectural marvel built by the Cholas. The temple's tower rises 15 meters from a 28.8-meter square base, tapering to a total height of 64.8 meters, capped by an 81.3-tonne monolithic stone slab with winged niches on four sides.</li><li>Explore The Palace near the temple, a grand structure partly built by the Nayaks around 1550 AD and later expanded by the Marathas. The palace features vast corridors, spacious halls, and two towers: the armory and observation towers visible from all parts of the city.</li><li>Visit Saraswathi Mahal Library, which houses over 30,000 palm leaf and paper manuscripts in Indian and European languages.</li><li>Evening: Leisure time to explore the local town.</li><li>Overnight: Stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you'll check out of your hotel and drive to Thanjavur, a city known as the Rice Bowl of Tamil Nadu and home to many ancient temple wonders. Upon arrival, you'll check in at the hotel.  Later, you'll embark on a sightseeing tour of Thanjavur, where you can view the Brihadeeswara Temple (Big Temple of God), an architectural marvel constructed by the Cholas.  The temple features a tower that rises 15 meters from a 28.8-meter square base, reaching a total height of 64.8 meters, and is capped by an 81.3-tonne monolithic stone slab with winged niches on four sides.  You’ll also get to see The Palace near the temple, a grand structure partly built by the Nayaks around 1550 AD and later expanded by the Marathas, showcasing vast corridors, spacious halls, and two towers: the armory and observation towers.  Additionally, you'll get to visit the Saraswathi Mahal Library, which houses over 30,000 palm leaf and paper manuscripts in Indian and European languages.  The evening will be yours to enjoy leisure time in the local town, followed by an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/32/13.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -6164,7 +6164,7 @@
                         "S": "Thanjavur – Pondicherry (Drive: 210 km / 7 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning check-out of the hotel and drive to Pondicherry.</li><li>Arrive in Pondicherry and check in at the hotel.</li><li>Later, proceed for a sightseeing tour of Pondicherry, visiting the former French colony's famous landmarks.</li><li>Visit the Aurobindo Ashram, which promotes a synthesis of Yoga and modern science to unite spirit and matter.</li><li>Explore Auroville, a unique township founded by Shree Aurobindo and The Mother in 1926, dedicated to yoga, meditation, and spiritual growth.</li><li>Evening at leisure to explore the local town.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will check out of the hotel and drive to Pondicherry. Upon arrival, you’ll check in at your new hotel. Later, you'll embark on a sightseeing tour of Pondicherry, taking in the famous landmarks of this former French colony. The tour includes a visit to the Aurobindo Ashram, which promotes a synthesis of Yoga and modern science to unite spirit and matter. You’ll also have the opportunity to see Auroville, a unique township founded by Shree Aurobindo and The Mother in 1926, dedicated to yoga, meditation, and spiritual growth. The evening is yours to enjoy at leisure, with time to get acquainted with the local town, followed by an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/32/14.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
@@ -6180,7 +6180,7 @@
                         "S": "Pondicherry – Mamallapuram (Drive: 74 km / 2 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning at leisure.</li><li>Later in the day, check out of the hotel and drive to Mamallapuram.</li><li>Upon arrival, check in at the hotel.</li><li>Proceed for a sightseeing tour, starting with The Shore Temple, one of the oldest temples, known for housing shrines dedicated to both Lord Shiva and Lord Vishnu.</li><li>Visit The Five Rathas, five monolithic temples, each created in a different style, also known as the Pancha Pandava Rathas. Four out of the five rathas are carved from a single rock.</li><li>Explore Arjuna’s Penance, the world’s largest bas-relief measuring 27m x 9m, depicting gods, demigods, men, beasts, birds, and almost all of creation.</li><li>Evening at leisure to explore the local market.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The morning is at leisure before checking out of the hotel and driving to Mamallapuram. Upon arrival, you will check into a hotel. The day continues with a sightseeing tour that starts with The Shore Temple, one of the oldest temples housing shrines dedicated to Lord Shiva and Lord Vishnu. You'll also visit The Five Rathas, five monolithic temples, each crafted in a different style and also known as the Pancha Pandava Rathas, with four of them carved from a single rock. See Arjuna’s Penance, the world’s largest bas-relief measuring 27m x 9m, depicting gods, demigods, men, beasts, birds, and almost all of creation. The evening offers free time to explore the local market, followed by an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/32/15.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "15"
@@ -6196,7 +6196,7 @@
                         "S": "Mammalapuram – Kanhipuram – Chennai (Drive: 74 km / 2 hrs approx)"
                     },
                     "description": {
-                        "S": "<li>Morning check-out of the hotel and drive to Kanchipuram, one of India’s seven sacred cities, known as the Golden City.</li><li>Kanchipuram was historically the capital of the Pallavas, later the Cholas, and the Rayas of Vijayanagar.</li><li>Visit the Ekambareswarar Temple, an ancient temple featuring the 57-meter high Rajagopuram, one of the tallest towers in South India.</li><li>Explore other important temples such as the Kamakshi Amman Temple, a major site for Shakti worship in India.</li><li>Continue your journey to Chennai (72 km / 2 hrs).</li><li>Upon arrival in Chennai, check-in at the hotel.</li><li>Evening at leisure to explore the local town.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you'll check out of the hotel and drive to Kanchipuram, one of India’s seven sacred cities, also known as the Golden City. Kanchipuram holds historical significance as the capital of the Pallavas, and later the Cholas and the Rayas of Vijayanagar dynasties. You'll visit the Ekambareswarar Temple, an ancient temple notable for its 57-meter high Rajagopuram, one of South India's tallest towers. Other important temples will be seen, such as the Kamakshi Amman Temple, a major site for Shakti worship in India. The journey then continues to Chennai (72 km / 2 hrs). Upon arrival in Chennai, you’ll check in at the hotel. The evening is yours to enjoy at leisure, allowing time to get acquainted with the local town before an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/32/16.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "16"
@@ -6212,7 +6212,7 @@
                         "S": "Chennai – Mumbai Departure"
                     },
                     "description": {
-                        "S": "<li>Morning: Proceed for a sightseeing tour of Chennai, exploring the city’s rich cultural heritage, ancient traditions, festivals, fine crafts, and classical music and dance.</li><li>Visit the Kapaleeswarar Temple, a stunning example of Dravidian architecture, with inscriptions dating back to 1250 AD.</li><li>Explore the Parthasarathy Temple, dedicated to Lord Vishnu, originally built by the Pallavas in the 8th century.</li><li>Visit Fort St. George, built in 1640 AD, the first stronghold of British power in India.</li><li>Stop by St. Thomas Mount, the site where the Apostle St. Thomas was martyred in 72 AD.</li><li>In the afternoon, check out of the hotel and transfer to the airport for your flight to Mumbai.</li><li>Upon arrival in Mumbai, receive assistance and transfer directly to the International Airport for your onward journey.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The morning starts with a sightseeing tour of Chennai, offering a look into the city’s rich cultural heritage, ancient traditions, festivals, fine crafts, and classical music and dance. Highlights include a visit to the Kapaleeswarar Temple, a stunning example of Dravidian architecture dating back to 1250 AD, and the Parthasarathy Temple, dedicated to Lord Vishnu and originally built by the Pallavas in the 8th century. The tour also takes you to Fort St. George, the first stronghold of British power in India, constructed in 1640 AD, and St. Thomas Mount, the site of the Apostle St. Thomas's martyrdom in 72 AD. In the afternoon, you will check out of the hotel and transfer to the airport for your flight to Mumbai, where you will receive assistance and be transferred to the International Airport for your onward journey.</li></div><div class='img-flex-center'><img src='/images/32/17.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "17"
@@ -6251,7 +6251,7 @@
                         "S": "Arrival Ahmedabad"
                     },
                     "description": {
-                        "S": "<li>Assistance upon arrival at Ahmedabad airport.</li><li>Transfer to the hotel.</li><li>Ahmedabad, founded in 1411, is known as the 'Manchester of the East.'.</li><li>The city is located on the banks of the Sabarmati River.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon your arrival at Ahmedabad airport, you will be assisted and transferred to your hotel. Ahmedabad, founded in 1411 and known as the 'Manchester of the East,' is situated on the banks of the Sabarmati River. You will have an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/33/1.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -6267,7 +6267,7 @@
                         "S": "Explore Ahmedabad"
                     },
                     "description": {
-                        "S": "<li>Explore the architectural delights of Ahmedabad, including exquisitely carved wooden mansions, havelis, and labyrinthine lanes.</li><li>Visit the Calico Museum (with prior permission, closed on Wednesdays).</li><li>Discover the Jama Masjid and Sidi Mosque.</li><li>Visit the Gandhi Ashram, a key historical site.</li><li>Explore the impressive Adalaj Step Well.</li><li>Enjoy the vibrant Evening Market.</li><li>Overnight stay at a hotel in Ahmedabad.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The second day is dedicated to exploring the architectural delights of Ahmedabad, including its exquisitely carved wooden mansions, havelis, and labyrinthine lanes. You will have the opportunity to visit the Calico Museum (with prior permission, closed on Wednesdays), discover the Jama Masjid and Sidi Mosque, visit the Gandhi Ashram, a key historical site, explore the impressive Adalaj Step Well, and enjoy the vibrant Evening Market. The overnight stay will be at a hotel in Ahmedabad.</li></div><div class='img-flex-center'><img src='/images/33/2.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -6283,7 +6283,7 @@
                         "S": "Ahmedabad / Taranga / Vijaynagar ( 260 Kms – Including Visit)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Vijaynagar, visiting en-route:</li><li>Taranga: Explore the Jain Temples of Taranga, one of the finest clusters of Jain temples in India, located 85 km from Balaram Palace Resort on a hilltop offering pristine views. The Ajitnath temple, built under the patronage of Solanki Rajput King Kumarapala, is famous for its beautiful carvings on pillars, domes, and brackets.</li><li>Idar: Visit historical sites and enjoy the natural beauty of Idar, which features the Idar Fort, an important historical landmark in Gujarat, as well as stunning rock formations and temples.</li><li>Afternoon arrival at Vijaynagar.</li><li>Later, visit nearby villages to explore the tribal belts on the borders of Gujarat and Rajasthan.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, you will drive to Vijaynagar, visiting Taranga en route. At Taranga, you can explore the Jain Temples, one of the finest clusters of Jain temples in India, located 85 km from Balaram Palace Resort on a hilltop offering pristine views.  The Ajitnath temple, built under the patronage of Solanki Rajput King Kumarapala, is famous for its beautiful carvings on pillars, domes, and brackets. You’ll also visit Idar to explore historical sites and enjoy its natural beauty, including the Idar Fort, and stunning rock formations and temples. In the afternoon, you'll arrive at Vijaynagar. Later, you’ll visit nearby villages to explore the tribal belts on the borders of Gujarat and Rajasthan.</li></div><div class='img-flex-center'><img src='/images/33/3.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -6299,7 +6299,7 @@
                         "S": "Vijaynagar"
                     },
                     "description": {
-                        "S": "<li>After breakfast, embark on a full-day visit around Vijaynagar.</li><li>Located on the foothills of the Aravali Hills, Vijaynagar is surrounded by dense forests.</li><li>The area is home to many wild animals, including panthers, sloth bears, hyenas, and more.</li><li>Vijaynagar boasts over 200 varieties of birds, making it a haven for bird watchers.</li><li>This destination is perfect for nature and wildlife lovers.</li><li>Explore more than 20 ancient Jain and Shiv temples dating back to the 15th century.</li><li>The temples offer a treat for those fond of ancient art and architecture.</li><li>Vijaynagar is also a paradise for painters, with its scenic beauty and rich history.</li><li>Overnight stay at the palace.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The fourth day involves a full-day visit around Vijaynagar. Located on the foothills of the Aravali Hills and surrounded by dense forests, Vijaynagar is home to many wild animals, including panthers, sloth bears, and hyenas, and boasts over 200 varieties of birds, making it a haven for bird watchers.  You can explore more than 20 ancient Jain and Shiv temples dating back to the 15th century, a treat for those fond of ancient art and architecture. Vijaynagar is also considered a paradise for painters, with its scenic beauty and rich history. The overnight stay will be at the palace.</li></div><div class='img-flex-center'><img src='/images/33/4.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -6315,7 +6315,7 @@
                         "S": "Vijaynagar – Zainabad ( 190 Kms – Including visit)"
                     },
                     "description": {
-                        "S": "<li>Morning: Leave for Zainabad/Dasada. En route, visit the Sun Temple at Modhera. Explore the city of Patan, known for Patola Silk weaving and the famous step well.</li> <li>Evening: Arrive at the Little Rann of Kutch (Zainabad/Dasada). Visit nearby villages and the salt farm (if time permits).</li> <li>Overnight: Stay in the Huts.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will leave for Zainabad/Dasada. En route, you'll visit the magnificent Sun Temple at Modhera, an architectural marvel dedicated to the Sun God, featuring intricate carvings and a stunning stepwell. Next, you'll explore the historic city of Patan, renowned for its exquisite Patola Silk weaving tradition and the famous Rani Ki Vav, a UNESCO-listed stepwell known for its intricate sculptures. In the evening, you'll arrive at the breathtaking Little Rann of Kutch (Zainabad/Dasada), where you can visit nearby villages to experience local culture and, if time permits, explore a traditional salt farm. Your overnight stay will be in charming, rustic huts, offering an authentic experience of the region.</li></div><div class='img-flex-center'><img src='/images/33/5.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -6331,7 +6331,7 @@
                         "S": "Zainabad – Fullday"
                     },
                     "description": {
-                        "S": "<li>Enjoy a game drive in the Little Rann of Kutch to see the Asiatic wild Ass (subject to the Monsoon; if there is heavy rain, the visit is not recommended).</li><li>In case of heavy rain, visit the villages around the Little Rann of Kutch instead.</li><li>Overnight stay at the Huts.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Day six includes an exciting game drive in the Little Rann of Kutch, where you'll have the chance to spot the rare and endangered Asiatic wild ass in its natural habitat. This experience is subject to the Monsoon season, and if there is heavy rain, the visit may not be recommended due to challenging terrain conditions. However, in the event of unfavorable weather, an alternative plan will take you to the nearby villages around the Little Rann of Kutch, where you can explore local culture, traditions, and craftsmanship. After an eventful day, you'll unwind with an overnight stay in the traditional huts, offering a unique and immersive experience.</li></div><div class='img-flex-center'><img src='/images/33/6.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -6347,7 +6347,7 @@
                         "S": "Day 7 Zainabad to Bhuj ( 280 Kms / 7 Hours)"
                     },
                     "description": {
-                        "S": "<li>Morning: Depart for Bhuj, an ancient walled city with maze-like streets and intricate crenellated gateways.</li><li>Afternoon: Visit the Ferguson Museum and Rao Pragmalji’s Palace, a stunning structure made of marble and sandstone.</li><li>Evening: Return to the hotel for an overnight stay.</li><strong>Note:</strong><li>A permit is required for access to the interior villages, and personal presence is necessary. Assistance with the procedure will be provided.</li><li>DSP/Collector Office hours: Monday to Saturday from 10:30 AM to 5:00 PM (closed on second Saturdays, Sundays, and public holidays).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will depart for Bhuj, an ancient walled city with maze-like streets and intricate crenellated gateways. In the afternoon, you'll visit the Ferguson Museum and Rao Pragmalji’s Palace, a stunning structure made of marble and sandstone. You’ll return to the hotel in the evening for an overnight stay. Note: A permit is required for access to the interior villages, and assistance with the procedure will be provided.</li></div><div class='img-flex-center'><img src='/images/33/7.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -6363,7 +6363,7 @@
                         "S": "Bhuj"
                     },
                     "description": {
-                        "S": "<li>Explore the tribal villages, each specializing in unique forms of handicraft.</li><li>Discover the intricate art of Ahir embroidery in these villages.</li><li>Learn about the traditional methods of block printing passed down through generations.</li><li>Experience the vibrant process of tie and dye, showcasing the region’s rich craftsmanship.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The eighth day is dedicated to exploring the tribal villages, each specializing in unique forms of handicraft. You'll discover the intricate art of Ahir embroidery, learn about the traditional methods of block printing passed down through generations, and experience the vibrant process of tie and dye, showcasing the region’s rich craftsmanship.</li></div><div class='img-flex-center'><img src='/images/33/8.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -6379,7 +6379,7 @@
                         "S": "Bhuj to Jamnagar ( 250 Kms / 6-7 Hours)"
                     },
                     "description": {
-                        "S": "<li>Drive to Jamnagar.</li><li>In the afternoon, visit the princely states of Saurashtra, often referred to as Choti Kashi or Banaras due to its numerous Hindu and Jain temples.</li><li>Explore a Muslim dargah in the area.</li><li>Discover the region's famous tie-and-dye work on fabrics, along with exquisite silken and gold embroidery.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You will drive to Jamnagar. In the afternoon, you'll visit the princely states of Saurashtra, often referred to as Choti Kashi or Banaras due to its numerous Hindu and Jain temples, explore a Muslim dargah, and discover the region's famous tie-and-dye work on fabrics, along with exquisite silken and gold embroidery. The overnight stay will be at the hotel.</li></div><div class='img-flex-center'><img src='/images/33/9.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -6395,7 +6395,7 @@
                         "S": "Jamnagar to Dwarka (150 Kms)"
                     },
                     "description": {
-                        "S": "<li>Morning: Depart for Dwarka.</li><li>Visit the Dwarkadheesh Temple (Jagat Mandir), located on the north bank of the Gomti Creek, dating back over 2,500 years.</li><li>Explore the architectural marvel of the temple, built with the same plan and system as other ancient Hindu temples.</li><li>Admire the Sixty columns supporting the roof of the audience hall in the Jagat Mandir.</li><li>Visit the main temple, which is five stories tall with a conical spire rising 157 feet.</li><li>View the one-meter tall, four-handed black Idol of Ranchhodrai, the ruler of Dwaraka.</li><li>Visit the Rukmini Temple, dedicated to Lord Krishna's wife, an incarnation of Lakshmi, the goddess of wealth and beauty.</li><li>Learn about Dwaraka’s history as the seat of Adi Shankaracharya, who established four spiritual seats (maths) across India.</li><li>Discover Sharad Peetha, the research center for Sanskrit established by Shankaracharya.</li><li>Afternoon: Suggest visiting Bet Dwarka, a nearby island.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will depart for Dwarka. You'll visit the Dwarkadheesh Temple (Jagat Mandir), located on the north bank of the Gomti Creek and dating back over 2,500 years.  You’ll explore the architectural marvel of the temple, built with the same plan and system as other ancient Hindu temples, admire the sixty columns supporting the roof of the audience hall, and view the one-meter tall, four-handed black Idol of Ranchhodrai. You’ll also visit the Rukmini Temple, dedicated to Lord Krishna's wife, and learn about Dwaraka’s history as the seat of Adi Shankaracharya. The afternoon includes a suggested visit to Bet Dwarka, a nearby island. The overnight stay will be at the hotel.</li></div><div class='img-flex-center'><img src='/images/33/10.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -6411,7 +6411,7 @@
                         "S": "Dwarka – Junagadh (onway visit Porbander)110 + 115 Kms"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Junagadh.</li><li>En route, visit Porbandar, the birthplace of Mahatma Gandhi, where he spent his childhood.</li><li>Explore Kirti Mandir, which showcases Gandhi’s philosophy in every facet and is situated next to his ancestral home.</li><li>Proceed to Junagadh, historically the capital of the Junagadh State under the Muslim Babi Nawabs. 'Junagadh' translates to 'ancient fort' in Gujarati.</li><li>The town is located at the foothills of the sacred Girnar Hill, a significant landmark in Gujarat's history.</li><li>Visit the two fortifications surrounding the town: the fort walls and Uparkot to the west.</li><li>Uparkot, an ancient citadel, was a stronghold of the Mauryan and Gupta Empires and withstood 16 sieges over the past 1000 years due to its strategic location.</li><li>Explore the entrance of Uparkot, which features a fine specimen of Hindu Toran, leading to a flat land dotted with archaeological sites.</li><li>Key sites to visit include Buddhist caves, Baba Pyara caves (2nd century), Adi-Kadi Vav, and Jami Masjid.</li><li>Evening visit (if time permits) and overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, you will drive to Junagadh. En route, you'll visit Porbandar, the birthplace of Mahatma Gandhi, and explore Kirti Mandir, which showcases Gandhi’s philosophy.  You'll then proceed to Junagadh, historically the capital of the Junagadh State, located at the foothills of the sacred Girnar Hill. You'll visit the two fortifications surrounding the town: the fort walls and Uparkot. Key sites to visit include Buddhist caves, Baba Pyara caves (2nd century), Adi-Kadi Vav, and Jami Masjid. The evening includes a visit (if time permits) and an overnight stay at the hotel. </li></div><div class='img-flex-center'><img src='/images/33/11.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -6427,7 +6427,7 @@
                         "S": "Junagadh – Bhavnagar ( 235 Kms)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, visit the Junagadh Sightseeing.</li><li>If Girnar Temples are to be visited, be prepared for a 4-5 hour visit covering over 10,000 steps.</li><li>Optional lift chairs are available at an extra cost.</li><li>Later, proceed to Bhavnagar.</li><li>The Gohil Rajputs came to Gujarat from Marwar in 1260 A.D.</li><li>Founded by Bhavsinhji Gohil, the rulers of Sihor decided in 1723 A.D. to shift their capital from Sihor to Bhavnagar.</li><li>The shift aimed to take advantage of the sea for defensive purposes and maritime trade.</li><li>Bhavnagar is located on the scenic Gulf of Kambhat (Cambay) on the southeastern coast of Saurashtra.</li><li>It is an intermediate port with a natural harbor, surrounded by picturesque beauty, world-famous temples, and monumental edifices, reflecting the rich heritage of a bygone era.</li><li>Upon arrival, check in and enjoy an overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Following breakfast, you will visit the Junagadh Sightseeing. If you opt to visit Girnar Temples, be prepared for a 4-5 hour visit covering over 10,000 steps (optional lift chairs are available at an extra cost).  Later, you'll proceed to Bhavnagar. Bhavnagar, founded by Bhavsinhji Gohil, is located on the scenic Gulf of Kambhat (Cambay) and is known for its picturesque beauty, world-famous temples, and monumental edifices. Upon arrival, you will check in and enjoy an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/33/12.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -6443,7 +6443,7 @@
                         "S": "Bhavnagar ( Fullday excursion to Palitana – 60 Kms onway)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, proceed for a full-day visit to Palitana.</li><li>Palitana, one of India’s most picturesque pilgrim centres, is located at the foot of Shatrunjaya Hill.</li><li>The site features 863 exquisitely carved temples, built in marble over a span of nine hundred years.</li><li>The architectural grandeur of Palitana transcends religious boundaries, attracting tourists of all faiths.</li><li>Palitana is also a significant symbol of Jainism, making it a must-visit for Jains and anyone interested in experiencing the blend of human ingenuity, architecture, philanthropy, and religious fervor.</li><li>The Shatrunjaya mountain is located about a kilometer from the town, with the path lined by sarais, minor temples, and Kala Bhandars (museums).</li><li>The mountain is closely associated with Rishabhdev, the first Tirthankar, also known as Adinath. It is believed that all Tirthankars, except Neminath, attained nirvana here.</li><li>The temples on the mountain are a combination of palaces and fortresses, made from splendid marble.</li><li>The visit to Palitana includes a climb of 3500 steps, taking about 4-5 hours (lift chairs are available at an extra cost).</li><li>Afterward, return to Bhavnagar for a city tour, which includes visits to:</li><ul>  <li>Gaurishankar Lake, a beautiful picnic spot.</li>  <li>Takhteshwar Temple.</li>  <li>The Lock Gate.</li></ul><li>Enjoy overnight stay in Bhavnagar.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, you will go for a full-day visit to Palitana, one of India’s most picturesque pilgrim centers, located at the foot of Shatrunjaya Hill.  The site features 863 exquisitely carved temples, built in marble over a span of nine hundred years, and is a significant symbol of Jainism. The visit to Palitana includes a climb of 3500 steps, taking about 4-5 hours (lift chairs are available at an extra cost). Afterward, you'll return to Bhavnagar for a city tour, which includes visits to Gaurishankar Lake, Takhteshwar Temple, and the Lock Gate. Enjoy an overnight stay in Bhavnagar</li></div><div class='img-flex-center'><img src='/images/33/13.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -6459,7 +6459,7 @@
                         "S": "Bhavnagar – Ahmedabad ( 220 Kms)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, proceed to Ahmedabad.</li><li>On the way, visit Lothal, one of the southernmost outposts of the Indus Valley Civilization.</li><li>Explore Lothal, an example of Harappan town planning with its impressive dockyard, a marvel of maritime architecture.</li><li>The dockyard is connected to the Sabarmati River, which flows into the Arabian Sea at the Gulf of Cambay.</li><li>Discover the citadel, separated into an acropolis with paved baths and a lower town with residential quarters, coppersmith workshops, pottery sheds, and bead factories.</li><li>Marvel at the complex's advanced sanitary drainage system.</li><li>Visit the museum that showcases archaeological finds from the Indus Valley period.</li><li>Arrive in Ahmedabad in the evening.</li><li>Enjoy the rest of the day at leisure and indulge in last-minute shopping.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, you will proceed to Ahmedabad. On the way, you'll visit Lothal, one of the southernmost outposts of the Indus Valley Civilization. You'll explore Lothal, an example of Harappan town planning with its impressive dockyard, citadel, residential quarters, workshops, and factories, and marvel at the complex's advanced sanitary drainage system. You'll also visit the museum that showcases archaeological finds from the Indus Valley period. You'll arrive in Ahmedabad in the evening, where you can enjoy the rest of the day at leisure and indulge in last-minute shopping. The overnight stay will be at the hotel.</li></div><div class='img-flex-center'><img src='/images/33/14.jpg' alt='Delhi India Gate' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
@@ -6475,7 +6475,7 @@
                         "S": "Ahmedabad – Departure Transfer"
                     },
                     "description": {
-                        "S": "<li>In time transfer to Airport for onward destination.</li>"
+                        "S": "<li>You will be transferred to the airport for your onward destination. This marks the end of your 15-day journey through Gujarat.</li>"
                     },
                     "Id": {
                         "N": "15"
