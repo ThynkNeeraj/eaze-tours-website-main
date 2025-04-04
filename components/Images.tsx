@@ -206,12 +206,9 @@ import package_22_5 from '../public/images/22/5.jpg'
 import package_22_6 from '../public/images/22/6.jpg'
 import package_22_7 from '../public/images/22/7.jpg'
 import package_22_8 from '../public/images/22/8.jpg'
-
 import package_23_1 from '../public/images/23/1.jpg'
 import package_23_2 from '../public/images/23/2.jpg'
 import package_23_3 from '../public/images/23/3.jpg'
-
-
 import package_24_1 from '../public/images/24/1.jpg'
 import package_24_2 from '../public/images/24/2.jpg'
 import package_24_3 from '../public/images/24/3.jpg'
@@ -222,12 +219,9 @@ import package_24_7 from '../public/images/24/7.jpg'
 import package_24_8 from '../public/images/24/8.jpg'
 import package_24_9 from '../public/images/24/9.jpg'
 import package_24_10 from '../public/images/24/10.jpg'
-
 import package_25_1 from '../public/images/25/1.jpg'
 import package_25_2 from '../public/images/25/2.jpg'
 import package_25_3 from '../public/images/25/3.jpg'
-
-
 import package_26_1 from '../public/images/26/1.jpg'
 import package_26_2 from '../public/images/26/2.jpg'
 import package_26_3 from '../public/images/26/3.jpg'
@@ -239,8 +233,6 @@ import package_26_8 from '../public/images/26/8.jpg'
 import package_26_9 from '../public/images/26/9.jpg'
 import package_26_10 from '../public/images/26/10.jpg'
 import package_26_11 from '../public/images/26/11.jpg'
-
-
 import package_27_1 from '../public/images/27/1.jpg'
 import package_27_2 from '../public/images/27/2.jpg'
 import package_27_3 from '../public/images/27/3.jpg'
@@ -254,8 +246,6 @@ import package_27_10 from '../public/images/27/10.jpg'
 import package_27_11 from '../public/images/27/11.jpg'
 import package_27_12 from '../public/images/27/12.jpg'
 import package_27_13 from '../public/images/27/13.jpg'
-
-
 import package_28_1 from '../public/images/28/1.jpg'
 import package_28_2 from '../public/images/28/2.jpg'
 import package_28_3 from '../public/images/28/3.jpg'
@@ -264,8 +254,6 @@ import package_28_5 from '../public/images/28/5.jpg'
 import package_28_6 from '../public/images/28/6.jpg'
 import package_28_7 from '../public/images/28/7.jpg'
 import package_28_8 from '../public/images/28/8.jpg'
-
-
 import package_29_1 from '../public/images/29/1.jpg'
 import package_29_2 from '../public/images/29/2.jpg'
 import package_29_3 from '../public/images/29/3.jpg'
@@ -274,21 +262,17 @@ import package_29_5 from '../public/images/29/5.jpg'
 import package_29_6 from '../public/images/29/6.jpg'
 import package_29_7 from '../public/images/29/7.jpg'
 import package_29_8 from '../public/images/29/8.jpg'
-
-
 import package_30_1 from '../public/images/30/1.jpg'
 import package_30_2 from '../public/images/30/2.jpg'
 import package_30_3 from '../public/images/30/3.jpg'
 import package_30_4 from '../public/images/30/4.jpg'
 import package_30_5 from '../public/images/30/5.jpg'
-
 import package_31_1 from '../public/images/31/1.jpg'
 import package_31_2 from '../public/images/31/2.jpg'
 import package_31_3 from '../public/images/31/3.jpg'
 import package_31_4 from '../public/images/31/4.jpg'
 import package_31_5 from '../public/images/31/5.jpg'
 import package_31_6 from '../public/images/31/6.jpg'
-
 import package_32_1 from '../public/images/32/1.jpg'
 import package_32_2 from '../public/images/32/2.jpg'
 import package_32_3 from '../public/images/32/3.jpg'
@@ -308,7 +292,6 @@ import package_33_3 from '../public/images/33/3.jpg'
 import package_33_4 from '../public/images/33/4.jpg'
 import package_33_5 from '../public/images/33/5.jpg'
 import package_33_6 from '../public/images/33/6.jpg'
-import package_34_1 from '../public/images/34/1.jpg'
 import package_34_2 from '../public/images/34/2.jpg'
 import package_34_3 from '../public/images/34/3.jpg'
 import package_34_4 from '../public/images/34/4.jpg'
@@ -322,7 +305,6 @@ import package_35_3 from '../public/images/35/4.jpg'
 import package_35_4 from '../public/images/35/5.jpg'
 import package_35_5 from '../public/images/35/6.jpg'
 import package_35_6 from '../public/images/35/7.jpg'
-
 
 interface IPackageImageProp {
     source: number;
@@ -362,7 +344,7 @@ const package_images: { [key: string]: { main: StaticImageData, list: Array<Stat
     "31": { main: package_31_1, list: [package_31_1, package_31_2, package_31_3, package_31_4, package_31_5, package_31_6] },
     "32": { main: package_32_1, list: [package_32_1, package_32_2, package_32_3, package_32_4, package_32_5, package_32_6, package_32_7, package_32_8, package_32_9, package_32_10, package_32_11, package_32_12, package_32_13] },
     "33": { main: package_33_2, list: [package_33_1, package_33_2, package_33_3, package_33_4, package_33_5, package_33_6] },
-    "34": { main: package_34_4, list: [package_34_1, package_34_2, package_34_3, package_34_4, package_34_5, package_34_6, package_34_7, package_34_8] },
+    "34": { main: package_34_4, list: [package_34_2, package_34_3, package_34_4, package_34_5, package_34_6, package_34_7, package_34_8] },
     "35": { main: package_35_5, list: [package_35_1, package_35_2, package_35_3, package_35_4, package_35_5, package_35_6] },
 
 }
