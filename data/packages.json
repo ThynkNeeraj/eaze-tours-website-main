@@ -2835,7 +2835,7 @@
                         "S": "Bangalore (Monday)"
                     },
                     "description": {
-                        "S": "<li>3:00 pm to 4:00 pm: Check-in at Taj West End.</li><li>4:00 pm to 5:00 pm: High Tea at the Banquet Hall.</li><li>5:00 pm to 5:30 pm: Presentation on The Golden Chariot Tour, covering dos and don’ts, safety, and security.</li><li>5:30 pm to 6:30 pm: Visit to Chitrakala Parishad / Art Gallery.</li><li>6:30 pm to 7:30 pm: Enjoy a Cultural Show.</li><li>8:00 pm: Arrive at Yeshwantpur Railway Station, Platform No. 6, for a traditional Indian welcome.</li><li>Dinner onboard The Golden Chariot.</li><li>9:00 pm: Depart for Mysore.</li><br><strong>Alternate Itinerary</strong><li>11:00 am: Check-in at Our Native Village.</li><li>12:00 pm to 2:00 pm: Lunch.</li><li>3:00 pm to 3:30 pm: Resort Tour – Learn what makes us a 100% eco-resort.</li><li>4:00 pm to 4:30 pm: Herbal & Medicinal Plant Tour and Organic Farm Tour.</li><li>4:30 pm to 5:30 pm: Pottery Session & Explore traditional village games and enjoy Bullock Cart Rides.</li><li>6:00 pm to 6:30 pm: Rest before departing for Yeshwantpur Railway Station.</li><strong>(Note: Alternate itinerary is for those who choose not to check-in at Leela Palace and participate in the Bangalore sightseeing tour.)</strong>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The Golden Chariot tour offers two distinct itineraries for guests. The first itinerary begins with a check-in at Taj West End at 3:00 pm, followed by high tea at the Banquet Hall. A presentation on tour guidelines, safety, and security is scheduled before a visit to Chitrakala Parishad or an art gallery. Guests then enjoy a cultural show before proceeding to Yeshwantpur Railway Station for a traditional Indian welcome. Dinner is served onboard The Golden Chariot as the train departs for Mysore at 9:00 pm. The alternate itinerary starts with an 11:00 am check-in at Our Native Village, a 100% eco-friendly resort. After lunch, guests explore the resort, enjoy an herbal and organic farm tour, and participate in a pottery session, village games, and bullock cart rides. The day concludes with a short rest before departing for Yeshwantpur Railway Station. This alternative is available for those opting out of the Bangalore sightseeing tour.</li></div><div class='img-flex-center'><img src='/images/16/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -2851,7 +2851,7 @@
                         "S": "Mysore / Kabini / Bandipur (Tuesday)"
                     },
                     "description": {
-                        "S": "<li>10:00 am: Depart for Kabini / Bandipur after breakfast.</li><li>1:00 pm: Arrive at Jungle Lodge for Lunch.</li><li>Post-lunch: Go for a Jungle Safari / Boat Safari.</li><li>Evening: Watch a wildlife film.</li><li>Dinner and overnight stay at Jungle Lodge.</li><br><strong>Alternate Itinerary</strong><li>Visit Ranganathittu Bird Sanctuary.</li><li>Explore Mysore Zoo.</li><li>Lunch onboard.</li><li>Visit Brindavan Gardens.</li><li>Kabini: A Wildlife Haven.</li><li>Rajiv Gandhi National Park (Nagarhole/Kabini) is an ideal destination for wildlife enthusiasts. A safari through the heart of the park offers sightings of elephants, gaur, sambar, and even elusive predators like tigers and leopards. The park is home to over 300 bird species, making it a bird watcher's paradise.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On Day 2, guests depart for Kabini/Bandipur at 10:00 am after breakfast, arriving at Jungle Lodge by 1:00 pm for lunch. The afternoon is dedicated to an exciting Jungle Safari or Boat Safari, followed by an evening wildlife film screening, with dinner and an overnight stay at the lodge. Alternatively, guests can visit Ranganathittu Bird Sanctuary and Mysore Zoo, enjoy lunch onboard, and explore the Brindavan Gardens before heading to Kabini, a renowned wildlife haven. The Rajiv Gandhi National Park (Nagarhole/Kabini) offers thrilling safaris with sightings of elephants, gaur, sambar, tigers, leopards, and over 300 bird species, making it a paradise for nature lovers.</li></div><div class='img-flex-center'><img src='/images/16/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -2867,7 +2867,7 @@
                         "S": "Mysore (Wednesday)"
                     },
                     "description": {
-                        "S": "<li>8:30 am: Breakfast onboard.</li><li>11:30 am: Return to The Golden Chariot.</li><li>1:00 pm: Lunch onboard.</li><li>3:00 pm: Mysore sightseeing - Visit Mysore Palace and Srirangapatnam.</li><li>7:00 pm: Arrive at Lalitha Mahal Palace for a cultural show, followed by dinner.</li><li>10:00 pm: Back onboard The Golden Chariot.</li><br><strong>Mysore: A Royal Legacy</strong><br>Mysore is known for its royal heritage, splendid palaces, and majestic buildings. It is also famous for its music, dance, arts, and crafts. The Mysore Palace, built in Indo-Saracenic style, is a treasure trove of art and architecture. Visit Srirangapatnam, Tipu Sultan’s fortress, which houses important historical sites like the mosque and the dungeons were British officers were held captive."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On Day 3, the journey begins with breakfast onboard at 8:30 am, followed by a return to The Golden Chariot at 11:30 am. Guests enjoy lunch onboard at 1:00 pm before heading out for Mysore sightseeing at 3:00 pm, exploring the grand Mysore Palace and the historic town of Srirangapatnam. The evening unfolds at Lalitha Mahal Palace, where guests experience a mesmerizing cultural show, followed by a lavish dinner. By 10:00 pm, everyone returns onboard The Golden Chariot, ready for the next leg of the adventure. Mysore: A Royal Legacy Mysore is known for its royal heritage, splendid palaces, and majestic buildings. It is also famous for its music, dance, arts, and crafts. The Mysore Palace, built in Indo-Saracenic style, is a treasure trove of art and architecture. Visit Srirangapatnam, Tipu Sultan’s fortress, which houses important historical sites like the mosque and the dungeons were British officers were held captive.</li></div><div class='img-flex-center'><img src='/images/16/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -2883,7 +2883,7 @@
                         "S": "Hassan (Thursday)"
                     },
                     "description": {
-                        "S": "<li>6:00 am: Depart from Mysore to Hassan.</li><li>8:15 am: Arrive at Hassan.</li><li>9:00 am: Depart for Shravanabelagola (Note: A climb of 700 steps is required to reach the statue. Palanquins are available for those who prefer not to climb.).</li><li>1:00 pm: Lunch onboard.</li><li>3:00 pm: Depart for Belur and Halebid for sightseeing.</li><li>7:15 pm: Back onboard The Golden Chariot.</li><li>7:45 pm: Depart for Hospet.</li><li>Dinner onboard The Golden Chariot.</li><br><strong>Belur & Halebid: A World of Worship</strong><br>Belur is famous for its stunning Hoysala Temple Complex, including the Chennakesava Temple, which showcases intricate sculptures. Halebid, once the capital of the Hoysala dynasty, is home to the beautiful Hoysaleswara Temple. Shravanabelagola features Asia’s largest monolithic statue of Lord Gomateswara, standing 58 feet tall."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Day 4 begins with an early morning departure from Mysore to Hassan at 6:00 am, arriving by 8:15 am. At 9:00 am, guests set out for Shravanabelagola, home to the towering Gommateshwara statue, requiring a 700-step climb (palanquins are available for convenience). After returning, lunch is served onboard at 1:00 pm. The afternoon is dedicated to exploring the magnificent Belur and Halebid temples, known for their intricate Hoysala architecture. By 7:15 pm, guests return to The Golden Chariot, which departs for Hospet at 7:45 pm. Dinner is served onboard as the journey continues.Belur & Halebid: A World of Worship Belur is famous for its stunning Hoysala Temple Complex, including the Chennakesava Temple, which showcases intricate sculptures. Halebid, once the capital of the Hoysala dynasty, is home to the beautiful Hoysaleswara Temple. Shravanabelagola features Asia’s largest monolithic statue of Lord Gomateswara, standing 58 feet tall.</li></div><div class='img-flex-center'><img src='/images/16/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -2899,7 +2899,7 @@
                         "S": "Hospet (Friday)"
                     },
                     "description": {
-                        "S": "<li>6:00 am: Arrive in Hospet.</li><li>8:30 am: After breakfast, depart for Hampi sightseeing: Virupaksha Temple, Queens’ Bath, Elephant Stables, and the Local Crafts Bazaar.</li><li>1:00 pm: Return to The Golden Chariot for Lunch.</li><li>3:00 pm: Continue sightseeing: Royal Enclosure, Hazara Rama Temple, and Illuminated Vittala Temple.</li><li>8:00 pm: Return onboard The Golden Chariot for Dinner.</li><br><strong>Hampi: A World Heritage Site</strong><br>Hampi, once the capital of the Vijayanagara Empire, is a UNESCO World Heritage site. The ruins, scattered across 26 square kilometers, tell tales of grandeur and glory. Explore the temples and palaces, including the Vittala Temple, which features an impressive stone chariot."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Day 5 begins with arrival in Hospet at 6:00 am, followed by breakfast at 8:30 am before departing for a Hampi sightseeing tour. Guests explore the Virupaksha Temple, Queen’s Bath, Elephant Stables, and the Local Crafts Bazaar, immersing themselves in the grandeur of this UNESCO World Heritage Site. At 1:00 pm, lunch is served onboard The Golden Chariot before the journey continues at 3:00 pm with visits to the Royal Enclosure, Hazara Rama Temple, and the beautifully illuminated Vittala Temple, known for its iconic stone chariot and musical pillars. The day concludes at 8:00 pm with dinner onboard, preparing guests for the next adventure. Hampi: A World Heritage Site Hampi, once the capital of the Vijayanagara Empire, is a UNESCO World Heritage site. The ruins, scattered across 26 square kilometers, tell tales of grandeur and glory. Explore the temples and palaces, including the Vittala Temple, which features an impressive stone chariot.</li></div><div class='img-flex-center'><img src='/images/16/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -2915,7 +2915,7 @@
                         "S": "Badami (Saturday)"
                     },
                     "description": {
-                        "S": "<li>5:00 am: Depart from Hospet to Badami.</li><li>Arrive in Badami around 8:30 am.</li><li>9:00 am: After breakfast, explore the Badami Caves and Pattadakal.</li><li>1:30 pm: Return to The Golden Chariot for Lunch.</li><li>2:00 pm: Depart for Goa.</li><li>Relax onboard and enjoy facilities like the Spa and Gym.</li><li>Dinner onboard The Golden Chariot.</li><li>Reach Goa post-midnight.</li><br><strong>Badami: A World Heritage Site</strong><br>Badami, with its stunning rock-cut temples and caves, offers a glimpse into India’s rich history. Pattadakal, known for its Chalukyan architecture, is another UNESCO World Heritage site and a testament to the region’s cultural richness."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Day 6 begins with an early 5:00 am departure from Hospet to Badami, arriving around 8:30 am. After breakfast at 9:00 am, guests explore the stunning Badami Caves and the UNESCO-listed Pattadakal temple complex, known for its exquisite Chalukyan architecture. By 1:30 pm, guests return onboard The Golden Chariot for lunch before the train departs for Goa at 2:00 pm. The afternoon is reserved for relaxation, with access to spa and gym facilities onboard. Dinner is served as the journey continues, with the train reaching Goa post-midnight, preparing for the final leg of this luxurious adventure. Badami: A World Heritage Site Badami, with its stunning rock-cut temples and caves, offers a glimpse into India’s rich history. Pattadakal, known for its Chalukyan architecture, is another UNESCO World Heritage site and a testament to the region’s cultural richness.</li></div><div class='img-flex-center'><img src='/images/16/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -2931,7 +2931,7 @@
                         "S": "Goa (Sunday)"
                     },
                     "description": {
-                        "S": "<li>9:30 am: Breakfast onboard.</li><li>10:00 am: Depart for Goa sightseeing.</li><li>11:00 am: Visit the famous churches of Old Goa.</li><li>12:15 pm: Explore an old Portuguese house: Sola Souto Maior for tea/coffee and shopping.</li><li>2:00 pm: Lunch at Majorda Beach Resort.</li><li>3:00 pm: Relax with an Ayurvedic massage, visit the casino, or enjoy the pool and beach (extra charges apply).</li><li>6:00 pm: Depart from the resort.</li><li>7:15 pm: Return to The Golden Chariot for Dinner.</li><li>9:00 pm: Depart for Bangalore.</li><br><strong>Goa: A World of Golden Beaches</strong><br>Goa is known for its beautiful beaches, colonial architecture, and relaxed pace of life. With its rich history, stunning landscapes, and vibrant culture, Goa is more than just a beach destination."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the final day, guests enjoy breakfast onboard at 9:30 am before departing for Goa sightseeing at 10:00 am. The tour begins with a visit to the historic churches of Old Goa at 11:00 am, followed by a stop at the charming Sola Souto Maior Portuguese house at 12:15 pm for tea, coffee, and shopping. Lunch is served at the Majorda Beach Resort at 2:00 pm, after which guests can unwind with an Ayurvedic massage, a casino visit, or a relaxing time at the pool and beach (extra charges apply). By 6:00 pm, the group departs from the resort, returning to The Golden Chariot for dinner at 7:15 pm. At 9:00 pm, the train departs for Bangalore, marking the conclusion of this luxurious journey. Goa: A World of Golden Beaches Goa is known for its beautiful beaches, colonial architecture, and relaxed pace of life. With its rich history, stunning landscapes, and vibrant culture, Goa is more than just a beach destination.</li></div><div class='img-flex-center'><img src='/images/16/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -2947,7 +2947,7 @@
                         "S": "Bangalore (Monday)"
                     },
                     "description": {
-                        "S": "<li>8:00 am to 9:30 am: Breakfast onboard.</li><li>11:00 am: Arrive at Yeshwantpur Railway Station, where you’ll be farewelled by the entire crew.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the final morning, guests enjoy a leisurely breakfast onboard from 8:00 am to 9:30 am, reflecting on their incredible journey. At 11:00 am, The Golden Chariot arrives at Yeshwantpur Railway Station, where the entire crew bids a warm farewell, marking the end of an unforgettable luxury rail experience.</li></div><div class='img-flex-center'><img src='/images/16/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -4881,7 +4881,7 @@
                         "S": "Arrival in Chennai"
                     },
                     "description": {
-                        "S": "<li>Upon arrival in Chennai, you will be met and transferred to your hotel.</li><li>In the afternoon, embark on a sightseeing tour to explore the cultural richness of South India.</li><li>Chennai, originally a British settlement, still retains a blend of traditional lifestyle and colonial charm.</li><li>Visit key sites like the Kapaleeswarar Temple, a stunning example of Dravidian architecture dating back to 1250 AD, and the Parthasarathy Temple, dedicated to Lord Vishnu.</li><li>Explore Fort St. George, built in 1640 AD, the first British bastion in India, and St. Thomas Mount, the site of the martyrdom of St. Thomas in 72 AD.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the first day of your journey, you will arrive in Chennai and be transferred to your hotel. In the afternoon, enjoy a sightseeing tour that unveils the cultural and historical richness of South India. Chennai, once a British settlement, beautifully blends colonial charm with traditional Tamil heritage. Highlights include the Kapaleeswarar Temple, an exquisite example of Dravidian architecture from 1250 AD, and the Parthasarathy Temple dedicated to Lord Vishnu. You will also visit Fort St. George, built in 1640 AD, and St. Thomas Mount, a sacred site marking the martyrdom of St. Thomas in 72 AD. Overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -4897,7 +4897,7 @@
                         "S": "Chennai – Kanchipuram – Mamallapuram (72 + 74 km / 2 hrs)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, check out from the hotel and drive to Kanchipuram, one of India’s seven sacred cities.</li><li>Historically, it served as the capital of the Pallavas and later the Cholas and the Vijayanagar Rayas.</li><li>Visit the Ekambareswarar Temple, known for its towering 57-meter Rajagopuram, and the Kamakshi Amman Temple, one of the three holy sites dedicated to Shakti worship in India.</li><li>Later, drive to Mamallapuram, and upon arrival, check into the hotel. The rest of the day is free for leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the second day, after breakfast, you will check out from your hotel in Chennai and drive to Kanchipuram, one of India’s seven sacred cities and a significant center of spirituality and culture. Once the capital of the Pallavas, and later ruled by the Cholas and Vijayanagar Rayas, Kanchipuram is home to remarkable temples. Visit the Ekambareswarar Temple, famed for its impressive 57-meter tall Rajagopuram, and the Kamakshi Amman Temple, a major Shakti pilgrimage site. Later, continue your journey to Mamallapuram. Upon arrival, check into your hotel and enjoy the rest of the day at leisure. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -4913,7 +4913,7 @@
                         "S": "Mamallapuram"
                     },
                     "description": {
-                        "S": "<li>After breakfast, enjoy a sightseeing tour of Mamallapuram.</li><li>Visit the Shore Temple, one of the oldest in India, dedicated to both Lord Shiva and Lord Vishnu.</li><li>Explore the Five Rathas, monolithic temples carved from a single rock, and Arjuna's Penance, the world’s largest bas-relief. This 27m x 9m relief showcases an array of divine figures and creatures.</li><li>The rest of the day is free for leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the third day, after a hearty breakfast, set out for a sightseeing tour of Mamallapuram, a coastal town known for its remarkable ancient architecture. Begin with a visit to the Shore Temple, one of the oldest stone temples in India, dedicated to both Lord Shiva and Lord Vishnu. Continue to the Five Rathas, magnificent monolithic temples each carved from a single rock, representing different architectural styles. Don’t miss Arjuna's Penance, the world’s largest bas-relief, measuring 27 meters by 9 meters and depicting divine figures, animals, and scenes from mythology. The rest of the day is free for leisure. Overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -4929,7 +4929,7 @@
                         "S": "Mamallapuram – Pondicherry (210 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out of the hotel and drive to Pondicherry. Upon arrival, check in at the hotel.</li><li>Later, enjoy a sightseeing tour of this former French colony.</li><li>Visit Aurobindo Ashram, a center for spiritual development and the synthesis of yoga and modern science.</li><li>Also, visit Auroville, a universal township founded by Shree Aurobindo and The Mother in 1926 to promote peaceful living and spiritual growth.</li><li>Evening at leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the fourth day, check out from your hotel in Mamallapuram and drive to Pondicherry, a charming town with a unique blend of French colonial heritage and Indian culture. Upon arrival, check in at your hotel and relax before heading out for a sightseeing tour. Visit the renowned Aurobindo Ashram, a spiritual center dedicated to the teachings of Sri Aurobindo, focusing on the integration of yoga and modern science. Later, explore Auroville, an experimental township founded in 1926 by Sri Aurobindo and The Mother, promoting unity, peace, and spiritual progress. Enjoy a leisurely evening. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -4945,7 +4945,7 @@
                         "S": "Pondicherry – Thanjavur (54 km / 2 hrs)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, check out and drive to Thanjavur.</li><li>Upon arrival, check in at the hotel, followed by a sightseeing tour. Known as the Rice Bowl of Tamil Nadu, Thanjavur is home to several historic temples.</li><li>Visit the Brihadeeswara Temple, an architectural marvel of the Chola dynasty, famous for its towering central dome and massive monolithic stone slab.</li><li>Also, explore the Thanjavur Palace and Saraswathi Mahal Library, which houses over 30,000 manuscripts.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the fifth day, after breakfast, check out from your hotel in Pondicherry and drive to Thanjavur, often referred to as the Rice Bowl of Tamil Nadu. Upon arrival, check in at your hotel and begin a sightseeing tour of this culturally rich city. Explore the magnificent Brihadeeswara Temple, a UNESCO World Heritage Site and a masterpiece of Chola architecture, renowned for its massive central dome and intricately carved monolithic stone slab. Continue your tour with a visit to the Thanjavur Palace and the Saraswathi Mahal Library, which houses a remarkable collection of over 30,000 ancient manuscripts. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -4961,7 +4961,7 @@
                         "S": "Thanjavur – Tiruchirappalli (128 km / 3 hrs)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, check out and drive to Tiruchirapalli.</li><li>Upon arrival, check in at the hotel, followed by a sightseeing tour.</li><li>Visit the Rock Fort, a massive rock with a temple perched atop, offering panoramic views of the city.</li><li>Explore the Rock Fort Temple and Srirangam, an island town known for the Sri Ranganathaswamy Temple, one of the largest Vaishnavite temples in South India.</li><li>The temple complex is surrounded by seven walls and features 21 towering gopurams.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the sixth day, after breakfast, check out from your hotel in Thanjavur and drive to Tiruchirappalli, a city rich in history and spiritual significance. Upon arrival, check in at your hotel before heading out for a sightseeing tour. Begin with the iconic Rock Fort, a towering ancient rock formation featuring a temple at its summit, offering stunning panoramic views of the city. Continue to Srirangam, a sacred island town, and visit the Sri Ranganathaswamy Temple, one of the largest and most revered Vaishnavite temples in South India. The grand temple complex is enclosed by seven concentric walls and boasts 21 majestic gopurams. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -4977,7 +4977,7 @@
                         "S": "Tiruchirapalli – Madurai (160 km / 5 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out of the hotel and drive to Madurai.</li><li>On arrival, check in at the hotel.</li><li>In the afternoon, visit the magnificent Meenakshi Sundareswarar Temple, famous for its towering gopurams and intricate carvings.</li><li>Also, explore the Tirumalai Nayak Palace, an Indo-Saracenic architectural wonder built in the 17th century.</li><li>Visit Vandiyur Mariamman Tank, a large temple tank with a mandapam in the center.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the seventh day, check out from your hotel in Tiruchirapalli and drive to Madurai, one of the oldest continuously inhabited cities in the world. Upon arrival, check in at your hotel and relax before heading out for an afternoon of exploration. Visit the awe-inspiring Meenakshi Sundareswarar Temple, renowned for its soaring gopurams adorned with thousands of colorful sculptures and intricate carvings. Next, explore the Tirumalai Nayak Palace, an impressive 17th-century structure that beautifully blends Dravidian and Islamic architectural styles. End your day with a visit to the Vandiyur Mariamman Tank, a sacred temple tank featuring a central mandapam. Overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -4993,7 +4993,7 @@
                         "S": "Madurai – Chennai (Flight: 9W 3522 – 0830 / 0945 hrs) – Bangalore (Flight: 9W 487 – 1115 / 1200 hrs)"
                     },
                     "description": {
-                        "S": "Check-out of the hotel and transfer to the airport in time to board flight for Chennai. Arrive Chennai and connect flight for Bangalore. Assistance on arrival and transfer to hotel. Later proceed for sightseeing tour of Bangalore, one of the most pleasant cities of India takes in the central area which is studded with beautifully laId out parks, gardens, wIde tree-lined avenues, imposing buildings and lively bazaars. Bangalore is famous for the VIdhan Soudha which is one of the India\u2019s most spectacular buildings, built in granite in the neo-DravIdian style of architecture. The Cubban Park is a beautifully landscaped; full of flowering trees and covers the park is the lung of the city an area of 120 hectares. The park is the lung of the city and was laId out in 1864. Some of the other attractions in Bangalore include the Lalbagh Gardens, the Tipu Sultan\u2019s Palace and the Bull Temple, one of the Bangalore\u2019s oldest temples."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the eighth day, check out from your hotel in Madurai and transfer to the airport for your morning flight to Chennai. Upon arrival, connect to your next flight bound for Bangalore. Once in Bangalore, you will be met by your guide and transferred to your hotel. In the afternoon, set out on a sightseeing tour of the city, celebrated for its pleasant weather, lush green spaces, and vibrant culture. Key highlights include the majestic Vidhan Soudha, the beautifully landscaped Lalbagh Gardens, the historic Tipu Sultan’s Palace, and the ancient Bull Temple. Conclude the day with an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -5009,7 +5009,7 @@
                         "S": "Bangalore – Mysore (130 km / 3 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out of the hotel and drive to Mysore, with a stop at Srirangapatna, the summer palace of Tipu Sultan.</li><li>Explore the island fortress, which is surrounded by the river Cauvery.</li><li>Upon arrival in Mysore, check in at the hotel.</li><li>Later, visit the Maharaja’s Palace, a stunning example of Indo-Saracenic architecture.</li><li>Explore the Jaganmohan Palace, now an art gallery, and the Brindavan Gardens, famous for its colorful lights and dancing fountains.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the ninth day, check out from your hotel in Bangalore and drive to Mysore, stopping en route at Srirangapatna, the historic island fortress and former summer palace of Tipu Sultan, surrounded by the serene river Cauvery. Explore its rich heritage before continuing your journey to Mysore. Upon arrival, check in at your hotel and prepare for an afternoon of sightseeing. Visit the magnificent Maharaja’s Palace, a grand Indo-Saracenic masterpiece adorned with ornate interiors. Continue to the Jaganmohan Palace, now an art gallery showcasing exquisite paintings and artifacts. End the day at the Brindavan Gardens, known for its illuminated fountains and vibrant evening light show. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -5025,7 +5025,7 @@
                         "S": "Mysore – Hassan (190 km / 5 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out of the hotel and drive to Hassan.</li><li>En-route, visit Shravanabelagola, a small village known for its massive Jain statue of Gomateshwara.</li><li>Upon arrival in Hassan, check in at the hotel.</li><li>Later, visit the historic sites of Belur and Halebid.</li><li>Belur is famous for the Chennakesava Temple, known for its intricate carvings.</li><li>Halebid was the ancient capital of the Hoysala Empire and is home to the Hoysaleswara Temple.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the tenth day, check out from your hotel in Mysore and drive to Hassan, with a fascinating stop en route at Shravanabelagola. This serene village is renowned for the towering 17-meter statue of Gomateshwara, one of the most important pilgrimage sites for Jains. Afterward, continue to Hassan and check in at your hotel. In the afternoon, explore the remarkable temple towns of Belur and Halebid. Visit the Chennakesava Temple in Belur, celebrated for its exquisite carvings and architectural detail. Then proceed to Halebid, the former capital of the Hoysala Empire, to admire the ornate Hoysaleswara Temple. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/26/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -5041,7 +5041,7 @@
                         "S": "Hassan – Bangalore (187 km / 4 hrs) – Bangalore – Mumbai (Flight: 9W 418 – 1630 / 1805 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out from the hotel and drive to Bangalore.</li><li>Upon arrival, transfer to the airport for your flight to Mumbai.</li><li>On arrival in Mumbai, proceed directly to the international airport for your onward journey.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the eleventh and final day of your journey, check out from your hotel in Hassan and drive to Bangalore. Upon arrival, you will be transferred to the airport to catch your flight to Mumbai. Once in Mumbai, proceed directly to the international terminal for your onward journey, concluding your enriching and memorable exploration of South India’s cultural, architectural, and spiritual heritage.</li></div><div class='img-flex-center'><img src='/images/26/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -5080,7 +5080,7 @@
                         "S": "Arrival in Delhi"
                     },
                     "description": {
-                        "S": "<li>Upon arrival, you will be greeted and transferred to your hotel for check-in.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Delhi, you will be warmly greeted by our representative and escorted to your hotel for a seamless check-in experience. As you settle in, take the opportunity to unwind and absorb the first impressions of this bustling metropolis, where ancient history meets modern charm. The remainder of the day is at your leisure—whether you choose to relax in the comfort of your hotel or take a short stroll to explore the nearby surroundings, it’s the perfect time to ease into the vibrant energy, diverse culture, and captivating atmosphere of India’s capital city. This initial overnight stay at the hotel marks the beginning of your royal journey, setting the tone for the unforgettable experiences that await.</li></div><div class='img-flex-center'><img src='/images/27/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -5096,7 +5096,7 @@
                         "S": "Delhi Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Start your day with a tour of Old Delhi, exploring its rich history.</li><li>Visit the iconic Red Fort, built by Emperor Shah Jahan after he moved his capital from Agra.</li><li>Next, head to the Jama Masjid, one of the largest mosques in India. Continue to Rajghat, the memorial of Mahatma Gandhi.</li><li>In the afternoon, explore New Delhi with visits to the Qutub Minar, the tallest stone tower in India, and the Chhatarpur Temple, known for its serene atmosphere.</li><li>Discover Humayun's Tomb, an architectural masterpiece believed to be the inspiration for the Taj Mahal, and the Bahai Lotus Temple, a symbol of unity and peace for all faiths.</li><li>Enjoy an evening at leisure.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your exploration with a tour of Old Delhi, visiting the iconic Red Fort, Jama Masjid, and Rajghat, the memorial of Mahatma Gandhi. In the afternoon, discover New Delhi’s landmarks, including Qutub Minar, Chhatarpur Temple, Humayun’s Tomb, and the Bahai Lotus Temple. The evening is at leisure to unwind. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -5112,7 +5112,7 @@
                         "S": "Delhi to Mandawa (260 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out of your hotel and travel to Mandawa, arriving in the afternoon.</li><li>Mandawa is famous for its painted havelis (mansions) in the Shekhawati region. It is known as an open-air gallery due to its stunning frescoes.</li><li>After checking in, enjoy a leisurely evening exploring this unique area.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After checkout, embark on a scenic 6-hour drive to the charming town of Mandawa, nestled in the heart of the Shekhawati region and renowned for its intricately fresco-adorned havelis that reflect the rich cultural heritage of Rajasthan. As you journey through the changing landscapes of rural India, soak in the vibrant colors and rustic beauty that hint at the artistic treasures awaiting you. Upon arrival in Mandawa, check into your hotel and take some time to relax before heading out to explore the town's enchanting streets, often referred to as an “open-air gallery” of Rajasthani art and architecture. Stroll past elaborately painted mansions, centuries-old structures, and bustling local markets that offer a glimpse into the town’s glorious past. Enjoy a peaceful evening immersed in history and culture before retiring for an overnight stay in Mandawa.</li></div><div class='img-flex-center'><img src='/images/27/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -5128,7 +5128,7 @@
                         "S": "Mandawa to Bikaner (180 km / 4 hrs)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, check out and proceed to Bikaner.</li><li>Upon arrival, check in at your hotel.</li><li>Visit Junagarh Fort, built in 1593, which stands as a striking example of Rajasthani architecture, with beautiful palaces within its walls.</li><li>Explore Lallgarh Palace, a grand structure built by Maharaja Ganga Singh in memory of his father, featuring beautiful lattice and filigree work.</li><li>Spend the evening at leisure.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, check out and proceed to Bikaner. Upon arrival, check in at your hotel. Visit Junagarh Fort, built in 1593, which stands as a striking example of Rajasthani architecture, with beautiful palaces within its walls. Explore Lallgarh Palace, a grand structure built by Maharaja Ganga Singh in memory of his father, featuring beautiful lattice and filigree work. Spend the evening at leisure. Overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -5144,7 +5144,7 @@
                         "S": "Bikaner to Khimsar (145 km / 3 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out and drive to Khimsar, with a stop at Deshnok to visit the Karni Mata Temple, known for its sacred rats.</li><li>Upon arrival in Khimsar, check in at the Khimsar Fort, which now operates as a heritage hotel.</li><li>Relax and enjoy the hospitality of this historic fort.</li><li>Evening at leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Check out and drive to Khimsar, with a fascinating stop at Deshnok to visit the famous Karni Mata Temple, renowned for its unique population of sacred rats that freely roam the temple grounds and are considered holy by devotees. This intriguing temple offers a one-of-a-kind spiritual experience unlike any other. After exploring the temple, continue your journey to Khimsar. Upon arrival, check in at the magnificent Khimsar Fort, a centuries-old structure that has been beautifully restored and now operates as a charming heritage hotel. Take time to relax and soak in the royal ambiance, warm hospitality, and historic charm of the fort. The rest of the evening is at your leisure to unwind or explore the surroundings at your own pace. Enjoy an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -5160,7 +5160,7 @@
                         "S": "Khimsar to Jaisalmer (305 km / 7 hrs)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, set out on a scenic drive to Jaisalmer, passing through Osian, an oasis with beautiful Jain and Brahmanical temples.</li><li>Arrive in Jaisalmer and check in at your hotel.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, set out on a scenic drive to Jaisalmer, passing through Osian, an ancient desert town known for its stunning oasis and intricately carved Jain and Brahmanical temples that reflect the region’s rich cultural heritage. Enjoy the changing landscapes as you journey through the Thar Desert, witnessing small villages and sand dunes along the way. Upon arrival in Jaisalmer, often referred to as the 'Golden City' for its yellow sandstone architecture, check in at your hotel and unwind. Spend the evening at leisure, soaking in the unique ambiance of this historic desert.</li></div><div class='img-flex-center'><img src='/images/27/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -5176,7 +5176,7 @@
                         "S": "Jaisalmer Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Explore the golden city of Jaisalmer, which rises from the desert like a golden mirage.</li><li>Visit Jaisalmer Fort, which houses the entire township within its ramparts, and admire the narrow lanes lined with havelis, Jain temples, and interconnected palaces.</li><li>Discover Patwon-ki-Haveli, an exquisite example of Rajasthani architecture.</li><li>Visit the Sam Sand Dunes for a camel safari to experience the vast desert.</li><li>Evening at leisure.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Explore the golden city of Jaisalmer, which rises from the desert like a golden mirage. Visit Jaisalmer Fort, which houses the entire township within its ramparts, and admire the narrow lanes lined with havelis, Jain temples, and interconnected palaces. Discover Patwon-ki-Haveli, an exquisite example of Rajasthani architecture. Visit the Sam Sand Dunes for a camel safari to experience the vast desert. Evening at leisure. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -5192,7 +5192,7 @@
                         "S": "Jaisalmer to Jodhpur (290 km / 7 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out and drive to Jodhpur.</li><li>After arriving and checking in, visit Mehrangarh Fort, an imposing structure perched on a hill, offering stunning views of the city.</li><li>Also visit Jaswant Thada, a beautiful royal cenotaph built in memory of Maharaja Jaswant Singh II.</li><li>Enjoy the local market in the evening.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Check out and drive to Jodhpur. After arriving and checking in, visit Mehrangarh Fort, an imposing structure perched on a hill, offering stunning views of the city. Also visit Jaswant Thada, a beautiful royal cenotaph built in memory of Maharaja Jaswant Singh II. Enjoy the local market in the evening. Overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -5208,7 +5208,7 @@
                         "S": "Jodhpur to Rohetgarh (45 km / 1 hr)"
                     },
                     "description": {
-                        "S": "<li>Drive to Rohetgarh and check in at your hotel.</li><li>In the afternoon, embark on a jeep safari to explore the Bishnoi villages.</li><li>The Bishnois are environmentalists who have been preserving the local wildlife for centuries.</li><li>Visit the villages of craftsmen such as potters, weavers, and metalworkers.</li><li>Evening at leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Drive to Rohetgarh and check in at your hotel. In the afternoon, embark on a jeep safari to explore the Bishnoi villages. The Bishnois are environmentalists who have been preserving the local wildlife for centuries. Visit the villages of craftsmen such as potters, weavers, and metalworkers. Evening at leisure. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -5224,7 +5224,7 @@
                         "S": "Rohetgarh to Udaipur (240 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Drive to Udaipur, with a visit to the Ranakpur Jain Temples en route.</li><li>These temples are renowned for their intricate carvings and beautiful architecture.</li><li>Upon arrival in Udaipur, check in at your hotel.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Drive to Udaipur, with a visit to the magnificent Ranakpur Jain Temples en route. Nestled in a serene valley of the Aravalli Hills, these temples are renowned for their stunning marble architecture, intricate carvings, and the impressive 1,444 uniquely carved pillars that support the main temple. The peaceful ambiance and architectural brilliance make it one of the most important Jain pilgrimage sites in India. After exploring the temple complex and soaking in its spiritual atmosphere, continue your scenic drive to Udaipur, also known as the City of Lakes. Upon arrival, check in at your hotel and take some time to relax. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -5240,7 +5240,7 @@
                         "S": "Udaipur Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Explore Udaipur, the 'City of Dawn,' nestled around tranquil lakes and surrounded by lush hills.</li><li>Visit the City Palace, a magnificent architectural marvel overlooking Lake Pichola.</li><li>Discover Jagdish Temple, a stunning Indo-Aryan temple built in 1651, and Sahelion-ki-Bari, a beautiful garden with fountains and marble elephants.</li><li>Enjoy a boat ride on Lake Pichola, where you'll visit Jag Mandir and the Lake Palace.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Explore Udaipur, the 'City of Dawn,' nestled around tranquil lakes and surrounded by lush hills. Visit the City Palace, a magnificent architectural marvel overlooking Lake Pichola. Discover Jagdish Temple, a stunning Indo-Aryan temple built in 1651, and Sahelion-ki-Bari, a beautiful garden with fountains and marble elephants. Enjoy a boat ride on Lake Pichola, where you'll visit Jag Mandir and the Lake Palace. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -5256,7 +5256,7 @@
                         "S": "Udaipur to Pushkar (240 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out and drive to Pushkar, arriving in the afternoon.</li><li>Check in at your hotel and later visit Pushkar Lake, a sacred site associated with Lord Brahma.</li><li>Explore the local market and the Brahma Temple, one of the few temples dedicated to this deity.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Check out and drive to Pushkar, a charming town known for its spiritual significance and vibrant culture, arriving in the afternoon. Upon arrival, check in at your hotel and take some time to relax before heading out to explore. Later, visit the serene Pushkar Lake, a sacred site steeped in mythology and associated with Lord Brahma, where pilgrims come to take a holy dip. Stroll around the lake’s ghats and soak in the peaceful atmosphere. Next, explore the bustling local market filled with colorful handicrafts, traditional clothing, and souvenirs. Don’t miss a visit to the famous Brahma Temple, one of the very few temples in the world dedicated to Lord Brahma, offering a rare spiritual experience. Enjoy the unique vibe of the town before returning for an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -5272,7 +5272,7 @@
                         "S": "Pushkar to Jaipur (130 km / 2.5 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out and drive to Jaipur, the capital city of Rajasthan.</li><li>Upon arrival, check in at your hotel.</li><li>In the afternoon, visit the City Palace, a stunning blend of Rajasthani and Mughal architecture.</li><li>Explore Jantar Mantar, an astronomical observatory built in 1726.</li><li>Drive to the Palace of Winds (Hawa Mahal), a five-story palace with a unique façade designed for the royal ladies to observe street life.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Check out and drive to Jaipur, the capital city of Rajasthan. Upon arrival, check in at your hotel. In the afternoon, visit the City Palace, a stunning blend of Rajasthani and Mughal architecture. Explore Jantar Mantar, an astronomical observatory built in 1726. Drive to the Palace of Winds (Hawa Mahal), a five-story palace with a unique façade designed for the royal ladies to observe street life. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/13.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -5288,7 +5288,7 @@
                         "S": "Jaipur Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Embark on an excursion to Amber Fort, situated on a hill and accessible by elephant ride.</li><li>The fort houses the Marble Palace, Temple of Victory, and Hall of Mirrors.</li><li>In the afternoon, enjoy free time for leisure or shopping.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Embark on an unforgettable excursion to the majestic Amber Fort, a grand structure perched atop a scenic hill, offering panoramic views of the surrounding landscape. Accessible by an optional and traditional elephant ride, the journey to the fort itself is a unique experience that captures the royal charm of Rajasthan. Within its impressive walls, the fort houses architectural marvels such as the elegant Marble Palace, the awe-inspiring Temple of Victory, and the mesmerizing Hall of Mirrors, known for its intricate mirror work that sparkles with reflected light. In the afternoon, unwind with free time to relax at your own pace or explore the local markets, where you can shop for traditional crafts, textiles, and souvenirs. Conclude your day with an overnight stay at the hotel, soaking in the cultural richness and regal ambiance of the region.</li></div><div class='img-flex-center'><img src='/images/27/14.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
@@ -5304,7 +5304,7 @@
                         "S": "Jaipur to Agra (235 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out and drive to Agra, with a visit to Fatehpur Sikri en route.</li><li>Explore the abandoned capital of Emperor Akbar, a fascinating site with architectural wonders.</li><li>Continue your journey to Agra and check in at your hotel.</li><li>Rest of the day at leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Check out and drive to Agra, with a visit to Fatehpur Sikri en route. Explore the abandoned capital of Emperor Akbar, a fascinating site with architectural wonders. Continue your journey to Agra and check in at your hotel. Rest of the day at leisure. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/27/15.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "15"
@@ -5320,7 +5320,7 @@
                         "S": "Agra to Delhi (204 km / 4.5 hrs) Departure"
                     },
                     "description": {
-                        "S": "<li>Start the day with a visit to the Taj Mahal, the breathtaking symbol of eternal love built by Emperor Shah Jahan for his wife Mumtaz Mahal.</li><li>Explore Agra Fort, offering spectacular views of the Taj Mahal from its octagonal tower.</li><li>Later, drive back to Delhi for your onward departure.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Start the day with a visit to the magnificent Taj Mahal, the breathtaking symbol of eternal love built in white marble by Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal. Marvel at the intricate craftsmanship and serene beauty of this UNESCO World Heritage Site, as the morning light casts a golden glow on its stunning façade. After soaking in the splendor of the Taj, head to the historic Agra Fort, a majestic red sandstone fortress that once served as the main residence of the Mughal emperors. Wander through its impressive halls and palaces, and enjoy spectacular views of the Taj Mahal from the fort’s iconic octagonal tower. Later in the day, embark on a comfortable drive back to Delhi, where you will proceed with your onward journey, carrying with you unforgettable memories of Agra’s timeless charm.</li></div><div class='img-flex-center'><img src='/images/27/16.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "16"
@@ -5359,7 +5359,7 @@
                         "S": "Arrive in Delhi"
                     },
                     "description": {
-                        "S": "<li>Upon arrival in Delhi, you will be greeted and transferred to your hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon landing in Delhi, you will be warmly greeted and transferred to your hotel. The rest of the day is yours to relax or explore the vibrant surroundings at your leisure. Settle in for an overnight stay, preparing for the cultural immersion ahead.</li></div><div class='img-flex-center'><img src='/images/28/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -5375,7 +5375,7 @@
                         "S": "Delhi Sightseeing"
                     },
                     "description": {
-                        "S": "<li>In the morning, embark on a tour of Old Delhi, a city rich in history and culture.</li><li>Your first stop is the Red Fort, built by the Mughal Emperor Shah Jahan when he moved his capital from Agra.</li><li>Next, visit Jama Masjid, India’s largest mosque.</li><li>Continue to Rajghat, the memorial for Mahatma Gandhi.</li><li>In the afternoon, explore New Delhi, including a visit to Qutub Minar, the tallest stone tower in India, constructed in 1191 AD.</li><li>You will also visit the serene Chhatarpur Temple, followed by a stop at Humayun’s Tomb, which is believed to have inspired the Taj Mahal.</li><li>The Bahai Temple, also known as the Lotus Temple, will be your final stop.</li><li>It is open to all faiths and serves as a place for peace and meditation.</li><li>The evening is free for leisure.</li><li>Stay overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your exploration of Delhi with a morning tour of Old Delhi’s historical gems. Visit the majestic Red Fort, a UNESCO World Heritage Site built by Emperor Shah Jahan, followed by the sprawling Jama Masjid, India’s largest mosque. Pay homage at Rajghat, Mahatma Gandhi’s memorial. In the afternoon, delve into New Delhi’s highlights, including the towering Qutub Minar, the serene Chhatarpur Temple, and Humayun’s Tomb, a precursor to the Taj Mahal’s architecture. Conclude with a visit to the Lotus Temple, a symbol of unity and meditation. Enjoy a free evening before retiring to your hotel.</li></div><div class='img-flex-center'><img src='/images/28/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -5391,7 +5391,7 @@
                         "S": "Delhi to Jaipur (Drive: 265 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>In the morning, begin your journey to Jaipur. Upon arrival, check-in at the hotel.</li><li>In the afternoon, take a sightseeing tour of Jaipur.</li><li>Visit the City Palace, which houses several palaces and museums showcasing collections from the princely era.</li><li>Explore the Jantar Mantar, an outdoor observatory built in 1726 by King Jai Singh, which features instruments of remarkable precision.</li><li>End the tour with a visit to Hawa Mahal, also known as the Palace of Winds, famous for its façade of windows and latticed screens.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic 6-hour drive to Jaipur, the “Pink City.” Check into your hotel and embark on an afternoon tour. Explore the opulent City Palace, home to royal artifacts, and marvel at the astronomical instruments of Jantar Mantar. Admire the intricate façade of Hawa Mahal, the Palace of Winds, before returning to your hotel for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/28/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -5407,7 +5407,7 @@
                         "S": "Jaipur"
                     },
                     "description": {
-                        "S": "<li>In the morning, take an excursion to Amber Fort, located on a hill.</li><li>Experience an elephant ride to enter the fort, which houses the Marble Palace, the Temple of Victory, and the Hall of Mirrors.</li><li>The afternoon is free for you to explore Jaipur’s vibrant bazaars.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Start your day with an excursion to Amber Fort, ascending its hilltop location via a traditional elephant ride. Discover its ornate Marble Palace, Hall of Mirrors, and Temple of Victory. The afternoon is free to wander through Jaipur’s bustling bazaars, perfect for picking up handicrafts and textiles. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/28/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -5423,7 +5423,7 @@
                         "S": "Jaipur to Agra (Drive: 235 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>After an early breakfast, depart for Agra, stopping en route to visit Fatehpur Sikri, the former capital of Emperor Akbar, abandoned due to water shortages.</li><li>Upon reaching Agra, check-in at the hotel.</li><li>In the afternoon, visit the Taj Mahal, a stunning symbol of eternal love, built by Emperor Shah Jahan for his wife Mumtaz Mahal.</li><li>You will also visit Agra Fort, where you can enjoy breathtaking views of the Taj Mahal from its octagonal tower across the Yamuna River.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Depart early for Agra, pausing en route at Fatehpur Sikri, Emperor Akbar’s abandoned sandstone capital. Upon arrival in Agra, visit the iconic Taj Mahal at sunset, witnessing its marble splendor glow in the golden light. Later, explore Agra Fort, offering panoramic views of the Taj from its ramparts. Overnight stay in Agra.</li></div><div class='img-flex-center'><img src='/images/28/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -5439,7 +5439,7 @@
                         "S": "Agra to Jhansi"
                     },
                     "description": {
-                        "S": "<li>After breakfast, transfer to the railway station for your train journey to Jhansi.</li><li>Upon arrival, drive to Khajuraho and check in at the hotel.</li><li>In the afternoon, enjoy a sightseeing tour of the famous temples of Khajuraho.</li><li>These temples, built between 950 and 1050 AD, are renowned for their extraordinary architecture and sculptures.</li><li>Visit the Kandariya Mahadeo Temple, dedicated to Lord Shiva, and other notable temples including Chausath Yogini, Vishwanath, Lakshmana, and Devi Jagadamba.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, take a train to Jhansi, followed by a drive to Khajuraho. Check into your hotel and embark on a tour of the UNESCO-listed Khajuraho temples. Marvel at the intricate erotic sculptures and architectural brilliance of Kandariya Mahadeo Temple, Chausath Yogini, and others. Overnight in Khajuraho.</li></div><div class='img-flex-center'><img src='/images/28/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -5455,7 +5455,7 @@
                         "S": "Khajuraho to Varanasi"
                     },
                     "description": {
-                        "S": "<li>Check out from your hotel and transfer to the airport for a flight to Varanasi.</li><li>Upon arrival, you will be assisted and transferred to your hotel.</li><li>In the afternoon, visit the Vishwanath Temple, also known as the Golden Temple, which was erected by Rani Ahalayabai Holkar and has a gold-plated spire.</li><li>Explore the Bharat Mata Temple, dedicated to Mother India, and the Tulsi Manas Temple, dedicated to Lord Rama.</li><li>The evening is free for you to wander through the local markets.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Check out from your hotel and transfer to the airport for a flight to Varanasi. Upon arrival, you will be assisted and transferred to your hotel. In the afternoon, visit the Vishwanath Temple, also known as the Golden Temple, which was erected by Rani Ahalayabai Holkar and has a gold-plated spire. Explore the Bharat Mata Temple, dedicated to Mother India, and the Tulsi Manas Temple, dedicated to Lord Rama. The evening is free for you to wander through the local markets. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/28/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -5471,7 +5471,7 @@
                         "S": "Varanasi to Delhi"
                     },
                     "description": {
-                        "S": "<li>Early in the morning, take a boat ride on the Ganges River, experiencing the spiritual atmosphere.</li><li>Later, take a trip to Sarnath, an important Buddhist site, where Lord Buddha gave his first sermon.</li><li>Visit the Dhamek Stupa and the nearby Sarnath Museum, which houses the famous Ashoka Pillar.</li><li>Afterward, check out from your hotel and transfer to the airport for your flight back to Delhi.</li><li>Upon arrival, check-in at your hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Early in the morning, take a boat ride on the Ganges River, experiencing the spiritual atmosphere. Later, take a trip to Sarnath, an important Buddhist site, where Lord Buddha gave his first sermon. Visit the Dhamek Stupa and the nearby Sarnath Museum, which houses the famous Ashoka Pillar. Afterward, check out from your hotel and transfer to the airport for your flight back to Delhi. Upon arrival, check-in at your hotel.</li></div><div class='img-flex-center'><img src='/images/28/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -5487,7 +5487,7 @@
                         "S": "Departure from Delhi"
                     },
                     "description": {
-                        "S": "<li>Check out from your hotel and transfer to the international airport for your onward flight.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After enjoying a hearty breakfast, complete the check-out process at your hotel and prepare for your transfer to Delhi’s international airport. As you make your way to the airport, take a moment to reflect on the unforgettable experiences and memories you've gathered throughout your journey. From vibrant cities and sacred temples to centuries-old monuments and bustling local markets, every stop along the way offered a unique glimpse into India’s rich cultural heritage and spiritual depth. With your heart full and your spirit enriched, bid farewell to this incredible land as you board your flight for your onward journey, bringing to a close a truly transformative and inspiring tour of India’s cultural and spiritual treasures.</li></div><div class='img-flex-center'><img src='/images/28/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -5526,7 +5526,7 @@
                         "S": "Arrive in Delhi"
                     },
                     "description": {
-                        "S": "<li>Upon arrival in Delhi, you will be warmly welcomed and transferred to your hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Delhi, you will be warmly welcomed by a representative who will greet you with traditional Indian hospitality and assist you with your luggage. You’ll then be comfortably transferred to your hotel in a private vehicle, where you can relax and unwind after your journey. As you drive through the bustling streets of the capital, you’ll catch your first glimpses of Delhi’s vibrant culture, historic architecture, and energetic atmosphere. Once checked in, the rest of the day is at your leisure to settle in, explore nearby areas, or simply enjoy the hotel amenities.</li></div><div class='img-flex-center'><img src='/images/29/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -5542,7 +5542,7 @@
                         "S": "Delhi Sightseeing"
                     },
                     "description": {
-                        "S": "<li>Start the day with a guided tour of Old Delhi, a city with deep historical roots.</li><li>Your first visit will be the Red Fort, constructed by the Mughal Emperor Shah Jahan when he moved his capital from Agra.</li><li>Next, visit the Jama Masjid, one of the largest mosques in India.</li><li>Continue to Rajghat, the memorial to Mahatma Gandhi.</li><li>In the afternoon, explore New Delhi, starting with the Qutub Minar, the tallest stone tower in India, built in 1191 AD.</li><li>Visit Chhatarpur Temple, a popular Hindu temple known for its peaceful and serene atmosphere.</li><li>You’ll also visit Humayun’s Tomb, believed to have been designed by his widow, which influenced later Mughal tombs, including the Taj Mahal.</li><li>Conclude the day with a visit to the Bahai Temple, a lotus-shaped structure open to all faiths, ideal for meditation and tranquility.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The day starts with a guided tour of Old Delhi, a city with deep historical roots. Your first visit will be the Red Fort, constructed by the Mughal Emperor Shah Jahan.  Next, you’ll visit Jama Masjid, one of the largest mosques in India.  You will then continue to Rajghat, the memorial to Mahatma Gandhi.  In the afternoon, you will explore New Delhi, starting with the Qutub Minar, the tallest stone tower in India, built in 1191 AD. You’ll also visit Chhatarpur Temple, a popular Hindu temple known for its peaceful and serene atmosphere, and Humayun’s Tomb, believed to have been designed by his widow, which influenced later Mughal tombs, including the Taj Mahal.  The day concludes with a visit to the Bahai Temple, a lotus-shaped structure open to all faiths, ideal for meditation and tranquility.</li></div><div class='img-flex-center'><img src='/images/29/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -5558,7 +5558,7 @@
                         "S": "Delhi to Jaipur (Drive: 265 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out from the hotel and drive to Jaipur. Upon arrival, check in at the hotel.</li><li>In the afternoon, enjoy a sightseeing tour of Jaipur.</li><li>Visit the City Palace, a stunning complex with palaces and museums filled with royal collections.</li><li>Next, explore the Jantar Mantar, an astronomical observatory built by King Jai Singh in 1726, featuring precision instruments that continue to make accurate predictions.</li><li>Lastly, visit the Hawa Mahal, also known as the Palace of Winds, a five-story structure with a beautiful façade of windows and latticed screens.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You will check out from the hotel and drive to Jaipur.  Upon arrival, you will check in at the hotel.  In the afternoon, you'll enjoy a sightseeing tour of Jaipur.  You will visit the City Palace, a stunning complex with palaces and museums filled with royal collections. Next, you will explore the Jantar Mantar, an astronomical observatory built by King Jai Singh in 1726, featuring precision instruments.  Lastly, you will visit the Hawa Mahal, also known as the Palace of Winds, a five-story structure with a beautiful façade of windows and latticed screens.  </li></div><div class='img-flex-center'><img src='/images/29/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -5574,7 +5574,7 @@
                         "S": "Jaipur"
                     },
                     "description": {
-                        "S": "<li>In the morning, embark on an excursion to Amber Fort, perched on a hill.</li><li>Enjoy an elephant ride to enter the fort, which includes the Marble Palace, Temple of Victory, and the Hall of Mirrors.</li><li>Spend the afternoon exploring the vibrant bazaars of Jaipur.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, you will go on an excursion to Amber Fort, perched on a hill.  You’ll enjoy an elephant ride to enter the fort, which includes the Marble Palace, Temple of Victory, and the Hall of Mirrors. The afternoon is spent exploring the vibrant bazaars of Jaipur.  You will stay overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/29/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -5590,7 +5590,7 @@
                         "S": "Jaipur to Ranthambore (Drive: 115 km / 3 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out from the hotel and drive to Ranthambore.</li><li>Upon arrival, check in at the hotel.</li><li>Ranthambore National Park is renowned for its tiger population and offers one of the best opportunities to see these majestic creatures in their natural habitat.</li><li>The park, covering nearly 400 sq. km, is nestled between the Aravali and Vindhya mountain ranges.</li><li>In the afternoon an exciting Jeep safari in the park.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You will check out of the hotel and drive to Ranthambore. Upon arrival, you will check in at the hotel. Ranthambore National Park is renowned for its tiger population and offers excellent opportunities to see these majestic creatures in their natural habitat.  The park covers nearly 400 sq. km, nestled between the Aravali and Vindhya mountain ranges.  In the afternoon, you'll enjoy an exciting Jeep safari in the park.  You will stay overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/29/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -5606,7 +5606,7 @@
                         "S": "Ranthambore"
                     },
                     "description": {
-                        "S": "<li>Start your day early with a Jeep safari in the national park.</li><li>Afterward, enjoy another Jeep safari in the afternoon to further explore the park’s wildlife.</li><li>The evening is free for relaxation.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The day starts early with an exciting Jeep safari through the national park, giving you the perfect opportunity to witness the breathtaking beauty of the landscape as the sun rises and the wildlife begins to stir. Keep your eyes open for majestic creatures like tigers, elephants, deer, and a variety of bird species as you venture deep into the wilderness. After a break and some time to unwind, you will head back into the park for another Jeep safari in the afternoon, offering a fresh chance to explore different areas and spot more of the region’s diverse flora and fauna. The evening is yours to relax—perhaps enjoy a peaceful walk around the hotel grounds, indulge in a delicious local dinner, or simply reflect on the day's adventures. You will stay overnight at the hotel, resting up for the journey ahead.</li></div><div class='img-flex-center'><img src='/images/29/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -5622,7 +5622,7 @@
                         "S": "Ranthambore to Bharatpur to Agra"
                     },
                     "description": {
-                        "S": "<li>After breakfast, transfer to the Sawai Madhopur railway station to board the train to Bharatpur.</li><li>Upon arrival, you will be met by a naturalist for a bird-watching tour at Keoladeo Ghana National Park (Bharatpur Bird Sanctuary), known for its diverse birdlife, including the rare Siberian cranes.</li><li>After the birding tour, proceed to Agra, stopping en route to visit Fatehpur Sikri, the deserted capital city of Emperor Akbar.</li><li>Upon arrival in Agra, check in at the hotel.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, you will transfer to the Sawai Madhopur railway station to board the train to Bharatpur. Upon arrival, you will be met by a naturalist for a bird-watching tour at Keoladeo Ghana National Park (Bharatpur Bird Sanctuary), known for its diverse birdlife, including the rare Siberian cranes.  After the birding tour, you’ll proceed to Agra, stopping en route to visit Fatehpur Sikri, the deserted capital city of Emperor Akbar.  Upon arrival in Agra, you will check in at the hotel for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/29/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -5638,7 +5638,7 @@
                         "S": "Agra to Umaria"
                     },
                     "description": {
-                        "S": "<li>Begin your day with a visit to the iconic Taj Mahal, built by Emperor Shah Jahan as a tribute to his beloved wife Mumtaz Mahal.</li><li>Also explore Agra Fort, which offers one of the most magnificent views of the Taj Mahal from its octagonal tower.</li><li>Visit other sites like Itmad-ud-Daulah, often referred to as the 'Baby Taj.'.</li><li>In the late afternoon, check out from the hotel and transfer to the railway station to board the train for Umaria (from Kalinga Utkal Express - departure at 16:15 hrs).</li><li>Overnight on board the train.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The day begins with a visit to the iconic Taj Mahal, built by Emperor Shah Jahan.  You'll also explore Agra Fort, which offers magnificent views of the Taj Mahal.  Other sites include Itmad-ud-Daulah, often referred to as the 'Baby Taj.'  In the late afternoon, you'll check out from the hotel and transfer to the railway station to board the train for Umaria (Kalinga Utkal Express, departure at 16:15 hrs).  You will spend the night on board the train.</li></div><div class='img-flex-center'><img src='/images/29/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -5654,7 +5654,7 @@
                         "S": "Arrive in Umaria and transfer to Bandhavgarh (Drive: 45 km / 1 hr)"
                     },
                     "description": {
-                        "S": "<li>Arrive in Umaria in the early morning and drive to Bandhavgarh.</li><li>Upon arrival, check in at the hotel.</li><li>Bandhavgarh National Park, located in Madhya Pradesh, is known for its tiger population and beautiful landscapes.</li><li>The park spans over 448 square kilometers and offers excellent opportunities for wildlife sightings.</li><li>In the afternoon, enjoy a Jeep safari in the park. The evening is free for leisure.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You'll arrive in Umaria in the early morning and drive to Bandhavgarh.  Upon arrival, you will check in at the hotel. Bandhavgarh National Park, located in Madhya Pradesh, is known for its tiger population and beautiful landscapes.  The park spans over 448 square kilometers and offers excellent opportunities for wildlife sightings.  In the afternoon, you'll enjoy a Jeep safari in the park, and the evening is free for leisure.  You will stay overnight at the hotel.  </li></div><div class='img-flex-center'><img src='/images/29/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -5670,7 +5670,7 @@
                         "S": "Bandhavgarh"
                     },
                     "description": {
-                        "S": "<li>Start your day early with a Jeep safari at Bandhavgarh National Park.</li><li>In the afternoon, embark on another Jeep safari to explore more of the park’s rich wildlife.</li><li>The evening is free for relaxation.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The day starts early with an exhilarating Jeep safari at Bandhavgarh National Park, giving you a chance to witness the jungle come alive in the soft morning light. As you drive through the park’s dense forests and open meadows, keep an eye out for Bengal tigers, leopards, and a variety of bird species that call this region home. After a refreshing break and some leisure time at the hotel, you’ll head out again in the afternoon for another thrilling Jeep safari, offering new opportunities to spot wildlife and experience the park’s diverse landscapes. As the sun sets, the evening is yours to unwind—whether you choose to relax at the hotel, reflect on the day’s adventures, or simply enjoy the natural surroundings. You’ll spend the night in comfortable accommodations, ready for more exploration the next day.</li></div><div class='img-flex-center'><img src='/images/29/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -5686,7 +5686,7 @@
                         "S": "Bandhavgarh to Kanha (Drive: 240 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Check out from the hotel and drive to Kanha National Park, one of the world’s most well-known tiger reserves.</li><li>Located in Madhya Pradesh, the park covers an area of 1,945 square kilometers and is home to diverse wildlife.</li><li>Upon arrival, check in at the hotel.</li><li>In the afternoon, head out for a Jeep safari in the park. The evening is free for leisure.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You will check out from the hotel and drive to Kanha National Park, one of the world’s most well-known tiger reserves. Located in Madhya Pradesh, the park covers an area of 1,945 square kilometers and is home to diverse wildlife. Upon arrival, you will check in at the hotel.  In the afternoon, you'll head out for a Jeep safari in the park.  The evening is free for leisure, and you will stay overnight at the hotel.</li></div><div class='img-flex-center'><img src='/images/29/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -5702,7 +5702,7 @@
                         "S": "Kanha"
                     },
                     "description": {
-                        "S": "<li>Early morning Jeep safari in Kanha National Park.</li><li>Later in the afternoon, enjoy another Jeep safari to explore more of the park’s wildlife.</li><li>The evening is free to relax.</li><li>Overnight at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You'll have an early morning Jeep safari in Kanha National Park, where you’ll venture deep into the heart of the jungle just as the forest begins to wake up. This is the best time to spot a variety of wildlife in their natural habitat, including the majestic Royal Bengal tiger, deer, leopards, and a wide array of birds. After a break and some time to unwind, you'll head out again later in the afternoon for another thrilling Jeep safari to explore more of the park’s diverse ecosystem and catch glimpses of animals that may have remained hidden earlier. As the sun sets and the forest winds down for the night, you'll return to your hotel. The evening is free for you to relax, enjoy the serene surroundings, or reflect on the day's adventures. You will stay overnight at the hotel, recharging for another exciting day ahead.</li></div><div class='img-flex-center'><img src='/images/29/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -5718,7 +5718,7 @@
                         "S": "Kanha to Jabalpur (Drive: 160 km / 4 hrs) to New Delhi"
                     },
                     "description": {
-                        "S": "<li>Check out from the hotel in the morning and drive to Jabalpur railway station to board the train to Delhi (Mahakaushal Express, departure at 16:10 hrs).</li><li>Overnight aboard the train.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You will check out from the hotel in the morning after breakfast, ensuring you have ample time to gather your belongings and complete any remaining formalities. Following your departure, you will embark on a scenic drive to the Jabalpur railway station, allowing you to soak in the last glimpses of the region’s charm. Upon arrival at the station, you will prepare to board the Mahakaushal Express, which is scheduled to depart for Delhi at 16:10 hrs. Make sure to reach the platform well in advance to ensure a smooth boarding experience. Once aboard, you will settle into your reserved berth and begin your overnight journey toward the capital city. You will spend the night comfortably on the train, experiencing a restful travel experience as you continue your adventure.</li></div><div class='img-flex-center'><img src='/images/29/13.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -5734,7 +5734,7 @@
                         "S": "Arrive in Delhi and depart for your onward destination"
                     },
                     "description": {
-                        "S": "<li>Arrive in Delhi and transfer to the hotel.</li><li>Spend the day at leisure, and later check out from the hotel.</li><li>You will be transferred to the international airport for your onward flight.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>You'll arrive in Delhi, where a representative will warmly welcome you and assist with your transfer to the hotel. After checking in, you’ll have the rest of the day at your leisure to relax, explore the vibrant city at your own pace, or enjoy some last-minute shopping or sightseeing. Later in the evening, you will check out from the hotel and be driven comfortably to the international airport. There, you'll complete departure formalities and board your onward flight, carrying unforgettable memories of your journey.</li></div><div class='img-flex-center'><img src='/images/29/14.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
