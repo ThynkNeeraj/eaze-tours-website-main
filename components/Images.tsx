@@ -161,6 +161,11 @@ import package_15_7 from '../public/images/15/7.jpg'
 import package_16_1 from '../public/images/16/1.jpg'
 import package_16_2 from '../public/images/16/2.jpg'
 import package_16_3 from '../public/images/16/3.jpg'
+import package_16_4 from '../public/images/16/4.jpg'
+import package_16_5 from '../public/images/16/5.jpg'
+import package_16_6 from '../public/images/16/6.jpg'
+import package_16_7 from '../public/images/16/7.jpg'
+import package_16_8 from '../public/images/16/8.jpg'
 import package_17_1 from '../public/images/17/1.jpg'
 import package_17_2 from '../public/images/17/2.jpg'
 import package_17_3 from '../public/images/17/3.jpg'
@@ -326,7 +331,7 @@ const package_images: { [key: string]: { main: StaticImageData, list: Array<Stat
     "13": { main: package_13_7, list: [package_13_1, package_13_2, package_13_3, package_13_4, package_13_5, package_13_6, package_13_7, package_13_8, package_13_9, package_13_10, package_13_11] },
     "14": { main: package_14_3, list: [package_14_1, package_14_2, package_14_3, package_14_4, package_14_5, package_14_6, package_14_7] },
     "15": { main: package_15_3, list: [package_15_1, package_15_2, package_15_3, package_15_4, package_15_5, package_15_6, package_15_7] },
-    "16": { main: package_16_2, list: [package_16_1, package_16_2, package_16_3] },
+    "16": { main: package_16_2, list: [package_16_1, package_16_2, package_16_3, package_16_4, package_16_5, package_16_6, package_16_7, package_16_8] },
     "17": { main: package_17_10, list: [package_17_1, package_17_2, package_17_3, package_17_4, package_17_5, package_17_6, package_17_7, package_17_8, package_17_9, package_17_10] },
     "18": { main: package_18_8, list: [package_18_1, package_18_2, package_18_3, package_18_4, package_18_5, package_18_6, package_18_7, package_18_8, package_18_9, package_18_10, package_18_11, package_18_12, package_18_13] },
     "19": { main: package_19_2, list: [package_19_1, package_19_2, package_19_3, package_19_4, package_19_5, package_19_6, package_19_7, package_19_8] },
