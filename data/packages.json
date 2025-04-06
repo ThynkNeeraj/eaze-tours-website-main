@@ -2986,7 +2986,7 @@
                         "S": "Sunday, Departure at 16:30 PM Delhi"
                     },
                     "description": {
-                        "S": "<li>Embark on a luxurious journey aboard the Royal Rajasthan on Wheels for a seven-day exploration through the vibrant state of Rajasthan.</li><li>The adventure begins in New Delhi, where your royal journey commences, taking you through the magnificent former princely states of India.</li><li>Upon your arrival at Safdarjung Station, you will be welcomed with a traditional greeting, including a ceremonial aarti, tika, garlanding, and refreshing mocktails.</li><li>After check-in, you will be escorted to your private cabin. Experience the true essence of royal life aboard a moving palace, where luxury and tradition are seamlessly combined.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Embark on a luxurious journey aboard the Royal Rajasthan on Wheels for a seven-day exploration through the vibrant state of Rajasthan. The adventure begins in New Delhi, where your royal journey commences, taking you through the magnificent former princely states of India. Upon your arrival at Safdarjung Station, you will be welcomed with a traditional greeting, including a ceremonial aarti, tika, garlanding, and refreshing mocktails. After check-in, you will be escorted to your private cabin. Experience the true essence of royal life aboard a moving palace, where luxury and tradition are seamlessly combined.</li></div><div class='img-flex-center'><img src='/images/17/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Delhi \u2013 Safdarjung Station"
@@ -3005,7 +3005,7 @@
                         "S": "Monday, Arrival at 09:15 AM, Breakfast onboard | Departure at 17:10 PM Jodhpur"
                     },
                     "description": {
-                        "S": "<li>The second-largest city in Rajasthan, Jodhpur, is renowned for its magnificent Mehrangarh Fort, which stands as a symbol of Rajput glory.</li><li>Another highlight is Jaswant Thada, a marble cenotaph built in 1899. Enjoy lunch at a hotel, and in the evening, return to the train for dinner onboard.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The second-largest city in Rajasthan, Jodhpur, is renowned for its magnificent Mehrangarh Fort, which stands as a symbol of Rajput glory. Another highlight is Jaswant Thada, a marble cenotaph built in 1899. Enjoy lunch at a hotel, and in the evening, return to the train for dinner onboard.</li></div><div class='img-flex-center'><img src='/images/17/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Jodhpur"
@@ -3024,7 +3024,7 @@
                         "S": "Tuesday, Arrival at 08:00 AM, Breakfast onboard | Departure at 14:30 PM Udaipur"
                     },
                     "description": {
-                        "S": "<li>Known as the 'Venice of the East,' Udaipur is a mesmerizing city filled with royal palaces, gardens, and temples. It embodies the dreams of Rajputana grandeur. Explore the City Palace, which is a testament to the city’s regal past.</li><li>After lunch at a hotel, enjoy a visit to the Crystal Gallery, home to exquisite collections of crystal artifacts.</li><h2 class='text-2xl font-bold font-[urbanist] text-black text-left my-4'>Day 03, Tuesday, Arrival at 16:45 PM | Departure at 22:00 PM Chittorgarh</h2><li>Chittorgarh Fort is steeped in history, telling the tale of valor, sacrifice, and bravery. The Vijay Stambh (Victory Tower) and the Gaumukh Reservoir, along with the Palace of Queen Padmini, are among the key attractions here.</li> <li>In the evening, enjoy the captivating light and sound show at the fort. Afterward, head to a hotel for a cultural performance, followed by dinner.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The day begins in Udaipur, the 'Venice of the East,' where you’ll explore the breathtaking City Palace and the exquisite Crystal Gallery. After lunch, the journey continues to Chittorgarh, home to the legendary Chittorgarh Fort. Witness the tales of bravery at the Vijay Stambh and Gaumukh Reservoir, and cap off the evening with a captivating light and sound show followed by a cultural performance and dinner.</li></div><div class='img-flex-center'><img src='/images/17/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Udaipur"
@@ -3043,7 +3043,7 @@
                         "S": "Tuesday, Arrival at 16:45 PM | Departure at 22:00 PM Chittorgarh"
                     },
                     "description": {
-                        "S": "<li>Chittorgarh Fort is steeped in history, telling the tale of valor, sacrifice, and bravery. The Vijay Stambh (Victory Tower) and the Gaumukh Reservoir, along with the Palace of Queen Padmini, are among the key attractions here.</li><li>In the evening, enjoy the captivating light and sound show at the fort. Afterward, head to a hotel for a cultural performance, followed by dinner.</li><h2 class='text-2xl font-bold font-[urbanist] text-black text-left my-4'>Day 04, Wednesday, Arrival at 13:15 PM | Departure at 22:15 PM Jaipur</h2> <li>In Jaipur, the capital of Rajasthan, you’ll be welcomed by caparisoned elephants and the sounds of the Shehnai.</li> <li>Visit the Hawa Mahal (Palace of Winds) and experience an elephant ride at Amber Fort.</li> <li>After shopping for centuries-old artifacts, enjoy a visit to the City Palace, the residence of the former Maharaja, which houses a museum filled with fascinating historical artifacts.</li> <li>Lunch at a hotel and dinner at a hotel with a cultural program follow.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Start your day with a thrilling safari at Ranthambore National Park, where you might spot the majestic Bengal tiger. Visit the Amareshwar Mohadeo Temple before heading to Jaipur, the 'Pink City.' Here, you’ll be greeted by caparisoned elephants and the melodious sounds of the Shehnai. Explore the Hawa Mahal, enjoy an elephant ride at Amber Fort, and delve into history at the City Palace. The day concludes with a cultural program and dinner.</li></div><div class='img-flex-center'><img src='/images/17/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Chittorgarh"
@@ -3062,7 +3062,7 @@
                         "S": "Thursday, Arrival at 11:00 AM, Breakfast onboard | Departure at 18:30 PM Khajuraho"
                     },
                     "description": {
-                        "S": "<li>The Khajuraho Temples, built between the 9th and 12th centuries, are famous for their intricate sculptures depicting passion, eroticism, dance, music, and other aspects of Indian culture.</li> <li>Located in Madhya Pradesh, these temples are masterpieces of architecture and artistry, with only 20 of them surviving the test of time.</li> <li>Visit the temples and museum, and enjoy lunch at a hotel and dinner onboard.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The Khajuraho Temples, built between the 9th and 12th centuries, are famous for their intricate sculptures depicting passion, eroticism, dance, music, and other aspects of Indian culture. Located in Madhya Pradesh, these temples are masterpieces of architecture and artistry, with only 20 of them surviving the test of time. Visit the temples and museum, and enjoy lunch at a hotel and dinner onboard.</li></div><div class='img-flex-center'><img src='/images/17/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Sawai Madhopur"
@@ -3081,7 +3081,7 @@
                         "S": "Friday, Arrival at 06:00 AM | Departure at 18:00 PM Varanasi"
                     },
                     "description": {
-                        "S": "<li>The spiritual capital of India, Varanasi, is over 3,000 years old and is famous for its temples and sacred ghats along the Ganges River.</li> <li>Visit the Jyotirlinga Visvanatha Temple (Golden Temple) and the Jnana Vapi well.</li> <li>Experience the vibrant Maha Aarti ceremony at the ghats and visit the Buddhist temples at Sarnath.</li> <li>After a hotel lunch, return for dinner onboard.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The spiritual capital of India, Varanasi, is over 3,000 years old and is famous for its temples and sacred ghats along the Ganges River. Visit the Jyotirlinga Visvanatha Temple (Golden Temple) and the Jnana Vapi well. Experience the vibrant Maha Aarti ceremony at the ghats and visit the Buddhist temples at Sarnath. After a hotel lunch, return for dinner onboard.</li></div><div class='img-flex-center'><img src='/images/17/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Jaipur"
@@ -3100,7 +3100,7 @@
                         "S": "Saturday, Arrival at 05:00 AM, Breakfast onboard | Departure at 23:00 PM Agra"
                     },
                     "description": {
-                        "S": "<li>Famous for the iconic Taj Mahal and the historic Agra Fort, Agra is a must-visit destination for any traveler. The city is also known for its rich culture and craftsmanship, including marble inlay work, leather goods, footwear, and brassware.</li> <li>After a visit to the Taj Mahal and other attractions, enjoy lunch at a hotel and dinner onboard.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Famous for the iconic Taj Mahal and the historic Agra Fort, Agra is a must-visit destination for any traveler. The city is also known for its rich culture and craftsmanship, including marble inlay work, leather goods, footwear, and brassware. After a visit to the Taj Mahal and other attractions, enjoy lunch at a hotel and dinner onboard.</li></div><div class='img-flex-center'><img src='/images/17/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Khajuraho"
@@ -3119,7 +3119,7 @@
                         "S": "Sunday, Arrival at 07:00 AM, Breakfast onboard, Check-out at 07:45 AM Delhi"
                     },
                     "description": {
-                        "S": "<li>The Royal Rajasthan on Wheels journey concludes as you arrive back in Delhi, marking the end of this magnificent week-long exploration.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Your unforgettable royal adventure draws to a close as you return to the vibrant city of Delhi. After enjoying a final breakfast onboard, complete the check-out process and bid a heartfelt farewell to the magical journey through Rajasthan’s timeless landscapes, majestic palaces, and rich regal heritage.</li></div><div class='img-flex-center'><img src='/images/17/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "location": {
                         "S": "Varanasi (Banaras)"
@@ -3161,7 +3161,7 @@
                         "S": "Wednesday – New Delhi"
                     },
                     "description": {
-                        "S": "<li>The journey begins at Delhi Safdarjung Railway Station, where guests are warmly welcomed with traditional ceremonies before embarking on the Palace-on-Wheels for a week-long luxurious tour through the enchanting state of Rajasthan.</li><li>Reporting Time: 18:00 hrs, Departure: 18:30 hrs.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The journey begins at Delhi Safdarjung Railway Station, where guests receive a traditional Indian welcome before boarding the luxurious Palace on Wheels for an unforgettable week-long tour through Rajasthan. The grand experience starts with a reporting time of 18:00 hrs, followed by the train’s departure at 18:30 hrs, setting the stage for a regal adventure through India’s royal heritage.</li></div><div class='img-flex-center'><img src='/images/18/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -3177,7 +3177,7 @@
                         "S": "Thursday – Jaipur"
                     },
                     "description": {
-                        "S": "<li>The first destination is Jaipur, one of the most well-planned cities of its time and the capital of Rajasthan. Known as the Pink City, it was founded by Maharaja Sawai Jai Singh II in 1727 A.D.</li><li>A guided tour takes you to Hawa Mahal (Palace of Winds), a remarkable five-story building with semi-octagonal, honeycombed windows that adorn the main street in pink splendor.</li><li>Next, visit Amber Fort, where you can enjoy an elephant ride to ascend the hill.</li><li>After lunch at a five-star hotel, continue your exploration with a visit to the City Palace Museum and Jantar Mantar (Observatory).</li><li>Arrival: 03:45 hrs and Departure: 20:00 hrs.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>The journey’s first stop is Jaipur, the Pink City and capital of Rajasthan, founded by Maharaja Sawai Jai Singh II in 1727 A.D.. Guests arrive at 3:45 hrs and embark on a guided tour, beginning with the iconic Hawa Mahal (Palace of Winds), known for its intricate honeycombed windows. The tour continues to the Amber Fort, where a majestic elephant ride takes visitors up the hill to explore its grand architecture. After a lavish lunch at a five-star hotel, guests visit the City Palace Museum and the Jantar Mantar Observatory, an astronomical marvel. The train departs for its next destination at 20:00 hrs, concluding a day filled with royal splendor.</li></div><div class='img-flex-center'><img src='/images/18/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -3193,7 +3193,7 @@
                         "S": "Friday – Sawai Madhopur"
                     },
                     "description": {
-                        "S": "<li>Arriving in Sawai Madhopur, named after Maharaja Sawai Madho Singh I, you will visit the Ranthambore National Park after breakfast. Known for its 10th-century fort ruins, this sanctuary is famous for offering one of the best opportunities in India to photograph and observe tigers in their natural habitat.</li><li>The park spans over 392 sq. km and is home to over 300 species of birds and a variety of carnivorous animals, including tigers, hyenas, and jackals.</li><li>Sawai Madhopur is also known for its exclusive toys, ethnic ornaments, and costumes.</li><li>Afterward, travel to Chittorgarh, enjoying the beautiful countryside views.</li><li>Arrival: 05:30 hrs and Departure: 10:20 hrs.</li><li>Arrival in Chittorgarh: 16:00 hrs and Departure: 02:00 hrs (next day, Saturday).</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Arriving in Sawai Madhopur at 05:30 hrs, guests embark on an early morning safari at Ranthambore National Park, renowned for its 10th-century fort ruins and as one of the best places in India to spot tigers in the wild. The park, spanning 392 sq. km, is home to diverse wildlife, including hyenas, jackals, and over 300 bird species. After exploring the region’s local handicrafts, ethnic ornaments, and traditional costumes, the journey continues to Chittorgarh, with an arrival at 16:00 hrs. The afternoon is dedicated to exploring the legendary Chittorgarh Fort, a symbol of Rajput valor and sacrifice. As night falls, guests enjoy a mesmerizing view of the illuminated fort and cultural performances, before the train departs at 02:00 hrs (next day, Saturday) for the next royal destination.</li></div><div class='img-flex-center'><img src='/images/18/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -3209,7 +3209,7 @@
                         "S": "Saturday – Udaipur"
                     },
                     "description": {
-                        "S": "<li>Next, the Palace-on-Wheels arrives in Udaipur, also known as the Lake City. Founded in 1559 A.D. by Maharana Udai Singh of the Mewar dynasty, the city is renowned for its beautiful marble palaces that rise majestically from Lake Pichola.</li><li>Two of the most stunning sites in Udaipur are the Jag Niwas (Lake Palace) and Jag Mandir, which look like dreamlike castles floating on the water.</li><li>After lunch at a five-star hotel, enjoy a visit to the City Palace, a grand complex with intricate architecture.</li><li>Arrival: 08:00 hrs and Departure: 15:30 hrs.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Arriving in Udaipur at 08:00 hrs, the Palace on Wheels brings guests to the enchanting Lake City, founded in 1559 A.D. by Maharana Udai Singh of the Mewar dynasty. Udaipur’s charm lies in its majestic marble palaces, especially the Jag Niwas (Lake Palace) and Jag Mandir, which appear as floating castles on Lake Pichola. After a luxurious lunch at a five-star hotel, guests explore the City Palace, an architectural masterpiece that showcases the grandeur of Rajasthan’s royal heritage. The train departs at 15:30 hrs, leaving behind the mesmerizing beauty of Udaipur as the journey continues.</li></div><div class='img-flex-center'><img src='/images/18/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -3225,7 +3225,7 @@
                         "S": "Sunday – Jaisalmer"
                     },
                     "description": {
-                        "S": "<li>Located in the heart of the Thar Desert, Jaisalmer was founded by Rawal Jaisal in 1156 A.D. The impressive Yellow Sandstone Fort dominates the city, offering breathtaking views.</li><li>Explore the finely carved havelis, such as Nathmalji-ki-Haveli, Patwon-ki-Haveli, and Salim Singh-ki-Haveli, which showcase the exquisite skills of stone carvers.</li><li>You can shop for locally crafted goods such as pattu shawls, mirror work, embroidered articles, wooden trinkets, silver jewelry, and unique curios.</li><li>After lunch on board, take an exciting camel ride on the sand dunes of Sam and enjoy a refreshing cup of tea.</li><li>In the evening, enjoy dinner and a cultural performance at a five-star hotel.</li><li>Arrival: 09:15 hrs and Departure: 23:30 hrs.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Arriving in Jaisalmer at 09:15 hrs, guests step into the heart of the Thar Desert, where the majestic Yellow Sandstone Fort, founded by Rawal Jaisal in 1156 A.D., dominates the skyline. The journey continues with visits to the intricately carved havelis, including Nathmalji-ki-Haveli, Patwon-ki-Haveli, and Salim Singh-ki-Haveli, each a masterpiece of Rajasthani craftsmanship. Guests can explore vibrant local markets, offering pattu shawls, mirror work, embroidered textiles, wooden trinkets, and silver jewelry. After lunch onboard, an exhilarating camel ride on the golden dunes of Sam awaits, accompanied by refreshing tea amidst the desert landscape. As night falls, a grand cultural performance and dinner at a five-star hotel bring the magical Jaisalmer experience to a close before the train departs at 23:30 hrs.</li></div><div class='img-flex-center'><img src='/images/18/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -3241,7 +3241,7 @@
                         "S": "Monday – Jodhpur"
                     },
                     "description": {
-                        "S": "<li>Arriving in Jodhpur, a city surrounded by a high stone wall with seven gates, you’ll explore Mehrangarh Fort, founded in 1459 A.D. by Rao Jodha. This massive fort is home to impressive palaces, including Moti Mahal, Sheesh Mahal, Phool Mahal, and Sileh Khana.</li><li>Visit Jaswant Thada, a white marble cenotaph near the fort. After lunch at a palace hotel, return to the Palace-on-Wheels and shop for exquisite handicrafts such as embroidered shoes, metal curios, silverware, paintings, and tie-dye fabrics.</li><li>Arrival: 07:00 hrs and Departure: 16:30 hrs.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Arriving in Jodhpur at 07:00 hrs, guests are welcomed to the Blue City, surrounded by a high stone wall with seven gates. The journey begins with a visit to the Mehrangarh Fort, an architectural marvel founded in 1459 A.D. by Rao Jodha, housing grand palaces like Moti Mahal, Sheesh Mahal, Phool Mahal, and Sileh Khana. Nearby, the elegant Jaswant Thada, a white marble cenotaph, offers a serene retreat. After a royal lunch at a palace hotel, guests can explore the city's vibrant markets, renowned for embroidered shoes, metal curios, silverware, paintings, and tie-dye fabrics. As the day concludes, the Palace on Wheels departs at 16:30 hrs, leaving behind the grandeur of Jodhpur.</li></div><div class='img-flex-center'><img src='/images/18/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -3257,7 +3257,7 @@
                         "S": "Tuesday – Bharatpur / Agra"
                     },
                     "description": {
-                        "S": "<li>In the morning, visit Bharatpur, the capital of Maharaja Suraj Mal, and explore the world-famous Keoladeo Ghana National Park, a UNESCO World Heritage Site known for its diverse birdlife, including migratory Siberian Cranes, Egrets, and other species.</li><li>Arrival: 05:00 hrs and Departure: 08:45 hrs.</li><li>Arriving in Agra, visit the majestic Agra Fort and, after lunch, proceed to the iconic Taj Mahal, one of the Seven Wonders of the World. This pristine monument of eternal love was built by Emperor Shah Jahan in memory of his wife, Mumtaz Mahal.</li><li>Agra is also renowned for its marble inlay work, leather goods, and jewelry.</li><li>Arrival: 10:00 hrs and Departure: 19:30 hrs.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On Day 07, the journey begins with an early morning arrival in Bharatpur at 05:00 hrs, where guests explore the Keoladeo Ghana National Park, a UNESCO World Heritage Site famous for its rich birdlife, including Siberian Cranes, Egrets, and numerous migratory species. After departing at 08:45 hrs, the train reaches Agra at 10:00 hrs, where guests visit the Agra Fort, a stunning Mughal-era fortress. Following a royal lunch, the highlight of the day awaits—an awe-inspiring visit to the Taj Mahal, the timeless symbol of love, built by Emperor Shah Jahan for Mumtaz Mahal. Guests can also explore Agra’s exquisite marble inlay work, leather goods, and jewelry before departing at 19:30 hrs, marking the grand conclusion of an unforgettable journey.</li></div><div class='img-flex-center'><img src='/images/18/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -3273,7 +3273,7 @@
                         "S": "Wednesday – New Delhi"
                     },
                     "description": {
-                        "S": "<li>The Palace-on-Wheels returns to Delhi Safdarjung Railway Station, where your unforgettable journey concludes.</li><li>Enjoy a final breakfast onboard and reminisce about the beautiful experiences of the past week.</li><li>Arrival: 07:30 hrs.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On Day 08, the Palace-on-Wheels returns to Delhi Safdarjung Railway Station at 07:30 hrs, marking the conclusion of an unforgettable journey through Rajasthan’s rich heritage. Guests enjoy a final breakfast onboard, reflecting on the breathtaking experiences, royal hospitality, and cultural treasures explored over the past week before bidding farewell to this luxurious expedition.</li></div><div class='img-flex-center'><img src='/images/18/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -3463,7 +3463,7 @@
                         "S": "Delhi-Rishikesh (230 kilometers/ 06-07 hours)"
                     },
                     "description": {
-                        "S": "<li>Upon your arrival in Delhi, our tour representative will meet you and assist you in smooth transfer to Rishikesh via road.</li><li>Upon arrival in Rishikesh, check in at the hotel. The evening is free to relax and briefing.</li><li>Dinner and overnight stay at the hotel.</li><br><strong>Rishikesh:</strong><br>The birthplace of Yoga, Rishikesh is located 24 kilometers away from HarIdwar. It is a place where pilgrims come to meditate, do yoga and learn about other aspects of Hinduism. There are many ancient and newly built temples along the river Ganges. The whole town is consIdered to be sacred and it is saId that meditation here leads to salvation."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Delhi, our tour representative will assist you with a smooth transfer to Rishikesh by road. Enjoy the scenic journey as you approach this spiritual town. Upon arrival, check in at the hotel and relax. The evening is free for leisure, allowing you to explore nearby areas or attend a briefing session about the trip. Enjoy a delicious dinner at the hotel and have a comfortable overnight stay, preparing for the exciting experiences awaiting you in Rishikesh. Rishikesh: The birthplace of Yoga, Rishikesh is located 24 kilometers away from HarIdwar. It is a place where pilgrims come to meditate, do yoga and learn about other aspects of Hinduism. There are many ancient and newly built temples along the river Ganges. The whole town is consIdered to be sacred and it is saId that meditation here leads to salvation.</li></div><div class='img-flex-center'><img src='/images/20/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -3479,7 +3479,7 @@
                         "S": "Rishikesh – Barkot (170 kms / 07-08 hrs)"
                     },
                     "description": {
-                        "S": "<li>After morning breakfast, embark on a local sightseeing tour of Rishikesh which includes Ram Jhula, Laxman Jhula, and Swarg Ashram.</li><li>Later, drive to Barkot via Mussoorie. On the way, visit Kempty Falls and reach Barkot by late evening.</li><li>Dinner and overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After a delicious morning breakfast, set out for a local sightseeing tour of Rishikesh, visiting iconic landmarks such as Ram Jhula, Laxman Jhula, and Swarg Ashram. These sacred sites offer breathtaking views of the Ganges River and a serene spiritual atmosphere. Later, embark on a scenic drive to Barkot via Mussoorie, stopping at the famous Kempty Falls to enjoy its refreshing waters. By late evening, arrive in Barkot, check in at the hotel, and unwind. Conclude the day with a hearty dinner and an overnight stay, preparing for the next day's spiritual journey.</li></div><div class='img-flex-center'><img src='/images/20/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -3495,7 +3495,7 @@
                         "S": "Barkot – Jankichatti – Yamunotri – Barkot (50 kms & 6 kms. Trek)"
                     },
                     "description": {
-                        "S": "<li>After morning breakfast, proceed to Yamunotri and later move up to Jankichatti.</li><li>Enjoy a 6 km trek to Yamunotri. Here, one can cook rice by packing it in a cloth and dipping it in the hot water of the Kund. Pilgrims take this cooked rice home as “Prasad”.</li><li>Nearby the temple, Pooja can be offered to Divya Shila after taking a bath in Jamunabai Kund and offering prayers to Yamunaji.</li><li>Later, return to Barkot. Dinner and overnight stay at the hotel.</li><br><strong>Yamunotri:</strong><br><li>The source of the river Yamuna and the seat of the river goddess, Yamunotri is situated at an altitude of 3,293 meters in the Garhwal Himalayas.</li><li>It originates from the Champasar Glacier, located 1 kilometer ahead of the shrine. Yamunotri was the home of an ancient sage, ‘Asit Muni’.</li><li>The goddess Yamuna is the daughter of the Sun, and Yama is the brother of the river goddess. It is believed that taking a dip in the holy waters of Yamuna provides blessings.</li><li><strong>Surya Kund:</strong> Surya Kund is a hot water spring containing sulfur, known for its healing properties.</li><li><strong>Divya Shila:</strong> Divya Shila is a rock pillar worshipped before entering the Yamunotri temple.</li><li>Travel to Gangotri, take a holy dip in the river, and visit the temple.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After a hearty breakfast, embark on a journey to Yamunotri, the sacred source of the Yamuna River. Drive to Jankichatti, the base point for the trek. From here, enjoy a scenic 6 km trek to Yamunotri, where pilgrims cook rice by dipping it in the hot water of Surya Kund, taking it home as Prasad. After a holy dip in Jamunabai Kund, perform Pooja at Divya Shila and seek blessings at Yamunotri Temple. Later, trek back to Jankichatti and drive to Barkot. Conclude the day with dinner and an overnight stay at the hotel. Yamunotri: Nestled in the Garhwal Himalayas at an altitude of 3,293 meters, Yamunotri is the sacred source of the Yamuna River and a revered pilgrimage site. The river originates from the Champasar Glacier, located 1 km ahead of the shrine. According to legend, the great sage Asit Muni once resided here. Yamuna, the daughter of the Sun God (Surya) and sister of Yama (God of Death), is worshipped for spiritual purification. The Surya Kund, a hot water spring, is known for its healing properties, while Divya Shila, a sacred rock, is worshipped before entering the temple.</li></div><div class='img-flex-center'><img src='/images/20/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -3511,7 +3511,7 @@
                         "S": "Barkot- Harsil (170 kilometers)"
                     },
                     "description": {
-                        "S": "<li>Post breakfast, leave by road for Uttarkashi. Later, drive to Harsil.</li><li>The evening is free for leisure and exploring local attractions.</li><li>Dinner and overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Post breakfast, leave by road for Uttarkashi. Later, drive to Harsil.</li><li>The evening is free for leisure and local attractions.</li><li>Dinner and overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/20/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -3527,7 +3527,7 @@
                         "S": "Harsil – Gangotri – Uttarkashi (20 Kms & 90 Kms)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, take a road trip to Gangotri. After praying at the temple, have Pooja & Darshan at Gangotri temple.</li><li>Later, return back to Uttarkashi. Dinner and overnight stay at Uttarkashi.</li><br><strong>Gangotri:</strong><br>Located in the 18th century, Gangotri is dedicated to Hindu goddess ‘Ganga’. It is located near a sacred stone where Bhagirath worshipped Lord Shiva and asked to hold Ganga in his matted locks. The temple is a beautiful 20 feet high structure made up of white granite. This is the perfect place to reconnect with you. The Gangotri temple dedicated to the goddess remains open from May to November."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, take a road trip to Gangotri. After praying at the temple, have Pooja & Darshan at Gangotri temple.</li><li>Later, return back to Uttarkashi. Dinner and overnight stay at Uttarkashi. </li><li>Gangotri: Located in the 18th century, Gangotri is dedicated to Hindu goddess ‘Ganga’. It is located near a sacred stone where Bhagirath worshipped Lord Shiva and asked to hold Ganga in his matted locks. The temple is a beautiful 20 feet high structure made up of white granite. This is the perfect place to reconnect with you. The Gangotri temple dedicated to the goddess remains open from May to November.</li></div><div class='img-flex-center'><img src='/images/20/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -3543,7 +3543,7 @@
                         "S": "Uttarkashi – Guptkashi (235 Kms. Drive 08 – 09 Hrs)"
                     },
                     "description": {
-                        "S": "<li>Post breakfast, leave by road for Guptkashi. En route, see the heritage city of Tehri submerged into the mighty waters of the holy river Ganges.</li><li>Later in the evening, you’ll have to reach Guptkashi.</li><li>Dinner and stay overnight at the hotel.</li><br><strong>Guptkashi:</strong><br>Located in the northern Himalayan belt within the Mandakini river valley, which houses lush green forests, Guptkashi is famous for the Vishwanath temple- dedicated to Lord Shiva."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic road journey to Guptkashi, a sacred town nestled in the Garhwal Himalayas. En route, witness the heritage city of Tehri, which now lies submerged under the vast waters of the holy Ganges due to the construction of the Tehri Dam. The journey offers breathtaking views of lush valleys, towering peaks, and serene rivers. By evening, arrive in Guptkashi, known for its ancient Vishwanath Temple and spiritual significance. Check in at the hotel, enjoy a hearty dinner, and relax for an overnight stay. Guptkashi: Located in the northern Himalayan belt within the Mandakini river valley, which houses lush green forests, Guptkashi is famous for the Vishwanath temple- dedicated to Lord Shiva.</li></div><div class='img-flex-center'><img src='/images/20/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -3559,7 +3559,7 @@
                         "S": "Guptkashi – Kedarnath – Rudraprayag(35 Kms /2 Hrs.)"
                     },
                     "description": {
-                        "S": "<li>Post breakfast, take a road trip up to Helipad as per the reporting time.</li><li>Complete the boarding formalities and wait here for your time slot.</li><li>Upon arrival at Kedarnath, perform early Pooja & Darshan at the temple. Later, return back to Helipad and take a return flight to Guptkashi, before you drive back to Rudraprayag.</li><li>Dinner and overnight stay at the hotel.</li><br><strong>Kedarnath Temple:</strong><br>Built in the 8th century A.D. by Adi Guru Shankaracharya, the Kedarnath Temple is located adjacent to the site of an ancient temple built by Pandavas. As the name suggests, the temple is dedicated to the shrine of Kedar. Kedarnath is one of the four holy places that cover the famous Char Dham Yatra. It is believed to be one of the 12 Jyotirlingas of Lord Shiva. The temple is believed to be over 1000 years old."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, proceed to the helipad as per the designated reporting time. Complete the boarding formalities and wait for your turn. Upon arrival in Kedarnath, one of the holiest Hindu pilgrimage sites, offer prayers and perform Pooja & Darshan at the sacred Kedarnath Temple, dedicated to Lord Shiva. After seeking blessings, return to the helipad and take a flight back to Guptkashi, from where you’ll drive towards Rudraprayag. Upon arrival, check in at the hotel, relax, and enjoy a peaceful dinner. Overnight stay at the hotel in Rudraprayag. Kedarnath Temple: Built in the 8th century A.D. by Adi Guru Shankaracharya, the Kedarnath Temple is located adjacent to the site of an ancient temple built by Pandavas. As the name suggests, the temple is dedicated to the shrine of Kedar. Kedarnath is one of the four holy places that cover the famous Char Dham Yatra. It is believed to be one of the 12 Jyotirlingas of Lord Shiva. The temple is believed to be over 1000 years old.</li></div><div class='img-flex-center'><img src='/images/20/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -3575,7 +3575,7 @@
                         "S": "Rudraprayag – Badrinath (125 kms Drive/ 5 Hrs)"
                     },
                     "description": {
-                        "S": "<li>Post breakfast, take a road trip to Badrinath. On the way, visit Narsingh Temple and Adi Shankaracharya Samadhi at Joshimath.</li><li>Later, drive to Badrinath and do Pooja & Darshan at the temple.</li><li>Thereafter, visit the famous tourist sites in Badrinath such as Vyas Cave, Ganesh Cave, Bhim Bridge, and the origin of River Saraswati at Mana Village, the last village before entering the Tibetan border.</li><li>Later, visit the temple for holy Darshan/Pooja and attend evening Aarti.</li><li>Dinner and overnight stay at the hotel.</li><br><strong>Badrinath Temple:</strong><br>One of the holiest temples in Uttarakhand, Badrinath is nestled between the twin mountain ranges - Nar and Narayan. Badrinath Temple is also known as Badrinarayan temple because it is dedicated to Lord Vishnu’s form of Badrinarayan. The temple is supposed to have been built by the 8th century saint ‘Adi Shankracharya’, the great scholar and philosopher. The original temple was destroyed in a landslIde. The present temple is believed to have been built by the Garhwal kings in the 17th century.<br><strong>Narad Kund:</strong><br>Narad Kund is one of the most revered centers in Badrinath. It is a holy site from where Adi Sankara recovered the Idol of Lord Vishnu.<br><strong>Brahma Kapal:</strong><br>It is a flat platform located on the banks of the Alaknanda River, where Lord Brahma is believed to resIde. The devotees pay homage and rituals to the departed souls.<br><strong>Sheshnetra:</strong><br>Located on the opposite bank of the river, Sheshnetra is a place where the eye of the serpent lord ‘Shesha’ on which Vishnu rests, is seen on a rock.<br><strong>Mana Village:</strong><br>Mana Village is a quaint tiny hamlet located on the Indo-Tibetan border. The village is now declared as a tourism village of India.<br><strong>Bhim Pul:</strong><br>It is an attractive rock brIdge in the Chamoli district of Uttarakhand. Just 4 kms away from Mana Village, this natural brIdge lies over the roaring Saraswati River.<br><strong>Vyas Gufa (Cave):</strong><br>Located at a distance of 3 kilometers away from Badrinath temple, Vyas Gufa is a rock-cave where Ved Vyas is believed to have composed the Mahabharata and the Puranic commentaries."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After an early breakfast, embark on a scenic road journey to Badrinath, one of the most revered Char Dham pilgrimage sites. En route, visit Narsingh Temple and Adi Shankaracharya Samadhi at Joshimath, significant religious and historical sites. Upon reaching Badrinath, perform Pooja & Darshan at the Badrinath Temple, dedicated to Lord Vishnu. Explore nearby attractions like Vyas Cave, Ganesh Cave, Bhim Bridge, and the origin of River Saraswati at Mana Village, the last Indian village before the Tibetan border. In the evening, attend the divine Aarti at the temple. Dinner and overnight stay at the hotel. Badrinath Temple: Badrinath, one of the holiest temples in Uttarakhand, is nestled between the twin mountain ranges Nar and Narayan. Also known as Badrinarayan Temple, it is dedicated to Lord Vishnu in his Badrinarayan form. Originally built by Adi Shankaracharya in the 8th century, the temple was later reconstructed by the Garhwal kings in the 17th century after being destroyed by a landslide. Significant nearby sites include Narad Kund, where Adi Shankaracharya recovered Lord Vishnu’s idol, Brahma Kapal, a ritual site on the Alaknanda River, Sheshnetra, a rock marking Lord Vishnu’s serpent, and Mana Village, India’s last village. Other attractions include Bhim Pul, a natural bridge over the Saraswati River, and Vyas Gufa, where Ved Vyas composed the Mahabharata.</li></div><div class='img-flex-center'><img src='/images/20/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -3591,7 +3591,7 @@
                         "S": "Badrinath – Srinagar (190 kms / 07-08hrs)"
                     },
                     "description": {
-                        "S": "<li>In the morning, after Mahaabhishek, go for Pooja and Darshan.</li><li>Post breakfast, leave by road for Srinagar.</li><li>On the way, visit Vishnuprayag, Nandprayag, Karnprayag, and Rudraprayag.</li><li>Later, take a road trip to Srinagar.</li><li>Dinner and overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After attending the Maha Abhishek ceremony in the morning, proceed for Pooja and Darshan at the Badrinath Temple. Post breakfast, embark on a scenic road trip to Srinagar, Uttarakhand. Along the way, visit the four sacred confluences of the Panch Prayag—Vishnuprayag, Nandprayag, Karnprayag, and Rudraprayag—where important rivers merge with the Alaknanda River. Enjoy the breathtaking landscapes of the Garhwal Himalayas during the journey. By evening, arrive in Srinagar, check in at the hotel, and relax. Dinner and an overnight stay at the hotel in Srinagar.</li></div><div class='img-flex-center'><img src='/images/20/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -3607,7 +3607,7 @@
                         "S": "Srinagar – Haridwar (125 kms / 05 -06hrs)"
                     },
                     "description": {
-                        "S": "<li>Post breakfast, leave by road for Haridwar.</li><li>On the way, visit Devprayag, the confluence of Alaknanda and Bhagirathi River.</li><li>In the afternoon, you will arrive in Haridwar. Later, check into the hotel and get relaxed.</li><li>Visit the famous places such as Mansa Devi and Chandi Devi Temples.</li><li>In the evening, attend the famous Ganga Aarti at Har ki Pauri. Dinner and overnight stay at the hotel.</li><br><strong>Haridwar:</strong><br>Located at the feet of Shiva’s hills ‘Shivaliks’, HarIdwar is located in the HarIdwar district of Uttarakhand. It is one of the 7 holiest Hindu cities in India. Apart from being a famous tourist destination in India, HarIdwar is also famous among the people as being the location of Kumbh Mela. The lighted diyas floating on the river Ganges creates a spectacular sight. The town is dotted with innumerable temples and other religious places."
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a road journey to Haridwar. En route, visit Devprayag, the sacred confluence where the Alaknanda and Bhagirathi rivers merge to form the holy Ganges. Upon arrival in Haridwar in the afternoon, check into the hotel and relax. Later, visit the renowned Mansa Devi and Chandi Devi Temples, which are perched atop hills and offer stunning views of the city. In the evening, witness the divine Ganga Aarti at Har Ki Pauri, a mesmerizing spiritual experience. Dinner and overnight stay at the hotel in Haridwar. Haridwar: Located at the feet of Shiva’s hills ‘Shivaliks’, HarIdwar is located in the HarIdwar district of Uttarakhand. It is one of the 7 holiest Hindu cities in India. Apart from being a famous tourist destination in India, HarIdwar is also famous among the people as being the location of Kumbh Mela. The lighted diyas floating on the river Ganges creates a spectacular sight. The town is dotted with innumerable temples and other religious places.</li></div><div class='img-flex-center'><img src='/images/20/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -3623,7 +3623,7 @@
                         "S": "HarIdwar – Delhi (200 kms / 06- 07 hrs)"
                     },
                     "description": {
-                        "S": "<li>Post breakfast, leave by road for Delhi.</li><li>On reaching Delhi, drop at the railway station for onward journey.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, depart for Delhi by road, covering approximately 200 kilometers in 6–7 hours. Enjoy the scenic drive as you leave the spiritual aura of Haridwar behind. Upon arrival in Delhi, you will be dropped off at the railway station or airport for your onward journey, marking the end of a memorable pilgrimage</li></div><div class='img-flex-center'><img src='/images/20/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
