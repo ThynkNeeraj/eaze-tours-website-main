@@ -3662,7 +3662,7 @@
                         "S": "Arrive in Delhi (Check-in at 12:00 PM)"
                     },
                     "description": {
-                        "S": "<li>Upon your arrival at Indira Gandhi International Airport, you will be greeted by our representative who will assist you with your transfer to the hotel.</li><li>In the afternoon, embark on a sightseeing tour of Old Delhi.</li><li>Visit the Jama Masjid, take a drive past the Red Fort, and visit Raj Ghat, where Mahatma Gandhi was cremated.</li><li>Experience the hustle and bustle of Old Delhi with a rickshaw ride.</li><li>Next, visit the Gurudwara Shri Bangla Sahib (Sikh Temple), one of the holiest pilgrimage sites for the Sikh community in India. This site was once a residence for Guru Hari Krishan, the eighth Sikh Guru, during his visit to Delhi in 1664. The Gurudwara now stands as a monument to the Guru’s memory and welcomes thousands of visitors every day.</li><li>Overnight stay in Delhi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival at Indira Gandhi International Airport in Delhi, you will be greeted by our representative and transferred to your hotel for check-in at 12:00 PM. In the afternoon, begin a sightseeing tour of Old Delhi, starting with a visit to the grand Jama Masjid, followed by a drive past the historic Red Fort and a stop at Raj Ghat, the cremation site of Mahatma Gandhi. Enjoy a rickshaw ride through the bustling streets of Old Delhi before visiting Gurudwara Shri Bangla Sahib, a revered Sikh temple associated with Guru Hari Krishan. Conclude the day with an overnight stay in Delhi.</li></div><div class='img-flex-center'><img src='/images/21/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -3678,7 +3678,7 @@
                         "S": "Delhi – Amritsar (Train)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, you will be transferred to the railway station to board the Swarna Shatabdi Express (Train No. 12029). The train departs from Delhi at 07:20 AM and arrives in Amritsar at 1:35 PM (AC chair car class).</li><li>Upon arrival, meet our representative and transfer to your hotel.</li><li>Amritsar is home to the magnificent Golden Temple, the spiritual heart of Sikhism. This iconic temple, with its golden domes reflected in the shimmering water of the surrounding pool, offers a serene and spiritual atmosphere.</li><li>In the evening, visit the Golden Temple for a memorable experience.</li><li>Overnight stay in Amritsar.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, you will be transferred to the railway station to board the Swarna Shatabdi Express (Train No. 12029), departing Delhi at 07:20 AM and arriving in Amritsar at 1:35 PM in AC chair car class. Upon arrival, you will be greeted by our representative and transferred to your hotel. Amritsar, a city rich in Sikh heritage, is home to the stunning Golden Temple, the spiritual center of Sikhism. The temple’s golden domes and serene waters create a peaceful atmosphere. In the evening, visit the Golden Temple for a soul-stirring experience. Enjoy an overnight stay in Amritsar.</li></div><div class='img-flex-center'><img src='/images/21/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -3694,7 +3694,7 @@
                         "S": "Amritsar"
                     },
                     "description": {
-                        "S": "<li>After breakfast, enjoy a full day of sightseeing in Amritsar. Visit the Golden Temple, the spiritual center of Sikhism, established by Guru Arjan in the late 16th century. Explore the Akal Takht, the highest political institution of the Sikhs.</li><li>Pay a visit to Jallianwala Bagh, the site of the tragic massacre of 1919. You will also visit the Wagah Border to witness the spectacular Border Retreat Ceremony between India and Pakistan.</li><li>Overnight stay in Amritsar.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a full day of sightseeing in Amritsar, beginning with a visit to the Golden Temple, the revered spiritual center of Sikhism founded by Guru Arjan in the late 16th century. Explore the Akal Takht, the highest political institution of the Sikhs, located within the temple complex. Next, visit Jallianwala Bagh, a solemn memorial to the 1919 massacre that marked a turning point in India’s struggle for independence. In the evening, head to the Wagah Border to witness the dramatic and patriotic Border Retreat Ceremony between India and Pakistan. Enjoy an overnight stay in Amritsar.</li></div><div class='img-flex-center'><img src='/images/21/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -3710,7 +3710,7 @@
                         "S": "Amritsar – Dharamshala (195 km / Approx. 4 hours drive)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Dharamshala, beautifully situated on the slopes of the Dhauladhar range.</li><li>The town rises from 1250 m to 2000 m in altitude and offers scenic views of the snow-capped peaks.</li><li>Overnight stay in Dharamshala.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic drive to Dharamshala, located approximately 195 kilometers from Amritsar, a journey of about four hours. Nestled on the slopes of the majestic Dhauladhar range, Dharamshala rises from an altitude of 1250 meters to 2000 meters, offering breathtaking views of snow-capped peaks and lush green landscapes. The serene atmosphere and natural beauty of the region make it a perfect retreat in the Himalayas. Upon arrival, check in to your hotel and enjoy the rest of the day at leisure. Overnight stay in Dharamshala.</li></div><div class='img-flex-center'><img src='/images/21/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -3726,7 +3726,7 @@
                         "S": "Dharamshala"
                     },
                     "description": {
-                        "S": "<li>After breakfast, explore McLeod Ganj, a suburb often referred to as 'Little Lhasa' because it is the home of the Dalai Lama and the Tibetan Government in Exile.</li><li>Visit Namgyal Monastery, the main center for monks’ training, and the Tibetan Village School. Learn about Tibetan culture and history while strolling through this peaceful settlement.</li><li>Overnight stay in Dharamshala.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, set out to explore McLeod Ganj, a charming suburb of Dharamshala often called 'Little Lhasa' due to its significance as the residence of the Dalai Lama and the headquarters of the Tibetan Government in Exile. Visit the Namgyal Monastery, an important center for Buddhist learning and monks’ training, and take a walk through the Tibetan Village School to gain insight into the local education system and community life. As you stroll through this tranquil settlement, immerse yourself in the rich culture, history, and spiritual atmosphere of the Tibetan people. Enjoy an overnight stay in Dharamshala.</li></div><div class='img-flex-center'><img src='/images/21/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -3742,7 +3742,7 @@
                         "S": "Dharamshala – Shimla (239 km / Approx. 5 hours drive)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Shimla.</li><li>Upon arrival, check into your hotel, and later explore the town's famous landmarks, including the Shimla Mosque (built in 1830), ViceRegal Lodge, Christ Church (1844), Gaiety Theatre, Scandal Point, Kaali Baari Temple, and Jakhoo Temple.</li><li>The evening is free for shopping at the famous Mall Road.</li><li>Overnight stay in Shimla.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, drive to Shimla, a journey of approximately 239 kilometers taking around five hours. Upon arrival, check into your hotel and set out to explore some of Shimla’s iconic landmarks, including the historic Shimla Mosque built in 1830, the grand ViceRegal Lodge, the neo-Gothic Christ Church dating back to 1844, the Gaiety Theatre, Scandal Point, and the revered Kaali Baari and Jakhoo Temples. Soak in the colonial charm and cultural richness of this hill station. In the evening, enjoy leisure time shopping along the vibrant Mall Road. Overnight stay in Shimla.</li></div><div class='img-flex-center'><img src='/images/21/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -3758,7 +3758,7 @@
                         "S": "Shimla – Kufri – Shimla"
                     },
                     "description": {
-                        "S": "<li>After breakfast, take an excursion to Kufri, a popular hill station near Shimla.</li><li>Visit the Himalayan National Park, enjoy a pony and yak ride, and take in panoramic views of the surrounding Himalayan range. You can also visit Chail, which boasts the world’s highest cricket ground.</li><li>Evening at leisure.</li><li>Overnight stay in Shimla.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, enjoy an excursion to Kufri, a charming hill station located near Shimla, known for its scenic beauty and adventure activities. Visit the Himalayan National Park, home to a variety of native flora and fauna, and enjoy a pony or yak ride while taking in stunning panoramic views of the surrounding Himalayan range. Optionally, visit Chail, famous for having the world’s highest cricket ground, set amidst tranquil pine forests. Return to Shimla in the evening and spend the rest of the day at leisure, soaking in the town's peaceful ambiance. Overnight stay in Shimla.</li></div><div class='img-flex-center'><img src='/images/21/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -3774,7 +3774,7 @@
                         "S": "Shimla – Rishikesh (275 km / Approx. 6 hours drive)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Rishikesh, a town renowned for its religious significance and connection to yoga. Situated on the banks of the Ganges, Rishikesh is a haven for spiritual seekers and travelers alike.</li><li>Overnight stay in Rishikesh.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, drive to Rishikesh, a spiritual town located approximately 275 kilometers from Shimla, with a drive time of around six hours. Nestled on the banks of the sacred Ganges River, Rishikesh is renowned for its deep religious significance, serene ambiance, and status as a global hub for yoga and meditation. The town attracts spiritual seekers and travelers from around the world, offering a peaceful retreat amidst natural beauty and spiritual energy. Upon arrival, check into your hotel and relax for the evening. Overnight stay in Rishikesh.</li></div><div class='img-flex-center'><img src='/images/21/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -3790,7 +3790,7 @@
                         "S": "Rishikesh – Haridwar – Rishikesh"
                     },
                     "description": {
-                        "S": "<li>In Rishikesh, visit the Ram Jhula and Lakshman Jhula, the iconic suspension bridges over the Ganges. Explore the numerous ashrams and temples that dot the town.</li><li>Later, drive to Haridwar, a significant pilgrimage destination, and visit Har Ki Pauri, a sacred ghat where the famous Ganga Aarti is performed every evening.</li><li>Explore the Mansa Devi Temple located atop a hill.</li><li>Return to Rishikesh for an overnight stay.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin the day in Rishikesh by visiting the iconic Ram Jhula and Lakshman Jhula, suspension bridges that offer stunning views of the Ganges and connect various ashrams and temples along the riverbanks. Explore the spiritual heart of the town through its many temples and peaceful ashrams. Later, drive to Haridwar, one of India’s most revered pilgrimage sites, and visit Har Ki Pauri, a sacred ghat where devotees gather for the mesmerizing evening Ganga Aarti. Also visit Mansa Devi Temple, perched atop a hill and accessible by cable car. Return to Rishikesh for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/21/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -3806,7 +3806,7 @@
                         "S": "Rishikesh – Delhi (235 km / Approx. 5 hours drive)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive back to Delhi.</li><li>En route, pass by India Gate and Rashtrapati Bhawan (Presidential Residence).</li><li>Upon arrival, transfer to your hotel.</li><li>Overnight stay in Delhi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, drive back to Delhi, covering a distance of approximately 235 kilometers in about five hours. En route, enjoy views of prominent landmarks such as India Gate, a war memorial dedicated to fallen soldiers, and Rashtrapati Bhawan, the official residence of the President of India. Upon arrival in the capital, you will be transferred to your hotel for check-in. Spend the rest of the day at leisure, relaxing or exploring the nearby areas at your own pace. Overnight stay in Delhi.</li></div><div class='img-flex-center'><img src='/images/21/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -3822,7 +3822,7 @@
                         "S": "Delhi – Varanasi (Flight)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, head to the airport for your flight to Varanasi.</li><li>Upon arrival in Varanasi, meet our representative and transfer to your hotel.</li><li>Varanasi is one of India’s most important pilgrimage sites and is known for its ghats along the Ganges, the heart of spiritual life in the city.</li><li>In the evening, attend the Ganga Aarti at Dashashwamedh Ghat.</li><li>Overnight stay in Varanasi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, proceed to the airport for your flight to Varanasi, one of India’s most sacred pilgrimage destinations. Upon arrival, meet our representative who will assist with your transfer to the hotel. Varanasi, situated along the banks of the holy Ganges, is renowned for its spiritual ambiance, ancient ghats, and vibrant rituals that reflect centuries of devotion and tradition. In the evening, experience the mesmerizing Ganga Aarti at Dashashwamedh Ghat, a powerful ceremony of lights and chants that draws devotees and visitors alike. Enjoy the spiritual energy of the city before settling in for an overnight stay in Varanasi.</li></div><div class='img-flex-center'><img src='/images/21/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -3838,7 +3838,7 @@
                         "S": "Varanasi"
                     },
                     "description": {
-                        "S": "<li>Early morning, enjoy a boat ride on the Ganges River during sunrise.</li><li>Watch as pilgrims perform rituals, offering prayers and bathing in the holy river.</li><li>Afterward, visit the Banaras Hindu University and its museum, Bharat Kala Bhavan, which houses impressive collections of Mughal miniatures and textiles.</li><li>In the afternoon, visit Sarnath, where Lord Buddha delivered his first sermon, and explore the ancient stupas and ruins.</li><li>Overnight stay in Varanasi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your day with an early morning boat ride on the sacred Ganges River at sunrise, witnessing the serene rituals of pilgrims offering prayers and bathing in its holy waters. After this soulful experience, visit Banaras Hindu University, one of India’s most prestigious educational institutions, and explore the Bharat Kala Bhavan museum, known for its rich collection of Mughal miniatures, sculptures, and textiles. In the afternoon, take an excursion to Sarnath, the revered site where Lord Buddha delivered his first sermon, and explore its ancient stupas, monasteries, and ruins. Return to the city for an overnight stay in Varanasi.</li></div><div class='img-flex-center'><img src='/images/21/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -3854,7 +3854,7 @@
                         "S": "Varanasi – Delhi (Flight)"
                     },
                     "description": {
-                        "S": "<li>After a morning at leisure, transfer to the airport for your flight back to Delhi.</li><li>Upon arrival, visit the Lotus Temple, known for its stunning flower-like design and peaceful atmosphere.</li><li>Overnight stay in Delhi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After a leisurely morning in Varanasi, transfer to the airport for your flight back to Delhi. Upon arrival in the capital, visit the iconic Lotus Temple, renowned for its striking lotus-shaped architecture and serene ambiance, welcoming people of all faiths for meditation and reflection. Spend some quiet moments in this peaceful sanctuary before heading to your hotel. Enjoy the evening at your own pace or explore the nearby surroundings. Overnight stay in Delhi.</li></div><div class='img-flex-center'><img src='/images/21/13.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -3870,7 +3870,7 @@
                         "S": "Delhi – Departure"
                     },
                     "description": {
-                        "S": "<li>After breakfast, check out of your hotel and proceed to the international airport for your onward journey.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, check out of your hotel and proceed to the international airport for your onward journey. As you depart, carry with you cherished memories of India’s vibrant culture, spiritual depth, and diverse landscapes. Wishing you a safe and pleasant journey ahead.</li></div><div class='img-flex-center'><img src='/images/21/14.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
@@ -3909,7 +3909,7 @@
                         "S": "Arrive in Delhi"
                     },
                     "description": {
-                        "S": "<li>Upon arrival, you will be greeted and assisted at the airport, followed by a transfer to your hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Delhi, you will be warmly greeted and assisted at the airport by our representative, ensuring a smooth transition from your flight. You will then be transferred to your hotel, where you can check in and unwind after your journey. Depending on your arrival time, you may choose to relax at the hotel or explore the bustling streets of India’s capital city. Delhi, a vibrant blend of history and modernity, offers countless attractions, from ancient monuments and bustling bazaars to luxury shopping and fine dining experiences. If time permits, you can take a short visit to nearby sites such as India Gate, Connaught Place, or Humayun’s Tomb to get a glimpse of the city’s rich heritage. Enjoy a comfortable overnight stay at your hotel, preparing for the incredible journey ahead through the diverse and mesmerizing landscapes of India. Dinner at the hotel is optional.</li></div><div class='img-flex-center'><img src='/images/22/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -3925,7 +3925,7 @@
                         "S": "Explore Delhi"
                     },
                     "description": {
-                        "S": "<li>After breakfast, enjoy a sightseeing tour of both Old and New Delhi.</li><li>In Old Delhi, visit the iconic Red Fort, Jama Masjid (one of the largest mosques in India), Raj Ghat (the memorial of Mahatma Gandhi), and take a walking tour through Chandni Chowk, the bustling silver street.</li><li>In New Delhi, visit Qutub Minar, the tallest stone tower in India, Humayun’s Tomb (an Indo-Persian architectural marvel and precursor to the Taj Mahal), India Gate (a war memorial), and drive past the President’s House, Parliament House, Government Secretariat buildings, and Connaught Place, the vibrant shopping hub of New Delhi.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After a delightful breakfast, embark on a sightseeing tour of Old and New Delhi, experiencing the city's rich history and vibrant culture. Begin in Old Delhi, where you will explore the magnificent Red Fort, admire the grandeur of Jama Masjid, and pay homage at Raj Ghat, the memorial of Mahatma Gandhi. Stroll through the bustling alleys of Chandni Chowk, known for its chaotic charm, spice markets, and silver jewelry. In New Delhi, visit the soaring Qutub Minar, the elegant Humayun’s Tomb, and the iconic India Gate, a tribute to fallen soldiers. Drive past the stately President’s House, Parliament House, and the Government Secretariat buildings, witnessing the grandeur of British-era architecture. Conclude your day at Connaught Place, the city’s commercial and cultural hub, perfect for shopping and dining. Return to your hotel for an overnight stay, reflecting on Delhi’s fascinating blend of old-world charm and modernity.</li></div><div class='img-flex-center'><img src='/images/22/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -3941,7 +3941,7 @@
                         "S": "Delhi to Bhubaneswar"
                     },
                     "description": {
-                        "S": "<li>After breakfast, transfer to the airport for a flight to Bhubaneswar.</li><li>Upon arrival, embark on a half-day sightseeing tour, including the Lingaraj Temple (11th-13th century), Rajarani Temple, Mukteswar Temple, Dhauli Peace Pagoda, and the ancient Jain monk caves at Khandagiri and Udayagiri.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, transfer to the airport for your flight to Bhubaneswar, the capital of Odisha, known as the Temple City of India. Upon arrival, embark on a half-day sightseeing tour to explore the city’s rich cultural and spiritual heritage. Visit the majestic Lingaraj Temple, an architectural marvel from the 11th-13th century, dedicated to Lord Shiva. Explore the intricately carved Rajarani Temple and the exquisite Mukteswar Temple, renowned for its stunning gateway and sculptures. Continue to Dhauli Peace Pagoda, a site of historical significance where Emperor Ashoka embraced Buddhism after the Kalinga War. End your tour at the ancient Jain monk caves of Khandagiri and Udayagiri, which date back to the 2nd century BCE and offer a glimpse into early Jain monastic life. After a day of cultural exploration, check in to your hotel for a relaxing overnight stay.</li></div><div class='img-flex-center'><img src='/images/22/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -3957,7 +3957,7 @@
                         "S": "Bhubaneswar to Ratnagiri"
                     },
                     "description": {
-                        "S": "<li>Enjoy breakfast and take an excursion to the historical site of Ratnagiri.</li><li>Return to Bhubaneswar for an overnight stay.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After an early breakfast, embark on an excursion to Ratnagiri, a significant Buddhist heritage site in Odisha. Part of the Diamond Triangle along with Udayagiri and Lalitgiri, Ratnagiri is home to ancient Buddhist monasteries, stupas, and sculptures dating back to the 5th–13th centuries. Explore the monastery ruins, adorned with intricate carvings and sculptures of Lord Buddha and Bodhisattvas, and visit the Ratnagiri Museum, which houses rare artifacts, bronze statues, and terracotta seals. Witness the majestic Mahastupa, an imposing structure that once stood as a center of Buddhist learning. After a day of historical exploration, return to Bhubaneswar for a relaxing overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/22/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -3973,7 +3973,7 @@
                         "S": "Bhubaneswar to Baliguda"
                     },
                     "description": {
-                        "S": "<li>After breakfast, depart for Baliguda.</li><li>Upon arrival, check in at the hotel for an overnight stay.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic drive to Baliguda, a gateway to the tribal heartland of Odisha. The journey takes you through lush forests, rolling hills, and picturesque villages, offering glimpses of Odisha’s rural charm. Baliguda is known for its indigenous tribal communities, particularly the Kutia Kondh tribe, who have preserved their unique customs and traditions for centuries. Upon arrival, check in at the hotel and unwind. The evening is at leisure, allowing you to explore the surroundings or relax in preparation for the next day’s tribal encounters. Overnight stay in Baliguda.</li></div><div class='img-flex-center'><img src='/images/22/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -3989,7 +3989,7 @@
                         "S": "Baliguda Exploration"
                     },
                     "description": {
-                        "S": "<li>After breakfast, visit various villages and explore the Desai Kondh tribal culture.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on an immersive cultural journey through the Desai Kondh tribal villages, where you will witness the age-old traditions, lifestyle, and vibrant customs of one of Odisha’s indigenous communities. Walk through scenic villages, interact with the locals, and observe their distinctive attire, intricate jewelry, and traditional homes made of mud and bamboo. Experience their rituals, handicrafts, and unique agricultural practices, gaining a deeper understanding of their harmonious relationship with nature. After a day of exploration and cultural exchange, return to your hotel for an overnight stay in Baliguda.</li></div><div class='img-flex-center'><img src='/images/22/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -4005,7 +4005,7 @@
                         "S": "Baliguda to Rayagada (via Belghar & Kothagarh)"
                     },
                     "description": {
-                        "S": "<li>Following breakfast, journey to Belghar, where you'll visit Huttiya Kondha Tribal villages and the weekly market at Kotagarh.</li><li>Enjoy lunch en route.</li><li>Dinner and overnight stay at the hotel in Rayagada.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic journey from Baliguda to Rayagada, passing through the culturally rich regions of Belghar and Kotagarh. Your first stop is Belghar, home to the Huttiya Kondha tribes, an ancient indigenous community known for their distinct traditions and deep-rooted connection with nature. Observe their unique way of life, admire their traditional houses made of bamboo and mud, and learn about their customs that have been preserved for generations. Continue your journey to Kotagarh, where you will experience the vibrant energy of the weekly tribal market, a bustling hub where various tribal communities gather to trade handmade crafts, fresh local produce, and intricately designed ornaments. This market offers a rare glimpse into their self-sustained lifestyle. After enjoying lunch en route, proceed to Rayagada, a beautiful town nestled in the Eastern Ghats. Upon arrival, check in at your hotel, relax, and unwind after an enriching day. Dinner and overnight stay in Rayagada.</li></div><div class='img-flex-center'><img src='/images/22/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -4021,7 +4021,7 @@
                         "S": "Rayagada to Jeypore (via Onukudelli)"
                     },
                     "description": {
-                        "S": "<li>Drive to Onukudelli to visit the weekly market of the Bonda and Gadaba tribes.</li><li>Explore some Gadaba villages before continuing your journey to Jeypore for an overnight stay.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic drive to Onukudelli, home to the Bonda and Gadaba tribes, some of the most fascinating indigenous communities in India. Visit the weekly tribal market, where the Bonda women, adorned with heavy silver jewelry and vibrant attire, trade handmade goods and daily essentials. Experience the unique traditions and lifestyle of the Gadaba tribe as you explore their villages, witnessing their distinct homes and cultural practices. After an enriching interaction with these tribal communities, continue your journey to Jeypore, a historical town surrounded by lush landscapes. Upon arrival, check in at your hotel for dinner and an overnight stay.</li></div><div class='img-flex-center'><img src='/images/22/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -4037,7 +4037,7 @@
                         "S": "Explore Jeypore"
                     },
                     "description": {
-                        "S": "<li>Visit the Paraja tribe at the largest market in Kundli.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, set out for an immersive cultural experience at Kundli Market, the largest tribal market in the region, where the Paraja tribe gathers to trade goods, handicrafts, and fresh produce. Observe their traditional attire, colorful ornaments, and bartering system, which has been practiced for generations. Engage with the locals and learn about their unique customs and way of life. After exploring the market, take some time to visit nearby Paraja villages, where you can witness their daily activities and traditional homes. Return to Jeypore in the evening for dinner and an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/22/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -4053,7 +4053,7 @@
                         "S": "Jeypore to Rayagada (via Laxmipur)"
                     },
                     "description": {
-                        "S": "<li>Today, explore the Dhuruba tribe in the Laxmipur and Bonda regions.</li><li>Visit the Jagannath Temple and the Tribal Museum at Koraput.</li><li>The Jagannath Temple here is unique in that non-Hindus are allowed inside, and its activities resemble those of the Puri temple.</li><li>Enjoy lunch along the way and return to Rayagada for an overnight stay.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, depart for Laxmipur, where you'll visit the Dhuruba tribe, known for their unique traditions and way of life. Continue to the Bonda region, home to one of India's most primitive tribal communities. Witness their distinct culture, including their vibrant attire and bartering practices. Later, visit Jagannath Temple in Koraput, a rare temple where non-Hindus are allowed to enter, offering an inclusive spiritual experience. Explore the Tribal Museum, which showcases the rich heritage of Odisha’s indigenous communities. After lunch en route, proceed to Rayagada for dinner and an overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/22/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -4069,7 +4069,7 @@
                         "S": "Rayagada to Chilika (via Taptapani)"
                     },
                     "description": {
-                        "S": "<li>Drive to Chilika, visiting the Taptapani hot springs on the way.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic drive to Chilika, India’s largest coastal lagoon, renowned for its stunning landscapes and rich biodiversity. En route, stop at Taptapani, famous for its natural hot springs, believed to have medicinal properties. Enjoy the tranquil surroundings and, if desired, take a dip in the warm, mineral-rich waters. Continue your journey through picturesque countryside and tribal villages, offering glimpses of rural Odisha’s cultural charm. Upon arrival at Chilika, check in at the hotel and unwind. Spend the evening at leisure, soaking in the beauty of the lagoon. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/22/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -4085,7 +4085,7 @@
                         "S": "Chilika to Puri"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Puri.</li><li>Spend the evening relaxing at the beach.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a scenic drive to Puri, one of India's most revered pilgrimage destinations and home to the iconic Jagannath Temple. Upon arrival, check in at your hotel and unwind. Later, head to Puri Beach, where you can relax on the golden sands, take a refreshing dip in the sea, or simply enjoy the rhythmic sound of the waves. Stroll along the bustling shoreline, explore local handicraft stalls, and witness a mesmerizing sunset over the Bay of Bengal. After a serene evening by the beach, return to your hotel for a comfortable overnight stay.</li></div><div class='img-flex-center'><img src='/images/22/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -4101,7 +4101,7 @@
                         "S": "Explore Puri"
                     },
                     "description": {
-                        "S": "<li>Enjoy a full-day city tour of Puri, visiting the Jagannath Temple and other important temples.</li><li>You will also visit Konark to see the famous Sun Temple.</li><li>Overnight stay at the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin your day with a visit to the revered Jagannath Temple, a sacred pilgrimage site and a marvel of Kalinga architecture. Explore its spiritual aura and witness the devotion of countless pilgrims. Next, visit Gundicha Temple, also known as the 'Garden House of Jagannath,' an important site during the Rath Yatra festival. Later, drive to Konark to explore the UNESCO-listed Sun Temple, an architectural masterpiece depicting the celestial chariot of the Sun God. Admire the intricate stone carvings and historical significance of this 13th-century marvel. After an enriching day of exploration, return to your hotel in Puri for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -4117,7 +4117,7 @@
                         "S": "Puri to Bhubaneswar and Departure to Delhi"
                     },
                     "description": {
-                        "S": "<li>After breakfast, transfer to Bhubaneswar airport to catch your flight to Delhi for your onward journey.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, bid farewell to the coastal charm of Puri as you embark on a scenic drive to Bhubaneswar Airport. Enjoy the last glimpses of Odisha’s vibrant culture and landscapes before boarding your flight to Delhi. Upon arrival in Delhi, you will proceed with your onward journey, carrying cherished memories of your incredible exploration through India’s rich heritage, tribal traditions, and architectural wonders. Safe travels!</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
@@ -4156,7 +4156,7 @@
                         "S": "Arrive in Bhubaneswar"
                     },
                     "description": {
-                        "S": "<li>Upon arrival in Bhubaneswar, you will be assisted and transferred to your hotel.</li><li>Relax for the rest of the day at the hotel.</li><li>Bhubaneswar, meaning 'The Lord of the Universe,' is the modern capital of Odisha and was once the capital of the Kalinga Empire. The region holds historical significance dating back to the 7th century, when the Kalinga kings ruled.</li><li>Overnight in Bhubaneswar.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Bhubaneswar, you will be warmly received and assisted with your transfer to the hotel. Spend the rest of the day at leisure, relaxing and settling in. Bhubaneswar, known as 'The Lord of the Universe,' is the present-day capital of Odisha and was once the seat of power for the ancient Kalinga Empire. Rich in history and heritage, the city dates back to the 7th century and is renowned for its temples and cultural significance. Enjoy your first evening in this historic city. Overnight stay in Bhubaneswar.</li></div><div class='img-flex-center'><img src='/images/23/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -4172,7 +4172,7 @@
                         "S": "Explore Bhubaneswar"
                     },
                     "description": {
-                        "S": "<li>In the morning, enjoy a guided city tour of Bhubaneswar.</li><li>The city is known for its many temples, including the Brahmeswar and Parasurameswara temples from the 7th century, famous for their intricate lattice windows.</li><li>The 10th-century Mukteswar Temple is known for its beautiful toranas (arches), and the 11th-century Rajarani Temple features exquisite carvings.</li><li>The Lingaraj Temple, also from the 11th century, is the finest example of Kalinga architecture, though non-Hindus can only view it from the outside.</li><li>The afternoon is free for independent activities.</li><li>Overnight in Bhubaneswar.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, set out on a guided city tour of Bhubaneswar, a city renowned for its remarkable temple architecture. Visit the 7th-century Brahmeswar and Parasurameswara temples, celebrated for their intricate lattice windows and detailed carvings. Explore the 10th-century Mukteswar Temple, admired for its elegant toranas (arches), and the 11th-century Rajarani Temple, known for its stunning sculptural work. Continue to the magnificent Lingaraj Temple, an architectural masterpiece of the Kalinga style, which non-Hindus may view only from the outside. The afternoon is free for independent exploration or relaxation. Overnight stay in Bhubaneswar.</li></div><div class='img-flex-center'><img src='/images/23/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -4188,7 +4188,7 @@
                         "S": "Bhubaneswar – Puri – Konark – Bhubaneswar"
                     },
                     "description": {
-                        "S": "<li>Embark on a full-day guided excursion to Puri and Konark. Puri (62 km from Bhubaneswar) is one of India’s four sacred Dhams and the residence of Lord Jagannath. Situated on the Bay of Bengal, Puri has long been a pilgrimage center, known for its grand Rath Yatra procession.</li><li>Next, visit the Sun Temple at Konark, also known as the Black Pagoda. This 13th-century temple is designed as a colossal chariot with seven horses and 24 wheels, representing the passage of time. The temple is adorned with thousands of intricate carvings depicting deities, celestial beings, dancers, and animals.</li><li>Overnight stay in Bhubaneswar.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Embark on a full-day guided excursion to Puri and Konark, two of Odisha’s most iconic destinations. Begin with a visit to Puri, located 62 kilometers from Bhubaneswar, one of India’s four sacred Dhams and the revered abode of Lord Jagannath. Set along the Bay of Bengal, Puri is famed for its spiritual significance and the vibrant Rath Yatra festival. Continue to the magnificent Sun Temple at Konark, also known as the Black Pagoda. This 13th-century architectural marvel is shaped like a colossal chariot drawn by seven horses and set on 24 intricately carved wheels, symbolizing the passage of time. Overnight stay in Bhubaneswar.</li></div><div class='img-flex-center'><img src='/images/23/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -4204,7 +4204,7 @@
                         "S": "Bhubaneswar – Balliguda"
                     },
                     "description": {
-                        "S": "<li>Drive to Baliguda, passing through scenic rural landscapes and typical Oriya villages. Balliguda, located in the Phulbani district, marks the entry point to Odisha’s tribal highlands.</li><li>The drive takes you through the beautiful Sal forests and mountainous roads.</li><li>Arrive in Balliguda by evening and check-in at your hotel.</li><li>Overnight stay at a hotel in Balliguda.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, drive to Balliguda, a gateway to the tribal highlands of Odisha located in the Phulbani district. The journey offers a scenic experience as you pass through lush Sal forests, winding mountain roads, and traditional Oriya villages that provide a glimpse into rural life. Enjoy the changing landscapes and natural beauty along the way. Arrive in Balliguda by evening and check in to your hotel. Spend the rest of the evening at leisure, preparing for the cultural exploration ahead. Overnight stay at a hotel in Balliguda.</li></div><div class='img-flex-center'><img src='/images/23/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -4220,7 +4220,7 @@
                         "S": "Balliguda – Rayagada"
                     },
                     "description": {
-                        "S": "<li>In the morning, drive to Rayagada, stopping along the way to visit villages of the Kutia Kondh tribe, known for their unique traditions, including their historic practice of human sacrifice.</li><li>This community lives in the mountains and forests and is known for its friendliness.</li><li>Enjoy a trek through the region if desired.</li><li>Overnight stay in Rayagada.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, drive to Rayagada, a journey that takes you deeper into Odisha’s tribal heartland. En route, visit the villages of the Kutia Kondh tribe, a community known for its rich cultural heritage and once-feared tradition of human sacrifice, now long abandoned. Nestled in the remote mountains and forests, the Kutia Kondhs are known for their hospitality and vibrant traditions. If you wish, enjoy a short trek through the picturesque terrain to better experience the natural beauty and tribal life of the region. Arrive in Rayagada by evening. Overnight stay in Rayagada.</li></div><div class='img-flex-center'><img src='/images/23/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -4236,7 +4236,7 @@
                         "S": "Explore Rayagada"
                     },
                     "description": {
-                        "S": "<li>Spend the day exploring the weekly market at Kotagarh and visit the villages of the Desia Kondh and Dongaria Kondh tribes.</li><li>Overnight stay in Rayagada.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Spend the day immersing yourself in the rich tribal culture of the Rayagada region. Begin with a visit to the vibrant weekly market at Kotagarh, where local tribes gather to trade goods and socialize, offering a unique opportunity to witness traditional attire, crafts, and customs. Continue your exploration with visits to the villages of the Desia Kondh and Dongaria Kondh tribes, known for their distinct customs, deep connection to nature, and striking traditional jewelry and clothing. Experience the authenticity of tribal life in this remote and culturally rich region. Overnight stay in Rayagada.</li></div><div class='img-flex-center'><img src='/images/23/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -4252,7 +4252,7 @@
                         "S": "Rayagada – Chatikona – Jeypore"
                     },
                     "description": {
-                        "S": "<li>In the morning, drive to Jeypore, stopping at Chatikona to witness the colorful weekly market of the Dongria tribe.</li><li>You’ll also visit the Jharia Paroja village. The tribes here, from the Niyamgiri hill range, bring their goods like fruits and animals to the market, providing a unique cultural experience.</li><li>Continue your drive to Jeypore for an overnight stay.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, drive to Jeypore with a stop at Chatikona to experience the vibrant weekly market of the Dongria tribe, known for their striking traditional attire and deep connection to the Niyamgiri hills. This colorful gathering offers a rare glimpse into tribal commerce and daily life, as the Dongria Kondhs bring forest produce, fruits, and animals to trade. En route, also visit the Jharia Paroja village, home to another indigenous community known for their unique customs and way of life. Continue your scenic journey through the tribal belt and arrive in Jeypore by evening. Overnight stay in Jeypore.</li></div><div class='img-flex-center'><img src='/images/23/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -4268,7 +4268,7 @@
                         "S": "Explore Jeypore"
                     },
                     "description": {
-                        "S": "<li>Visit Onkadelli in the morning to experience the weekly market of the Bonda tribe.</li><li>In the afternoon, explore the villages of the Gadaba tribe.</li><li>Overnight stay in Jeypore.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Begin the day with a visit to Onkadelli, where you can witness the fascinating weekly market of the Bonda tribe, one of India’s most distinctive and ancient tribal communities. The Bonda people are known for their unique dress, elaborate bead jewelry, and independent lifestyle in the remote hills. This vibrant market offers a rare opportunity to observe their customs and interactions. In the afternoon, explore the villages of the Gadaba tribe, known for their colorful attire, traditional music, and graceful Dhemsa dance. Immerse yourself in the rich cultural tapestry of the region. Overnight stay in Jeypore.</li></div><div class='img-flex-center'><img src='/images/23/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -4284,7 +4284,7 @@
                         "S": "Jeypore – Kundli – Nandpur – Jeypore"
                     },
                     "description": {
-                        "S": "<li>Travel to Kundli, 65 km from Jeypore, to visit the largest tribal market in the region, where you’ll see the vibrant market of the Sanaparoja and Mali tribes.</li><li>Next, head to Nandpur to visit the villages of the Sanaparoja tribe, with opportunities for small treks to villages like Khilus, Saana Padar, and Bda Padar.</li><li>You can also visit the Gupteshwar caves, home to the Dhuruba tribe, located 70 km from Jeypore.</li><li>Explore the villages of Ramanguda, Dogariguda, Silpader, and Talur.</li><li>In the evening, head back to Jeypore for overnight stay.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Travel to Kundli, located 65 kilometers from Jeypore, to visit the largest and most vibrant tribal market in the region, where members of the Sanaparoja and Mali tribes gather to trade goods in a colorful and lively setting. Continue your journey to Nandpur to explore Sanaparoja tribal villages, with optional short treks to remote settlements like Khilus, Saana Padar, and Bda Padar for an authentic look at rural tribal life. You may also visit the mystical Gupteshwar caves, a revered shrine nestled deep in the forest and home to the Dhuruba tribe. Explore nearby villages such as Ramanguda, Dogariguda, Silpader, and Talur before returning to Jeypore in the evening. Overnight stay in Jeypore.</li></div><div class='img-flex-center'><img src='/images/23/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -4300,7 +4300,7 @@
                         "S": "Jeypore – Jagdalpur"
                     },
                     "description": {
-                        "S": "<li>Drive to Jagdalpur, stopping along the way to explore the terracotta work and dyeing techniques in Kotapadu village.</li><li>Upon arrival in Jagdalpur, check in at your hotel.</li><li>Overnight stay in Jagdalpur.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Drive to Jagdalpur, a culturally rich town in the Bastar region, known for its vibrant tribal heritage. En route, stop at Kotapadu village to explore traditional terracotta craftsmanship and indigenous dyeing techniques, which reflect the artistic spirit and ancestral skills of the local communities. Engage with artisans and witness their intricate work firsthand. Continue your journey through scenic landscapes and tribal settlements, arriving in Jagdalpur by evening. Check in at your hotel and relax for the night. Overnight stay in Jagdalpur.</li></div><div class='img-flex-center'><img src='/images/23/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -4316,7 +4316,7 @@
                         "S": "Jagdalpur – Chitrakoot"
                     },
                     "description": {
-                        "S": "<li>Drive to Chitrakut and visit the villages of the Muria tribe and their weekly market.</li><li>In the afternoon, explore local villages and the stunning Chitrakot Waterfalls, also known as the 'Niagara of India'. This horseshoe-shaped waterfall, 100 feet high, is a must-see, especially during the monsoon season.</li><li>Overnight stay in Chitrakoot.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Drive to Chitrakoot and begin your day by visiting the villages of the Muria tribe, known for their vibrant culture and traditional practices. Explore their weekly market, a lively gathering where locals trade goods and celebrate community life. In the afternoon, visit nearby villages to further immerse yourself in the region's tribal heritage. Later, marvel at the breathtaking Chitrakot Waterfalls, famously dubbed the 'Niagara of India' for its impressive 100-foot drop and wide, horseshoe shape. The falls are especially spectacular during the monsoon season. Enjoy the serene beauty of the area. Overnight stay in Chitrakoot.</li></div><div class='img-flex-center'><img src='/images/23/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -4332,7 +4332,7 @@
                         "S": "Explore Chitrakut"
                     },
                     "description": {
-                        "S": "<li>Drive to Kailash Cave in the Kanger Valley, and visit the Bhadra tribal village.</li><li>Overnight stay in Chitrakoot.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Spend the day exploring the natural and cultural wonders of Chitrakoot. Drive to the Kailash Cave in the scenic Kanger Valley National Park, a limestone cave adorned with fascinating stalactite and stalagmite formations, offering a glimpse into the region’s geological history. Afterward, visit the Bhadra tribal village to experience the traditional lifestyle, customs, and warm hospitality of the local community. Immerse yourself in the rich cultural tapestry of the Bastar region. Return in the evening to relax. Overnight stay in Chitrakoot.</li></div><div class='img-flex-center'><img src='/images/23/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -4348,7 +4348,7 @@
                         "S": "Chitrakut – Narayanpur"
                     },
                     "description": {
-                        "S": "<li>Drive to Narayanpur in the morning to view the distinctive tribal artwork of the Maria tribe.</li><li>Visit Kondagaon to see wooden crafts, followed by a tribal dance performance in the evening.</li><li>Overnight stay in Narayanpur.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, drive to Narayanpur, a region known for its rich tribal heritage and artistic traditions. Visit the villages of the Maria tribe, renowned for their distinctive tribal artwork and cultural expressions. En route, stop at Kondagaon, a hub of traditional Bastar handicrafts, to witness skilled artisans at work creating intricate wooden crafts and bell metal art. In the evening, enjoy an authentic tribal dance performance, offering a vibrant display of local music, rhythm, and celebration. Immerse yourself in the unique spirit of the region. Overnight stay in Narayanpur.</li></div><div class='img-flex-center'><img src='/images/23/13.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -4364,7 +4364,7 @@
                         "S": "Narayanpur – Raipur"
                     },
                     "description": {
-                        "S": "<li>Travel to Raipur in the morning, stopping to visit the villages of the Maria tribe in the Gadbental area.</li> <li>Overnight stay in Raipur.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>In the morning, depart from Narayanpur and drive to Raipur, the capital city of Chhattisgarh. Along the way, stop to visit the villages of the Maria tribe in the Gadbental area, known for their traditional lifestyle, vibrant attire, and ceremonial dances. This visit offers a final, enriching glimpse into the unique tribal cultures of central India. Continue your journey through scenic rural landscapes and arrive in Raipur by evening. Check in to your hotel and relax. Overnight stay in Raipur.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
@@ -4380,7 +4380,7 @@
                         "S": "Raipur – Departure"
                     },
                     "description": {
-                        "S": "<li>Transfer to the airport for your onward flight.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, check out from your hotel and transfer to Raipur Airport for your onward flight. Carry with you the memories of a culturally rich and immersive journey through the tribal heartlands of India. Safe travels!</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "15"
@@ -4419,7 +4419,7 @@
                         "S": "Arrive in Delhi (Check-in at hotel after 2:00 PM)"
                     },
                     "description": {
-                        "S": "<li>Upon arrival at Indira Gandhi International Airport, you will be greeted by our representative who will assist you with your transfer to the hotel.</li> <li>Delhi, the capital of India, is a city full of contrasts, where history and modernity coexist.</li> <li>Over centuries, various dynasties have ruled this fascinating city, leaving behind architectural marvels.</li> <li>Situated along the River Yamuna, Delhi has witnessed the rise and fall of numerous civilizations over the last 5,000 years.</li> <li>Overnight stay in Delhi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival at Indira Gandhi International Airport, you will be warmly welcomed by our representative, who will assist you with a smooth transfer to your hotel. Delhi, the capital of India, is a fascinating blend of history and modernity, where ancient monuments stand alongside bustling markets and contemporary skyscrapers. Over the centuries, various dynasties have ruled this city, leaving behind a rich architectural and cultural legacy. Nestled along the Yamuna River, Delhi has been a witness to the rise and fall of great civilizations for over 5,000 years. After check-in, take the rest of the day to relax or explore the city at your own pace. Overnight stay in Delhi.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -4435,7 +4435,7 @@
                         "S": "Explore Delhi"
                     },
                     "description": {
-                        "S": "<li>After breakfast at the hotel, embark on a tour of Old Delhi. Drive past the historic Red Fort, and nearby, visit the Jama Masjid, the largest mosque in India, built by Shah Jahan.</li> <li>Experience a rickshaw ride through the vibrant markets of Chandni Chowk, located near both the Fort and the Mosque.</li> <li>Visit Raj Ghat, the memorial to Mahatma Gandhi. In the afternoon, explore New Delhi, starting with Qutub Minar, a 12th-century tower built by Qutbuddin Aibak, and the famous Iron Pillar.</li> <li>You’ll also drive by India Gate, a war memorial, and pass the Presidential Residence (Rashtrapati Bhawan) along with Parliament House.</li> <li>Overnight stay in Delhi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After breakfast, embark on a captivating journey through the contrasting landscapes of Old and New Delhi. Begin with Old Delhi, where the grandeur of the Red Fort stands as a testament to Mughal splendor. Visit Jama Masjid, India's largest mosque, and take a thrilling rickshaw ride through the bustling alleys of Chandni Chowk. Pay respects at Raj Ghat, Mahatma Gandhi’s memorial. In the afternoon, explore New Delhi’s architectural gems, including Qutub Minar and the historic Iron Pillar. Drive past India Gate, Rashtrapati Bhawan, and Parliament House, soaking in the city’s colonial charm before returning to your hotel for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -4451,7 +4451,7 @@
                         "S": "Delhi to Sawai Madhopur / Ranthambore"
                     },
                     "description": {
-                        "S": "<li>After a leisurely breakfast, you have free time until it’s time to head to the railway station for your train journey to Sawai Madhopur.</li> <li>Train details: Kota Janshatabdi / 12060, Departure: 13:20 hrs, Arrival: 18:02 hrs, Class: A/C Chair Car.</li> <li>Upon arrival in Sawai Madhopur, you will be met by our representative and transferred to Ranthambore.</li> <li>This national park, covering 400 sq km, is known for its tigers and rich wildlife, including gazelles, leopards, sambars, and wild bulls. The area is dotted with historical ruins that enhance its enchanting landscape.</li> <li>Check in at the hotel for the night.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After a leisurely breakfast, enjoy some free time before heading to the railway station for your journey to Sawai Madhopur. Board the Kota Janshatabdi Express (Train No. 12060) at 13:20 hrs and arrive at 18:02 hrs in an A/C Chair Car. Upon arrival, a representative will greet you and transfer you to Ranthambore, a renowned national park spanning 400 sq km. Home to majestic tigers, leopards, gazelles, and sambars, the park’s landscape is enriched by ancient ruins, adding to its allure. After checking in at the hotel, unwind and prepare for an exciting wildlife adventure the next day.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -4467,7 +4467,7 @@
                         "S": "Ranthambore Safari"
                     },
                     "description": {
-                        "S": "<li>Today, enjoy both a morning and evening game drive in Ranthambore National Park, known for its impressive tiger sightings.</li> <li>Overnight stay in Ranthambore.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Day 4 in Ranthambore promises an exhilarating wildlife experience. Begin the day with an early morning game drive, venturing deep into the national park’s rugged terrain to spot elusive tigers, leopards, and a variety of other wildlife in their natural habitat. As the golden sunrise bathes the jungle, keep an eye out for deer, wild boars, and exotic birds. After returning to the hotel for breakfast and some leisure time, set out again in the evening for another safari. With Ranthambore’s stunning landscapes and historical ruins as a backdrop, every drive offers a unique adventure. Conclude the day with an overnight stay in Ranthambore.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -4483,7 +4483,7 @@
                         "S": "Ranthambore to Fatehpur Sikri and Agra (267 km, 5-6 hours)"
                     },
                     "description": {
-                        "S": "<li>This morning, you’ll transfer to Agra with a visit to Fatehpur Sikri en route.</li> <li>This 16th-century city, built by Emperor Akbar, is a collection of palaces, forts, and mosques made of sandstone, and was abandoned due to a water shortage.</li> <li>Explore the Tomb of Sheikh Salim Chisti, Akbar's spiritual advisor. Afterward, continue to Agra, the home of the Taj Mahal.</li> <li>Agra, once the Mughal capital, boasts splendid architecture and skilled craftsmanship.</li> <li>Overnight in Agra.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Day 5 takes you on a journey through history, beginning with a scenic drive from Ranthambore to Agra. En route, stop at Fatehpur Sikri, a magnificent yet abandoned Mughal city built by Emperor Akbar in the 16th century. Wander through its grand sandstone palaces, courtyards, and mosques, including the revered Tomb of Sheikh Salim Chisti, known for granting wishes. After exploring this UNESCO World Heritage Site, continue to Agra, the former Mughal capital and a city renowned for its architectural splendor. Upon arrival, check in at your hotel and relax, preparing for the wonders that await. Overnight stay in Agra.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -4499,7 +4499,7 @@
                         "S": "Agra and Overnight Train to Katni"
                     },
                     "description": {
-                        "S": "<li>Visit the Taj Mahal in the morning, the iconic symbol of love built by Emperor Shah Jahan for his wife Mumtaz Mahal.</li> <li>Afterward, explore Agra Fort, an imposing structure built by three successive Mughal emperors, and the tomb of Itimad-Ud-Daulah, also known as the 'Baby Taj.'.</li> <li>In the evening, transfer to the train station for your overnight journey to Katni.</li> <li>Train details: Mahakoshal Express / 12190, Departure: 19:30 hrs, Arrival: 09:35 hrs (next day), Class: 2-Tier AC Sleeper.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Day 6 begins with an early morning visit to the Taj Mahal, an architectural masterpiece symbolizing eternal love. As the morning light casts a golden glow over its pristine marble, admire the intricate carvings and inlay work. Next, explore Agra Fort, a formidable red sandstone fortress that once served as the residence of Mughal emperors. Walk through its palaces, courtyards, and halls, reliving the grandeur of the Mughal era. Later, visit the exquisite tomb of Itimad-Ud-Daulah, often referred to as the 'Baby Taj.' In the evening, transfer to the railway station for an overnight journey to Katni.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -4515,7 +4515,7 @@
                         "S": "Katni to Bandhavgarh (100 km, approx. 3 hours)"
                     },
                     "description": {
-                        "S": "<li>Arrive at Katni and transfer to Bandhavgarh.</li> <li>This park, one of India’s densest tiger reserves, is known for its rich tiger sightings. The park is small, with valleys and streams flowing into the River Son.</li> <li>It is also famous for its hilltop views and historical significance, with legends associating it with the god Shiva.</li> <li>Enjoy an afternoon safari.</li> <li>Overnight stay in Bandhavgarh.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Upon arrival in Katni, embark on a scenic drive to Bandhavgarh, one of India’s most renowned tiger reserves. Nestled in the Vindhya Hills, this park boasts one of the highest tiger densities in the country, making it an excellent destination for wildlife enthusiasts. The landscape features a mix of lush valleys, dense forests, and open meadows, with streams flowing into the River Son. Apart from its thriving wildlife, Bandhavgarh is steeped in mythology, with its hilltop fort believed to have links to Lord Shiva. In the afternoon, set out on an exhilarating safari before retiring for an overnight stay in Bandhavgarh.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -4531,7 +4531,7 @@
                         "S": "Bandhavgarh Safari"
                     },
                     "description": {
-                        "S": "<li>Today, enjoy both morning and evening safaris in Bandhavgarh National Park.</li> <li>The park is home to many wildlife species, including tigers.</li> <li>Overnight stay in Bandhavgarh.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Rise early for an exciting morning safari in Bandhavgarh National Park, where the dense forests and open meadows offer prime opportunities to spot the elusive Bengal tiger. Apart from tigers, the park is home to leopards, deer, wild boars, and a variety of bird species. The rugged terrain, ancient caves, and the historic Bandhavgarh Fort add to the park’s mystique. After a relaxing afternoon at the lodge, embark on another thrilling evening safari, as dusk is a prime time for wildlife activity. Absorb the sights and sounds of the jungle before returning to your accommodation for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -4547,7 +4547,7 @@
                         "S": "Bandhavgarh to Kanha (250 km, approx. 6 hours)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Kanha National Park.</li> <li>This 940-sq-km reserve is one of the finest tiger habitats in India, known for its diverse landscapes, including hills, valleys, and meadows.</li> <li>Enjoy an afternoon safari in the park.</li> <li>Overnight stay in Kanha.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>After an early breakfast, set off on a scenic drive to Kanha National Park, one of India's largest and most well-preserved wildlife reserves. This vast expanse of forests, grasslands, and streams inspired Rudyard Kipling’s The Jungle Book. Upon arrival, check in at your lodge and relax before heading out for an afternoon safari. Kanha is famous for its thriving population of Bengal tigers, barasingha (swamp deer), leopards, and diverse birdlife. As you explore the park’s meadows and sal forests, keep an eye out for wildlife in its natural habitat. Conclude the day with an overnight stay at the lodge.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -4563,7 +4563,7 @@
                         "S": "Kanha Safari"
                     },
                     "description": {
-                        "S": "<li>Today, you’ll have the chance to enjoy both a morning and an afternoon safari in Kanha, home to tigers, leopards, and other wildlife.</li> <li>Overnight stay in Kanha.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Rise early for a thrilling morning safari in Kanha National Park, where you’ll have the best chance to spot Bengal tigers, leopards, and the rare barasingha deer. The park’s dense sal forests, expansive meadows, and tranquil streams create a breathtaking backdrop for wildlife encounters. After returning to your lodge for lunch and some rest, set out again in the afternoon for another safari, exploring different zones of the park. Keep your camera ready for sightings of wild boars, jackals, and a variety of bird species. As the sun sets, return to your lodge for a peaceful overnight stay.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -4579,7 +4579,7 @@
                         "S": "Kanha to Nagpur (262 km, approx. 6 hours) and Return to Delhi"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Nagpur and fly to Delhi.</li> <li>Flight details: Indigo 6E-136, Departure: 18:00 hrs, Arrival: 19:40 hrs. On arrival in Delhi, you will be transferred to your hotel.</li> <li>Overnight stay in Delhi.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Enjoy a leisurely breakfast before departing for Nagpur, a major city known as the 'Orange City' of India. The scenic drive takes you through central India's lush landscapes, offering glimpses of rural life along the way. Upon arrival in Nagpur, transfer to the airport for your evening flight to Delhi. After landing in the capital, you will be greeted and escorted to your hotel. Take the evening to relax or explore nearby areas at your own pace. Enjoy a comfortable overnight stay in Delhi, preparing for the final leg of your journey.</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -4595,7 +4595,7 @@
                         "S": "Departure from Delhi"
                     },
                     "description": {
-                        "S": "<li>After breakfast, you will be transferred to the international airport for your onward journey.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>Enjoy a relaxed breakfast at the hotel before checking out. Depending on your flight schedule, you may have some free time for last-minute shopping or sightseeing. Later, our representative will assist with your transfer to Indira Gandhi International Airport. Bid farewell to India as you embark on your onward journey, taking with you unforgettable memories of diverse landscapes, rich cultural heritage, and incredible wildlife encounters. Safe travels!</li></div><div class='img-flex-center'><img src='/images/24/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -4634,7 +4634,7 @@
                         "S": "Arrive in Mumbai"
                     },
                     "description": {
-                        "S": "<li>Upon arrival at Mumbai, you will be met by our representative who will assist you with your transfer to the hotel.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the first day, upon your arrival in Mumbai, you will be warmly welcomed by our representative who will assist you with the transfer to your hotel. Once checked in, you can relax and settle in after your journey. This bustling metropolis, known as the financial and entertainment capital of India, offers a vibrant blend of colonial charm, modern skyscrapers, and rich cultural diversity. The rest of the day is at your leisure to unwind or explore the city at your own pace. Overnight stay at the hotel.</li></div><div class='img-flex-center'><img src='/images/25/1.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "1"
@@ -4650,7 +4650,7 @@
                         "S": "Baroda to Ahmedabad and Onwards to Utellia"
                     },
                     "description": {
-                        "S": "<li>After breakfast at the hotel, transfer to the airport for your flight to Baroda (Flight: 9W-349, 10:15 – 11:05 hrs).</li> <li>Upon arrival in Baroda, you will be transferred to your hotel.</li> <li>Later, take a trip to Chhota Udaipur to meet the Rathwa tribes, considered to be one of the most primitive tribal communities of Gujarat.</li> <li>Enjoy an early lunch and then proceed by jeep to visit tribal villages like Kol, Kharakwada, Timla, and Devhat.</li> <li>In the evening, return to Baroda.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the second day, after breakfast at the hotel, you will be transferred to the airport for your flight to Baroda (Flight: 9W-349, 10:15 – 11:05 hrs). Upon arrival, transfer to your hotel for check-in. Later, embark on an enriching excursion to Chhota Udaipur, home to the Rathwa tribes—one of the most ancient and culturally rich tribal communities of Gujarat. After enjoying an early lunch, set out on a jeep safari to explore tribal villages such as Kol, Kharakwada, Timla, and Devhat, where you can witness traditional lifestyles, unique art forms, and authentic village life. In the evening, return to Baroda for an overnight stay.</li></div><div class='img-flex-center'><img src='/images/25/2.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "2"
@@ -4666,7 +4666,7 @@
                         "S": "Baroda to Ahmedabad and Onwards to Utellia"
                     },
                     "description": {
-                        "S": "<li>After breakfast, transfer to the airport for a flight to Ahmedabad.</li> <li>Upon arrival, drive to Utellia (78 km, approx. 1.5 hours), a quaint feudal village known for its medieval palace.</li> <li>Check-in at the hotel and enjoy the evening at leisure.</li> <li>Overnight stay in Utellia.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the third day, after breakfast, you will be transferred to the airport for your flight to Ahmedabad. Upon arrival, embark on a scenic drive to Utellia, a charming feudal village located approximately 78 km away, taking around 1.5 hours. Utellia is known for its peaceful rural atmosphere and its striking 19th-century palace, reflecting the grandeur of medieval architecture. After reaching, check in at your heritage hotel and take time to relax and soak in the tranquil surroundings. The rest of the evening is free for leisure, allowing you to explore the village or simply unwind. Overnight stay in Utellia.</li></div><div class='img-flex-center'><img src='/images/25/3.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "3"
@@ -4682,7 +4682,7 @@
                         "S": "Excursion to Bharwad Tribal Village"
                     },
                     "description": {
-                        "S": "<li>Today, visit the Bharwad tribal village.</li> <li>The Bharwad people, traditionally shepherds and cattle herders, are known for their love of color, particularly blue, green, and white, which they use to paint their homes.</li> <li>Visit the homes of these vibrant tribes and get a glimpse into their everyday life.</li> <li>Some Bharwads are now engaged in diamond cutting and polishing, and you’ll have the opportunity to observe this fascinating process.</li> <li>Also visit a local camel-breeding farm, known for producing high-quality camels.</li> <li>Overnight stay in Utellia.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the fourth day, embark on a cultural excursion to a Bharwad tribal village. The Bharwad community, traditionally shepherds and cattle herders, are known for their vibrant lifestyle and distinctive use of colors—especially blue, green, and white—in painting their homes. During your visit, you’ll have the chance to step into their homes and experience their everyday life, rich in tradition and simplicity. Some members of the community have also ventured into the diamond cutting and polishing industry, and you’ll get a unique opportunity to observe this intricate craft. Later, visit a local camel-breeding farm, famed for producing high-quality camels. Return for an overnight stay in Utellia.</li></div><div class='img-flex-center'><img src='/images/25/4.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "4"
@@ -4698,7 +4698,7 @@
                         "S": "Utellia to Balaram (120 km, approx. 2 hours)"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Balaram, a picturesque holy town nestled amidst lush green forests.</li> <li>On the way, visit the famous Calico Museum, Adalaj Stepwell (built in 1499), and the Modhera Sun Temple, which dates back to 1026 AD and is often compared to the Konark Temple in Orissa.</li> <li>Continue your drive to Balaram and check-in at the Balaram Palace Resort, a renowned heritage resort in Gujarat.</li> <li>Overnight stay at Balaram Palace Resort.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the fourth day, embark on a cultural excursion to a Bharwad tribal village. The Bharwad community, traditionally shepherds and cattle herders, are known for their vibrant lifestyle and distinctive use of colors—especially blue, green, and white—in painting their homes. During your visit, you’ll have the chance to step into their homes and experience their everyday life, rich in tradition and simplicity. Some members of the community have also ventured into the diamond cutting and polishing industry, and you’ll get a unique opportunity to observe this intricate craft. Later, visit a local camel-breeding farm, famed for producing high-quality camels. Return for an overnight stay in Utellia.</li></div><div class='img-flex-center'><img src='/images/25/5.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "5"
@@ -4714,7 +4714,7 @@
                         "S": "Balaram Excursion to the Gowala and Garasia Tribal Regions"
                     },
                     "description": {
-                        "S": "<li>Visit the Gowala and Garasia tribes, located in the hills bordering Gujarat and Rajasthan.</li> <li>The Gowalas are more settled, while the Garacia are nomadic, with distinct cultural traditions.</li> <li>Women in these tribes dress differently, with Garacia women wearing less ornate attire compared to the Gowala women.</li> <li>Explore these tribes’ unique cultures, and enjoy a private tribal dance performance in the evening.</li> <li>Overnight stay in Balaram.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the sixth day, set out on an enriching excursion to the tribal regions of the Gowala and Garasia communities, located in the scenic hills straddling the Gujarat-Rajasthan border. The Gowalas are a more settled community, while the Garasias maintain a nomadic lifestyle, each preserving distinct customs and traditions. Observe the differences in attire—Gowala women often wear more ornate clothing, whereas Garasia women favor simpler dress styles. Immerse yourself in their vibrant cultures, interact with locals, and gain insight into their daily lives. In the evening, enjoy a private tribal dance performance, offering a lively display of music and tradition. Overnight stay in Balaram.</li></div><div class='img-flex-center'><img src='/images/25/6.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "6"
@@ -4730,7 +4730,7 @@
                         "S": "Balaram to Patan and Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "<li>Today, drive to Patan, once the capital of medieval Gujarat, known for its Hindu and Jain architecture.</li> <li>Visit the 11th-century Rani-ki-Vav stepwell and meet one of the three families of Patola weavers, known for their intricate double ikkat weaving technique.</li> <li>Afterward, continue your journey to the Little Rann of Kutch and check-in at the Desert Courser Camp.</li> <li>Overnight stay at Desert Courser Camp.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the seventh day, depart from Balaram and drive to Patan, a historic city that once served as the capital of medieval Gujarat. Renowned for its exquisite Hindu and Jain architecture, Patan is home to the magnificent 11th-century Rani-ki-Vav, a UNESCO World Heritage stepwell known for its intricate carvings and architectural brilliance. While in Patan, you’ll also have the rare opportunity to meet one of the three remaining families of Patola weavers, masters of the intricate double ikkat technique—an ancient and highly revered art form. After this enriching cultural experience, continue your journey to the Little Rann of Kutch and check in at the Desert Courser Camp. Overnight stay at the camp.</li></div><div class='img-flex-center'><img src='/images/25/7.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "7"
@@ -4746,7 +4746,7 @@
                         "S": "Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "<li>Explore the Little Rann of Kutch, a vast salt flat and marshy terrain home to the endangered Asiatic Wild Ass.</li> <li>The region is also home to the nomadic Rabari and settled Banjara tribes.</li> <li>Spend the day exploring the wildlife and tribal culture of the area.</li> <li>Overnight stay at Desert Courser Camp.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the eighth day, immerse yourself in the unique landscape of the Little Rann of Kutch, a striking expanse of salt flats and marshlands that form one of India’s most unusual ecosystems. Begin your day with a wildlife safari to spot the rare and endangered Asiatic Wild Ass, native to this region and found nowhere else in the world. The area is also rich in birdlife and other desert fauna. In addition to its natural wonders, the region is home to the nomadic Rabari and settled Banjara tribes, known for their vibrant clothing, embroidery, and traditional lifestyles. Spend the day exploring both the wildlife and the tribal heritage of this fascinating region. Overnight stay at Desert Courser Camp.</li></div><div class='img-flex-center'><img src='/images/25/8.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "8"
@@ -4762,7 +4762,7 @@
                         "S": "Little Rann of Kutch to Bhuj"
                     },
                     "description": {
-                        "S": "<li>Today, embark on a scenic drive to Bhuj, the capital of the Kutch region.</li> <li>Along the way, if you are lucky, you might encounter migrating Rabari tribes.</li> <li>Check-in at your hotel in Bhuj for a four-night stay, where you will explore the diverse and colorful tribal culture of the region.</li> <li>Overnight stay in Bhuj.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the ninth day, set off on a scenic drive to Bhuj, the cultural heart of the Kutch region, known for its vibrant traditions, crafts, and tribal heritage. As you travel through the arid yet captivating landscape, keep an eye out—you may be fortunate enough to spot migrating Rabari tribes journeying with their livestock, a rare and authentic glimpse into nomadic life. Upon arrival in Bhuj, check in at your hotel for a four-night stay, which will serve as your base to explore the region's rich and diverse tribal cultures. Spend the evening at leisure. Overnight stay in Bhuj.</li></div><div class='img-flex-center'><img src='/images/25/9.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "9"
@@ -4778,7 +4778,7 @@
                         "S": "Bhuj – Exploring the Tribes of Kutch"
                     },
                     "description": {
-                        "S": "<li>The Rann of Kutch is home to many unique and vibrant tribes such as the Megwar, Samma, Jat, Mutwa, Ahir, and Rabari.</li> <li>Over the next few days, you will visit different tribal villages to witness their fascinating lifestyles and rich traditions.</li> <li>Also, explore Bhuj, which was severely affected by the 2001 earthquake.</li> <li>Visit the Old City, the Aina Mahal (Old Palace), the Prag Mahal (New Palace), and the Bharatiya Folk Museum, which showcases tribal life.</li> <li>Meet an artist who still practices the ancient Rogan painting technique.</li> <li>Overnight stay in Bhuj.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the tenth day, begin your immersive exploration of the Rann of Kutch, a region renowned for its vibrant tribal communities such as the Megwar, Samma, Jat, Mutwa, Ahir, and Rabari. Each tribe boasts distinct customs, attire, and artistic traditions that contribute to the cultural mosaic of Kutch. You’ll start visiting these tribal villages over the next few days, gaining firsthand insight into their way of life. Later, explore the historic city of Bhuj, which has resiliently recovered from the devastating 2001 earthquake. Visit key landmarks including the Old City, the elegant Aina Mahal, the majestic Prag Mahal, and the Bharatiya Folk Museum, which vividly captures tribal heritage. Conclude your day by meeting a local artist who still practices the rare and ancient art of Rogan painting. Overnight stay in Bhuj.</li></div><div class='img-flex-center'><img src='/images/25/10.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "10"
@@ -4794,7 +4794,7 @@
                         "S": "Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "<li>Take another excursion to explore more tribal regions of Little Rann of Kutch, continuing your discovery of local cultures and traditions.</li> <li>Overnight stay in Bhuj.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the eleventh day, continue your cultural exploration with another excursion into the tribal regions of the Little Rann of Kutch. This journey offers deeper insight into the diverse communities that inhabit this stark yet beautiful landscape. Visit more remote villages to interact with local tribes and observe their daily routines, artistic expressions, and time-honored traditions. Each encounter reveals a unique facet of Kutch’s rich cultural mosaic, from embroidery and beadwork to mud-wall paintings and folklore. Return to Bhuj in the evening to relax and reflect on the day’s experiences. Overnight stay in Bhuj.</li></div><div class='img-flex-center'><img src='/images/25/11.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "11"
@@ -4810,7 +4810,7 @@
                         "S": "Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "<li>Another day of excursions to different tribal areas, where you’ll get further insight into the region's unique lifestyle and traditions.</li> <li>Overnight stay in Bhuj.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the twelfth day, continue your journey through the vibrant tribal heartland of the Little Rann of Kutch. Set out on excursions to different tribal villages, each offering a distinct window into the region's cultural richness. Witness traditional crafts, intricate embroidery, and the unique architecture of mud homes decorated with mirrors and motifs. Interact with local artisans and gain a deeper appreciation for their centuries-old customs and ways of life. These immersive experiences provide an intimate understanding of the resilience, beauty, and creativity of Kutch’s tribal communities. Return to Bhuj by evening. Overnight stay in Bhuj.</li></div><div class='img-flex-center'><img src='/images/25/12.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "12"
@@ -4826,7 +4826,7 @@
                         "S": "Bhuj to Mumbai"
                     },
                     "description": {
-                        "S": "<li>Enjoy a relaxed morning at leisure before transferring to Bhuj airport for your flight to Mumbai.</li> <li>Upon arrival in Mumbai, you will be met and transferred to your hotel.</li> <li>Overnight stay in Mumbai.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the thirteenth day, enjoy a relaxed morning at leisure in Bhuj, giving you time to unwind or reflect on the rich cultural journey through Gujarat. Later, transfer to Bhuj airport for your flight to Mumbai. Upon arrival in the bustling metropolis, you will be met by a representative and transferred to your hotel. The rest of the day is yours to enjoy at your own pace—perhaps take a short walk, sample some local cuisine, or simply relax at the hotel. Prepare for the final leg of your journey. Overnight stay in Mumbai.</li></div><div class='img-flex-center'><img src='/images/25/13.jpg' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "13"
@@ -4842,7 +4842,7 @@
                         "S": "Mumbai – Departure"
                     },
                     "description": {
-                        "S": "<li>After breakfast, you will be transferred to the international airport or railway station for your onward journey, taking with you beautiful memories of your Gujarat Tribal Tour.</li>"
+                        "S": "<div class='blog-flex-container'><div class='blog-flex-box'><li>On the fourteenth and final day, enjoy a leisurely breakfast at your hotel before checking out. You will then be transferred to the international airport or railway station for your onward journey. As you depart, you’ll carry with you lasting memories of the Gujarat Tribal Tour—an enriching experience filled with vibrant cultures, timeless traditions, warm hospitality, and the striking landscapes of western India. From ancient temples and majestic palaces to remote tribal villages and artistic encounters, the journey offers a deep and unforgettable connection to India’s diverse heritage. Safe travels and fond farewell!</li></div><div class='img-flex-center'><img src='/images/25/14.png' alt='Bikaner City Camel Festival' class='blog-image'></div></div>"
                     },
                     "Id": {
                         "N": "14"
