@@ -68,7 +68,7 @@ export default function BlogDetail({ blogId }: BlogDetailProps) {
                 <h1 className="text-[30px] text-left font-semibold mb-8 sm:text-[45px]">{blog.title}</h1>
 
                 {/* Hero Image */}
-                <div className="relative w-full h-[200px] h-[250px] sm:h-[600px] rounded-[40px] overflow-hidden mb-8">
+                <div className="relative w-full h-[200px] h-[250px] sm:h-[600px] rounded-[40px] overflow-hidden shadow-[0px_0px_2px_1px_#00000040] mb-8">
                     <Image src={blog.image} alt={blog.title} fill className="object-cover" priority />
                 </div>
 
