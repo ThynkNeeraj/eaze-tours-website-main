@@ -1,6 +1,9 @@
 interface IItineraryLineDataType {
     name: { [key: string]: string };
-    description: { [key: string]: string };
+    description: {
+        S: string | string[];
+        images?: { src: string; alt: string }[];
+      };      
     Id: { [key: string]: string };
     day: { [key: string]: string };
 }
@@ -22,9 +25,6 @@ interface IPackageDetailDataType {
     Description: string;
     NoOfRatings: number;
     Ratings: number;
-    Additional_Information: string;
-    Whats_Included: string;
-    Whats_excluded: string;
     Overview: string;
     Summary: string;
 }
