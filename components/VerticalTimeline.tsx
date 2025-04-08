@@ -64,9 +64,11 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                                     time={itinerary.M.day.N}
                                     title={itinerary.M.name.S}
                                     description={itinerary.M.description.S}
-                                    isLast={index === array.length - 1} // Pass true if it's the last element
+                                    images={itinerary.M.description.images}
+                                    isLast={index === array.length - 1}
                                 />
                             </li>
+
                         ))}
                     </ul>
                 </div>
