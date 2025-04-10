@@ -337,12 +337,6 @@ import package_30_7 from '../public/images/30/7.jpg'
 import package_30_8 from '../public/images/30/8.jpg'
 import package_30_9 from '../public/images/30/9.jpg'
 import package_30_10 from '../public/images/30/10.jpg'
-import package_31_1 from '../public/images/31/1.jpg'
-import package_31_2 from '../public/images/31/2.jpg'
-import package_31_3 from '../public/images/31/3.jpg'
-import package_31_4 from '../public/images/31/4.jpg'
-import package_31_5 from '../public/images/31/5.jpg'
-import package_31_6 from '../public/images/31/6.jpg'
 import package_32_1 from '../public/images/32/1.jpg'
 import package_32_2 from '../public/images/32/2.jpg'
 import package_32_3 from '../public/images/32/3.jpg'
@@ -426,11 +420,10 @@ const package_images: { [key: string]: { main: StaticImageData, list: Array<Stat
     "28": { main: package_28_3, list: [package_28_1, package_28_2, package_28_3, package_28_4, package_28_5, package_28_6, package_28_7, package_28_8, package_28_9] },
     "29": { main: package_29_5, list: [package_29_1, package_29_2, package_29_3, package_29_4, package_29_5, package_29_6, package_29_7, package_29_8, package_29_9, package_29_10, package_29_11, package_29_12, package_29_13, package_29_14] },
     "30": { main: package_30_1, list: [package_30_1, package_30_2, package_30_3, package_30_4, package_30_5, package_30_6, package_30_7, package_30_8, package_30_9, package_30_10] },
-    "31": { main: package_31_1, list: [package_31_1, package_31_2, package_31_3, package_31_4, package_31_5, package_31_6] },
     "32": { main: package_32_1, list: [package_32_1, package_32_2, package_32_3, package_32_4, package_32_5, package_32_6, package_32_7, package_32_8, package_32_9, package_32_10, package_32_11, package_32_12, package_32_13, package_32_14, package_32_15, package_32_16, package_32_17] },
     "33": { main: package_33_2, list: [package_33_1, package_33_2, package_33_3, package_33_4, package_33_5, package_33_6, package_33_7, package_33_8, package_33_9, package_33_10, package_33_11, package_33_12, package_33_13, package_33_14] },
     "34": { main: package_34_4, list: [package_34_2, package_34_3, package_34_4, package_34_5, package_34_6, package_34_7, package_34_8, package_34_9, package_34_10, package_34_11] },
-    "35": { main: package_35_5, list: [package_35_1, package_35_2, package_35_3, package_35_4, package_35_5, package_33_6] },
+    "35": { main: package_35_5, list: [package_35_1, package_35_2, package_35_3, package_35_4, package_35_5, package_35_6] },
 
 }
 
