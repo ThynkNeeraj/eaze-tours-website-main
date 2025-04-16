@@ -1,7 +1,7 @@
 'use client';
 
 import { FormEvent, useState } from 'react'
-
+import { useRouter } from 'next/navigation'
 
 export default function ContactUs() {
 
@@ -10,25 +10,25 @@ export default function ContactUs() {
     const [subject, setSubject] = useState('');
     const [message, setMessage] = useState('');
     const [showToast, setShowToast] = useState('hidden')
+    const router = useRouter();
 
     async function onSubmit(event: FormEvent<HTMLFormElement>) {
-        event.preventDefault()
+        event.preventDefault();
+
         await fetch('/api/email', {
             method: 'POST',
-            body: JSON.stringify({ "name": enquiryName, "email": email, "subject": subject, "message": message }),
-        })
+            body: JSON.stringify({ name: enquiryName, email, subject, message }),
+        });
 
         setEnquiryName('');
         setEmail('');
         setMessage('');
         setSubject('');
-        setShowToast('')
-
-        const timeoutId = setTimeout(() => {
+        setShowToast('');
+        setTimeout(() => {
             setShowToast('hidden');
-        }, 5000);
-
-        return () => clearTimeout(timeoutId)
+        }, 2000);
+        router.push('/thank-you');
 
     }
 
