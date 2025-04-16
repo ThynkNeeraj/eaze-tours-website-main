@@ -3,7 +3,7 @@ import PackageDetail from "../../../components/PackageDetail";
 import packageData from '../../../data/packages.json';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import Head from 'next/head';
+import Script from 'next/script';
 
 type Params = {
   params: Promise<{
@@ -155,12 +155,12 @@ export default async function Packages(props: Params) {
 
       return (
         <>
-          <Head>
-            <script
-              type="application/ld+json"
-              dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-            />
-          </Head>
+          <Script
+            id="tourist-trip-schema"
+            type="application/ld+json"
+            strategy="afterInteractive"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+          />
           <div className="mt-[78px] sm:mt-[135px]">
             <PackageDetail packageUri={packageUri} />
           </div>
