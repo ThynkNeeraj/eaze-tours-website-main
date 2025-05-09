@@ -56,12 +56,12 @@ function VerticalTimelineElement({
                             <div className="w-full flex items-center justify-center">
                                 {images.map((img, idx) => (
                                     <img
-                                        key={idx}
-                                        src={img.src}
-                                        alt={img.alt}
-                                        className="rounded-[20px] object-cover h-full w-full sm:w-auto max-h-[500px]"
-                                        loading="lazy"
-                                    />
+  key={idx}
+  src={img.src}
+  alt={img.alt}
+  className="rounded-[20px] object-cover w-full sm:w-auto max-h-[500px] min-h-[200px]"
+  loading="lazy"
+/>
                                 ))}
                             </div>
                         </div>
