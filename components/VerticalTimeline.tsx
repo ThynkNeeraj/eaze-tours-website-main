@@ -61,11 +61,16 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                         {tourPackage.Itinerary.map((itinerary, index, array) => (
                             <li key={itinerary.M.Id.N}>
                                 <VerticalTimelineElement
-                                    time={itinerary.M.day.N}
-                                    title={itinerary.M.name.S}
-                                    description={itinerary.M.description.S}
-                                    isLast={index === array.length - 1} // Pass true if it's the last element
-                                />
+    time={itinerary.M.day.N}
+    title={itinerary.M.name.S}
+    description={
+        Array.isArray(itinerary.M.description.S)
+            ? itinerary.M.description.S[0]
+            : itinerary.M.description.S || ""
+    }
+    images={itinerary.M.description.images || []}
+    isLast={index === array.length - 1}
+/>
                             </li>
                         ))}
                     </ul>
