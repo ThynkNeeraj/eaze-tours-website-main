@@ -3,7 +3,7 @@ interface IItineraryLineDataType {
     description: {
         S: string | string[];
         images?: { src: string; alt: string }[];
-      };      
+    };
     Id: { [key: string]: string };
     day: { [key: string]: string };
 }
@@ -27,6 +27,11 @@ interface IPackageDetailDataType {
     Ratings: number;
     Overview: string;
     Summary: string;
+}
+
+interface IPackageSummaryCardProp {
+    tourPackage: IPackageDetailDataType;
+    onSale: boolean;
 }
 
 interface ITestimonialDataType {
@@ -88,6 +93,7 @@ interface IBlogDataType {
     description: string;
     image: string;
     feature_image: string;
+    Page_heading: string;
     structure: IBlogStructure;
 }
 
@@ -105,4 +111,5 @@ export type {
     IBlogLinks,
     IBlogBulletPoint,
     IBlogSubheading,
+    IPackageSummaryCardProp,
 };
