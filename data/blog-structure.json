@@ -1,5 +1,72 @@
 [
   {
+    "url": "top-5-luxury-train-journeys-in-india-experience-royal-travel-with-eaze-tours",
+    "title": "Top 5 Luxury Train Journeys in India – Experience Royal Travel with Eaze Tours",
+    "Page_heading": "Top 5 Luxury Train Journeys You Should Experience in India",
+    "description": "Discover India’s most iconic luxury train journeys — from the Golden Chariot to Palace on Wheels. Explore royal destinations in unmatched style with Eaze Tours' curated experiences.",
+    "image": "/images/blogs/Main_image/Royal_Travel_with_Eaze_Tours.png",
+    "feature_image": "/images/blogs/Feature_image/Royal_Travel_with_Eaze_Tours.webp",
+    "structure": {
+      "introduction": {
+        "content": "If there’s one thing India does better than almost anywhere else, it’s blending luxury with culture. And honestly, what better way to soak it all in than aboard a luxury train? Imagine sipping your morning coffee as palaces, deserts, and ancient temples roll past your window. If that sounds like your kind of adventure, then keep reading — because these luxury train journeys in India aren’t just trips; they’re once-in-a-lifetime experiences. Here’s our handpicked list of the Top 5 Luxury Train Journeys you really shouldn’t miss."
+      },
+      "main_sections": [
+        {
+          "heading": "1. The Golden Chariot – South India's Hidden Gem",
+          "content": "First up, let's talk about the incredible {{LINK:golden_chariot:Golden Chariot Tour Package}}. If you think all the magic of India is only up north, you’re in for a big surprise. The Golden Chariot takes you through the heart of South India — from the gardens of Bangalore to the royal charm of Mysore, and all the way to the beaches of Goa. Lavishly decorated cabins, gourmet dining, and even a spa to unwind after a day of exploring UNESCO sites and wildlife sanctuaries. It’s luxury, heritage, and tropical bliss — all stitched together into one unforgettable journey.",
+          "links": [
+            {
+              "key": "golden_chariot",
+              "text": "Golden Chariot Tour Package",
+              "url": "/packages/golden-chariot-bangalore-mysore-goa-tour-package-india"
+            }
+          ]
+        },
+        {
+          "heading": "2. Palace on Wheels – Rajasthan’s Iconic Royal Journey",
+          "content": "The {{LINK:place_wheel:Palace on Wheels Tour Package}} — the name alone gives you a glimpse of what’s in store. If you’ve ever dreamt of living like a maharaja or maharani, this is your golden ticket. Imagine travelling through Rajasthan’s famous cities – Jaipur, Udaipur, Jodhpur, and more – in a moving palace, complete with amazing interiors and personal attendants to look after you. Every stop is a deep dive into India's rich past, grand forts, shimmering lakes, and bustling bazaars. And every moment onboard feels like stepping back into an era of opulence, but with all the modern comforts you could ever want.",
+          "links": [
+            {
+              "key": "place_wheel",
+              "text": "Palace on Wheels Tour Package",
+              "url": "/packages/palace-on-wheels-tour-package-india"
+            }
+          ]
+        },
+        {
+          "heading": "3. Royal Rajasthan on Wheels – Luxury, Reimagined",
+          "content": "Take everything that made the Palace on Wheels iconic — and dial it up a notch. The {{LINK:royal_wheel:Royal Rajasthan on Wheels}} is a newer and more luxurious train that offers a truly special and comfortable experience from beginning to end. Spacious suites, gourmet dining, onboard spa treatments — they’ve thought of everything. The journey itself reads like a dream — majestic forts, endless deserts, marble palaces, and vibrant cities, all waiting to be explored. This isn't just travel; it's storytelling through luxury.",
+          "links": [
+            {
+              "key": "royal_wheel",
+              "text": "Royal Rajasthan on Wheels",
+              "url": "/packages/royal-rajasthan-tour-package-india"
+            }
+          ]
+        },
+        {
+          "heading": "4. Maharajas' Express – The Crown Jewel of Train Journeys",
+          "content": "Often compared to the world’s finest luxury trains, it offers routes across Rajasthan and central India. While it’s magnificent, if you’re booking through Eaze Tours, your curated experiences like the Golden Chariot and Palace on Wheels are every bit as impressive — and even better suited for travellers who crave authentic storytelling with a personal touch."
+        },
+        {
+          "heading": "5. Rajasthan Tour Packages – For Those Who Want Luxury Their Way",
+          "content": "Maybe you love the idea of royal India but prefer to travel at your own pace? This is where Eaze Tours' Rajasthan Tour Packages really stand out. They offer you a luxurious land-based journey, five-star hotels, heritage havelis, personal guides, chauffeur-driven cars — everything customized to your taste. Whether it’s camel safaris in the Thar Desert, sunset boat rides in Udaipur, or strolling through Jaipur’s colourful streets, you’ll have the freedom to explore without a train schedule dictating your adventure."
+        }
+      ],
+      "conclusion": {
+        "heading": "Ready To Board The Journey Of A Lifetime?",
+        "content": "Luxury train journeys in India offer more than just a ride from one destination to another. They’re about the stories you’ll collect, the people you’ll meet, and the magic you’ll feel rolling through landscapes that have witnessed centuries of history. Whether it's the coastal beauty of the Golden Chariot Tour, the royal splendour of the Palace on Wheels, or the luxurious experience of the Royal Rajasthan on Wheels, or the tailor-made Rajasthan Tour Packages, India promises an experience that’s unforgettable. At Eaze Tours, we don’t just sell travel — we create adventures you’ll remember forever. {{LINK:home_page:Explore our luxury packages now and start your dream journey today!}}",
+        "links": [
+          {
+            "key": "home_page",
+            "text": "Explore our luxury packages now and start your dream journey today!",
+            "url": "https://www.eazetours.com/"
+          }
+        ]
+      }
+    }
+  },
+  {
     "url": "a-complete-guide-to-the-chardham-yatra-routes-temples-and-travel-tips",
     "Page_heading": "A Complete Guide to the Chardham Yatra: Routes, Temples, and Travel Tips",
     "title": "Chardham Yatra Guide : Routes, Temples &amp; Travel Tips | Eaze Tours",
@@ -270,31 +337,6 @@
             "See amazing animals in the wild – Bengal tigers, elephants, rhinos, leopards, and more.",
             "Enjoy thrilling jeep safaris – Get close to nature in an open jeep with expert guides.",
             "Support conservation efforts – By visiting these parks, you help protect wildlife and their habitats."
-          ]
-        },
-        {
-          "heading": "FAQs",
-          "subheadings": [
-            {
-              "title": "1. What is India's most tiger-rich national park?",
-              "content": "Bandhavgarh and Ranthambore offer some of the best chances to see tigers."
-            },
-            {
-              "title": "2. In India, when is the ideal season to go on a wildlife safari?",
-              "content": "October to June is ideal, with peak sightings in summer (March–May)."
-            },
-            {
-              "title": "3. Are Indian wildlife safaris safe?",
-              "content": "Yes, jungle safaris are conducted by trained guides following strict safety protocols."
-            },
-            {
-              "title": "4. Can I book a safari in advance?",
-              "content": "Yes, booking in advance is recommended, especially for popular parks like Ranthambore."
-            },
-            {
-              "title": "5. What should I carry for a safari?",
-              "content": "Light clothing, a hat, binoculars, a camera, and eco-friendly essentials."
-            }
           ]
         }
       ],
